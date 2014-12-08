@@ -1,0 +1,74 @@
+# ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES 
+
+Proposed as part of [Routledge's Companion Series](LINK HERE), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. It highlights how digital humanities happen beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Across more than fifty chapters, it also underscores the social, cultural, political, and embodied dimensions of new media production.  
+
+## AUDIENCE 
+
+The *Companion*'s intended audience includes advanced undergraduates as well as graduate students curious about conducting applied media studies, blending cultural criticism with computation, and enacting social justice work through new media. It assumes the intersections of media studies and digital humanities are usually opaque to most audiences, especially people who are new to either field. As such, the *Companion*'s emphasis is communicating key and compelling methodologies to students in the arts and humanities. 
+
+## COMPOSITION 
+
+The *Companion* does not assume the form of a textbook, encyclopedia, or keywords collection. As a guide, it instead gives its contributors opportunities to convey the relevance of their methodologies to an array of audiences. It also surveys important differences across the contributors' approaches, projects, settings, styles, and perspectives, without assuming a unified voice across the chapters. These chapters contain original material and are relatively brief (~4000 words each). 
+
+## CONTRIBUTORS AND DRAFT CHAPTER TITLES 
+
+Below is an [alphabetical list](list.md) of the *Companion*'s contributors together with their draft chapter titles. The chapter titles may change prior to publication by Routledge.
+* Bailey, Moya and Reina Gossett: "Social Justice Media and Digital Humanities: Forging a Future Together"
+* Balsamo, Anne: "Understanding Public Interactives: Studying Emergent Media Genres" 
+* Barnett, Fiona and Jacob Gaboury: "Computing Queerness" 
+* Bath, Jon, Alyssa Arbuckle, Alexander Christie, Constance Crompton, Raymond G. Siemens, and the INKE Research Team: "The Future(s) of the Book"
+* Belojevic, Nina and Shaun Macpherson: "Embodied Technologies: Physical Computing History, Practice, and Effects"
+* Benzon, Paul: "Archaeologies of Digital Absence: Erasure, Waste, and Shadow Materiality" 
+* Carter, Bryan: "Experiencing Digital Africana Studies: Bringing the Classroom to Life"
+* Christen Withey, Kimberly: "Relationships, Not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online" 
+* Coleman, Beth: "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media" 
+* Ellcessor, Elizabeth: "Gaps, Glitches, and Exclusions: Technology, Disability, and Access to the Digital Humanities"
+* Engel, Maureen: "Deep Mapping: Space, Place, and Narrative as Urban Interface"
+* Fisher, Caitlin: "Augmented Reality Storyworlds: Tools, Methods, and Haunted Objects"
+* Fitzpatrick, Kathleen: "Obsolescence, Innovation, and Digital Temporalities"
+* Flanagan, Mary: "Critical Play and Responsible Design"
+* Fuller, Matthew: "Software Studies Methods"
+* Gabrys, Jennifer: "Citizen Sensing, Environmental Monitoring, and 'Media' as an Encounter-in-Practice"
+* Gajjala, Radhika: "(Cyber)ethnographies of Contact, Dialogue, Friction: Connecting, Building, Placing, Doing 'Data'""
+* Grigar, Dene and Stuart Moulthrop: "Traversals: Documenting Experience in Electronic Literature"
+* Grusin, Richard A.: "Remediation as Methodology"
+* Habell-Pallán, Michelle, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre: "Women Who Rock the Digital Humanities: Lessons in Convivencia"
+* Hansson, Karin: "Power, Belonging, and Representation in Networks Online"
+* Hertz, Garnet and Amelia Guimarin: "Toy Hacking: The Opening and Bending of Black Boxes"
+* Jagoda, Patrick and Peter McDonald: "Affective Play and Experience Design"
+* Jones, Steven E.: "Turning Practice Inside Out: Digital Humanities and the Eversion"
+* Juhasz, Alex: "#cut/paste+bleed: Feminist Affect, Action, and Production Entangled On/Offline"
+* Jungnickel, Kat: "Making Things to Make Sense of Things: DIY as Research Subject and Practice"
+* Klein, Lauren F.: "Visualizing Big Data: Insight and Absence"
+* Knight, Kim Brillante: "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents"
+* Kraus, Kari: "Finding Faultlines: An Approach to Speculative Design"
+* Kuhn, Virginia: "Images on the Move: Analytics for a Mixed Methods Approach"
+* LaPensée, Elizabeth: "Indigenously-Determined Game Development"
+* Losh, Elizabeth and Jacque Wernimont: "Breaking Breadboards: Bringing Feminism to the Table"
+* Marino, Mark: "Reading Culture through Code"
+* Mattern, Shannon: "Scaffolding, Hard and Soft: Infrastructures as Critical and Generative Structures"
+* McPherson, Tara: "Computation for the Rest of Us"
+* Miyazaki, Shintaro: "Algorhythmics. An Approach to Timing and Signaling in Computation"
+* Morrison, Aimée: "Of, by, and for the Internet: New Media Studies and Public Scholarship"
+* Munster, Anna: "Conjunctive and Disjunctive Networks: How Bodies, Affects, Technologies, and Arts Generate Our Contemporary Experience of Relation"
+* Murray, Timothy and Madeleine Casad: "Archival Aspirations: Collecting New Media Art and the Challenges of Preservation"
+* Nieves, Angel: "Critical Engagements with Race, Memory, and the Built Environment: A Primer for the Digital Humanities"
+* Posner, Miriam: "Looking Forward, Working Backward: How to Reverse-Engineer a Digital Humanities Project"
+* Rambsy II, Howard: "Becoming a Rap Genius: African American Literary Studies and Crowd-Sourced Annotation"
+* Restrepo, Isabel: "Interactive Narratives: Addressing Social and Political Distress through New Media"
+* Risam, Roopika: "Post/Anti/De/Colonial Approaches to Digital Humanities"
+* Rodgers, Tara: "Approaching Sound"
+* Rosner, Daniela K.: "Tactile Media and Repair"
+* Salter, Anastasia: "Building Interactive Stories"
+* Schnapp, Jeffrey T.: "The Secret Lives of Objects"
+* Svensson, Patrik: "Contemporary and Future Spaces of Media Studies and Digital Humanities"
+* Szabo, Victoria: "Apprehending the Past: Spatial Media, Archives, and Cultural Memory"
+* Vee, Annette: "Programming as a Form of Literacy"
+* Wardrup-Fruin, Noah: "Expressive Processing: Interpretation and Creation"
+* Williams, Mark J.: "From Liveness to Real Time: Television Studies after the Internet"
+* Zinman, Gregory: "ICYMI: The Moving Image Online" 
+
+## EDITOR 
+
+Jentery Sayers is editing the *Companion*. He is Assistant Professor of English and Cultural, Social, and Political Thought, as well as Director of the Maker Lab in the Humanities, at the University of Victoria.   
+ 
