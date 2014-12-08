@@ -1,6 +1,6 @@
 # ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES 
 
-Proposed as part of [Routledge's Companion Series](LINK HERE), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. It highlights how digital humanities happen beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Across more than fifty chapters, it also underscores the social, cultural, political, and embodied dimensions of new media production.  
+Proposed as part of [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. It highlights how digital humanities happen beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Across more than fifty chapters, it also underscores the social, cultural, political, and embodied dimensions of new media production.  
 
 ## AUDIENCE 
 

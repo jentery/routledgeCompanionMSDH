@@ -1,6 +1,5 @@
 # Contributors and Draft Chapter Titles: ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES
 
-Below is an [alphabetical list](list.md) of the *Companion*'s contributors together with their draft chapter titles. The chapter titles may change prior to publication by Routledge.
 * Bailey, Moya and Reina Gossett: "Social Justice Media and Digital Humanities: Forging a Future Together"
 * Balsamo, Anne: "Understanding Public Interactives: Studying Emergent Media Genres" 
 * Barnett, Fiona and Jacob Gaboury: "Computing Queerness" 
