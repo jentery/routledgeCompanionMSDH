@@ -1,6 +1,6 @@
 # ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES 
 
-Proposed as part of [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how digital humanities research happens beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
+Proposed as part of the [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how digital humanities research happens beyond text: about, with, and through new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
 
 ## AUDIENCE 
 
@@ -8,7 +8,7 @@ The *Companion*'s intended audience includes advanced undergraduates as well as 
 
 ## COMPOSITION 
 
-The *Companion* does not assume the form of a textbook, encyclopedia, or keywords collection. As a guide, it instead gives its contributors opportunities to convey the relevance of their methodologies to an array of audiences. It also surveys important differences across the contributors' approaches, projects, settings, styles, and perspectives, without assuming a unified voice across the chapters. These chapters contain original material and are relatively brief (~4000 words each). 
+The *Companion* does not assume the form of a textbook, encyclopedia, or keywords collection. As a guide, it instead gives its contributors opportunities to convey the relevance of their methodologies and media practices to an array of audiences. It also surveys important differences across the contributors' approaches, projects, settings, styles, and perspectives, without assuming a unified voice across the chapters. These chapters contain original material and are relatively brief (~4000 words each). 
 
 ## STATUS 
 
@@ -16,7 +16,7 @@ The *Companion* is currently under contract with Routledge. The contributors and
 
 ## CONTRIBUTORS AND DRAFT CHAPTER TITLES 
 
-Below is an [alphabetical list](list.md) of the *Companion*'s contributors together with their draft chapter titles. The chapter titles may change prior to publication by Routledge.
+Below is an [alphabetical list](list.md) of the *Companion*'s contributors, together with their draft chapter titles. The chapter titles may change prior to publication with Routledge.
 * Bailey, Moya and Reina Gossett: "Social Justice Media and Digital Humanities: Forging a Future Together"
 * Balsamo, Anne: "Understanding Public Interactives: Studying Emergent Media Genres" 
 * Barnett, Fiona and Jacob Gaboury: "Computing Queerness" 
