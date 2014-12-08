@@ -1,6 +1,6 @@
 # ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES 
 
-Proposed as part of [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. It highlights how digital humanities happen beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Across more than fifty chapters, it also underscores the social, cultural, political, and embodied dimensions of new media production.  
+Proposed as part of [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how digital humanities research happens beyond text, both with and about new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
 
 ## AUDIENCE 
 
@@ -9,6 +9,10 @@ The *Companion*'s intended audience includes advanced undergraduates as well as 
 ## COMPOSITION 
 
 The *Companion* does not assume the form of a textbook, encyclopedia, or keywords collection. As a guide, it instead gives its contributors opportunities to convey the relevance of their methodologies to an array of audiences. It also surveys important differences across the contributors' approaches, projects, settings, styles, and perspectives, without assuming a unified voice across the chapters. These chapters contain original material and are relatively brief (~4000 words each). 
+
+## STATUS 
+
+The *Companion* is currently under contract with Routledge. The contributors and editor are aiming for publication in 2016. 
 
 ## CONTRIBUTORS AND DRAFT CHAPTER TITLES 
 
