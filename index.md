@@ -1,6 +1,6 @@
 # ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES 
 
-Proposed as part of the [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how digital humanities research happens beyond text: about, with, and through new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
+Proposed as part of the [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Routledge Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how media studies and digital humanities research happens beyond text: research about, with, and through new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
 
 ## AUDIENCE 
 
@@ -48,7 +48,7 @@ Below is an [alphabetical list](list.md) of the *Companion*'s contributors, toge
 * Kraus, Kari: "Finding Faultlines: An Approach to Speculative Design"
 * Kuhn, Virginia: "Images on the Move: Analytics for a Mixed Methods Approach"
 * LaPensée, Elizabeth: "Indigenously-Determined Game Development"
-* Losh, Elizabeth and Jacque Wernimont: "Breaking Breadboards: Bringing Feminism to the Table"
+* Losh, Elizabeth and Jacqueline Wernimont: "Breaking Breadboards: Bringing Feminism to the Table"
 * Marino, Mark: "Reading Culture through Code"
 * Mattern, Shannon: "Scaffolding, Hard and Soft: Infrastructures as Critical and Generative Structures"
 * McPherson, Tara: "Computation for the Rest of Us"
@@ -68,7 +68,7 @@ Below is an [alphabetical list](list.md) of the *Companion*'s contributors, toge
 * Svensson, Patrik: "Contemporary and Future Spaces of Media Studies and Digital Humanities"
 * Szabo, Victoria: "Apprehending the Past: Spatial Media, Archives, and Cultural Memory"
 * Vee, Annette: "Programming as a Form of Literacy"
-* Wardrup-Fruin, Noah: "Expressive Processing: Interpretation and Creation"
+* Wardrip-Fruin, Noah: "Expressive Processing: Interpretation and Creation"
 * Williams, Mark J.: "From Liveness to Real Time: Television Studies after the Internet"
 * Zinman, Gregory: "ICYMI: The Moving Image Online" 
 
