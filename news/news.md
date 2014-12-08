@@ -2,4 +2,4 @@
 
 # 8 December 2014 
 
-Today we [announced](index.md) the project and published this repository with GitHub. 
+Today we announced the project and published this repository with GitHub. 
