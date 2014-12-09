@@ -41,6 +41,7 @@
 * Murray, Timothy and Madeleine Casad: "Archival Aspirations: Collecting New Media Art and the Challenges of Preservation"
 * Nieves, Angel: "Critical Engagements with Race, Memory, and the Built Environment: A Primer for the Digital Humanities"
 * Posner, Miriam: "Looking Forward, Working Backward: How to Reverse-Engineer a Digital Humanities Project"
+* Priego, Ernesto: "Image, Text, Codex, Archive: Comics Scholarship in the Digital Humanities"
 * Rambsy II, Howard: "Becoming a Rap Genius: African American Literary Studies and Crowd-Sourced Annotation"
 * Restrepo, Isabel: "Interactive Narratives: Addressing Social and Political Distress through New Media"
 * Risam, Roopika: "Post/Anti/De/Colonial Approaches to Digital Humanities"
