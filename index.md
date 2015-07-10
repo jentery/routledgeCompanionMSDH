@@ -33,7 +33,7 @@ Below is an [alphabetical list](list.md) of the *Companion*'s contributors, toge
 * Flanagan, Mary: "Critical Play and Responsible Design"
 * Fuller, Matthew: "Software Studies Methods"
 * Gabrys, Jennifer: "Citizen Sensing, Environmental Monitoring, and 'Media' as an Encounter-in-Practice"
-* Gajjala, Radhika, Erika Behrmann, and Jeanette Dillon: "(Cyber)ethnographies of Contact, Dialogue, Friction: Connecting, Building, Placing, Doing 'Data'""
+* Gajjala, Radhika, Erika Behrmann, and Jeanette Dillon: "(Cyber)ethnographies of Contact, Dialogue, Friction: Connecting, Building, Placing, Doing 'Data'"
 * Grigar, Dene and Stuart Moulthrop: "Traversals: Documenting Experience in Electronic Literature"
 * Habell-Pallán, Michelle, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre: "Women Who Rock the Digital Humanities: Lessons in Convivencia"
 * Hansson, Karin: "Power, Belonging, and Representation in Networks Online"
