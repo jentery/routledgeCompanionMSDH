@@ -35,7 +35,6 @@ Below is an [alphabetical list](list.md) of the *Companion*'s contributors, toge
 * Gabrys, Jennifer: "Citizen Sensing, Environmental Monitoring, and 'Media' as an Encounter-in-Practice"
 * Gajjala, Radhika, Erika Behrmann, and Jeanette Dillon: "(Cyber)ethnographies of Contact, Dialogue, Friction: Connecting, Building, Placing, Doing 'Data'""
 * Grigar, Dene and Stuart Moulthrop: "Traversals: Documenting Experience in Electronic Literature"
-* Grusin, Richard A.: "Remediation as Methodology"
 * Habell-Pallán, Michelle, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre: "Women Who Rock the Digital Humanities: Lessons in Convivencia"
 * Hansson, Karin: "Power, Belonging, and Representation in Networks Online"
 * Hertz, Garnet and Amelia Guimarin: "Toy Hacking: The Opening and Bending of Black Boxes"
