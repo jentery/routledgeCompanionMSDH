@@ -21,6 +21,7 @@
 * Habell-Pallán, Michelle, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre: "Women Who Rock the Digital Humanities: Lessons in Convivencia"
 * Hansson, Karin: "Power, Belonging, and Representation in Networks Online"
 * Hertz, Garnet and Amelia Guimarin: "Toy Hacking: The Opening and Bending of Black Boxes"
+* Hoyt, Eric, Anthony Tran, Derek Long, Kit Hughes, and Kevin Ponto: “Searching, Mining, and Interpreting Media History’s Big Data"
 * Jagoda, Patrick and Peter McDonald: "Affective Play and Experience Design"
 * Jones, Steven E.: "Turning Practice Inside Out: Digital Humanities and the Eversion"
 * Juhasz, Alex: "#cut/paste+bleed: Feminist Affect, Action, and Production Entangled On/Offline"
