@@ -70,6 +70,7 @@ Below is an [alphabetical list](list.md) of the *Companion*'s contributors, toge
 * Wardrip-Fruin, Noah: "Expressive Processing: Interpretation and Creation"
 * Williams, Mark J.: "From Liveness to Real Time: Television Studies after the Internet"
 * Zinman, Gregory: "ICYMI: The Moving Image Online" 
+
 ## EDITOR 
 
 Jentery Sayers is editing the *Companion*. He is Assistant Professor of English and Cultural, Social, and Political Thought, as well as Director of the Maker Lab in the Humanities, at the University of Victoria.   
