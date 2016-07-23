@@ -54,16 +54,30 @@ Chapter 10. "Interactive Narratives: Addressing Social and Political Trauma thro
 
 > This chapter addresses the development of collective and unofficial dialogic spaces through new media as a way to engage social and political trauma and also facilitate mobilization towards healing and change. Specifically, it examines the creation of interactive narratives that go beyond words or written expression by integrating audience participation (physically and mentally) with different levels of impact. As a case study, it focuses on interactive narratives that use remote sensing technologies to track audience members' bodies and actions during art installations about the traumatic social and political circumstances surrounding people in Colombia, Argentina, and Mexico. 
 
-Chapter 11. 
+Chapter 11. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont and Elizabeth Losh
 
-## DESIGN, INTERFACE, INTERACTION
+> Abstract forthcoming
+
+Chapter 12. "Games Studies for Great Justice," by Amanda Phillips 
+
+> In the age of GamerGate, the "social justice warrior" has become a polarizing figure in gaming culture: a hero to some (who might prefer job classes like wizard or rogue instead), but an emblem of all that is wrong with political correctness to others. Videogames may seem a trivial object for those concerned with something so grand as cultural equity, but they are an increasingly important component of the media landscapes that shape the world around us. There are many disciplinary strategies for seeking justice, and the popular turmoil around videogames and social justice demands more attention and resources. This chapter offers five concrete suggestions for game studies academics to leverage their work for the greater good.
+
+Chapter 13. "Self-Determination in Indigenous Games," by Elizabeth LaPensée
+
+> Games are a powerful medium for expression, with their unique layering of play, story, art, and audio brought about through design and code. Self-determined Indigenous games could be considered what Anishinaabe writer, Gerald Vizenor, refers to as survivance--survival, endurance, and resistance. The award-winning platformer, Never Alone (developed for consoles and PCs by the Cook Inlet Tribal Council in collaboration with ally game company, E-Line Media), weaves a historical-traditional story into gameplay with Iñupiaq art, language, and teachings. The mobile game, Invaders (with art by Steven Paul Judd inspired by the classic arcade game, Space Invaders), represents colonization as an 8-bit alien invasion. Blood Quantum, a Real Time Strategy game (by Renee Nejo), which uses non-human droplet characters battling over communities, represents a statement about how blood quantum policies contribute to ongoing colonization. Looking at these games exemplifies the ways in which Indigenous culture and experiences bring about unique game design. 
+
+## II. Design, Interface, Interaction  
+
 8-10 chapters 
 
-## MEDIATION AND MATERIALITY
+## III. Mediation and Materiality 
+
 8-10 chapters 
 
-## REMEDIATION AND MEMORY 
+## IV. Remediation and Memory 
+
 12-14 chapters 
 
-## MAKING, PROGRAMMING, HACKING 
+## V. Processing, Programming, Hacking
+
 8-10 chapters 
