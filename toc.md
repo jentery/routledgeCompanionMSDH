@@ -12,7 +12,7 @@ The Companion is divided into five sections, including 53 chapters. All chapters
 
 By Jentery Sayers 
 
-## 1. Access, Praxis, Justice
+## I. Access, Praxis, Justice
 
 Chapter 1. "Theory/Practice: Lessons Learned from Feminist Film Studies," by Tara McPherson 
 
