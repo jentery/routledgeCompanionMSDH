@@ -28,7 +28,7 @@ Chapter 3. "Analog Girls in Digital Worlds: Dismantling Binaries for Digital Hum
 
 Chapter 4. "(Cyber)Ethnographies of Contact, Dialogue, Friction: Connecting, Building, Placing, and Doing 'Data,'" by Radhika Gajjala, Erika M Behrmann, and Jeanette Dillon
 
-> Abstract forthcoming
+> This chapter takes a look at questions of methods in the age of big data while asking questions about epistemic considertations and digital ontologies. The three co-authors discuss these issues in the context of cyberethnography and of building and doing data by using each of their research projects as points of entry. They write about global connections and frictions in three related contexts where millennials are engaged in philanthropy. Behrmann draws on an examination of the *Half the Sky* movement, Dillon draws on her study of college students engaged in social entrepreneurial projects, and Gajjala examines this intersection through a look at how do-it-yourself (DIY) prosumerism intersects with online microfinance.
 
 Chapter 5. "Of, By, and For the Internet: New Media Studies and Public Scholarship," by Aimée Morrison 
 
