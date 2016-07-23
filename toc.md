@@ -88,6 +88,15 @@ Chapter 18. "A Call to Action: Embodied Thinking and Human-Computer Interaction 
 
 > This chapter is not a guide to embodied thinking, but rather a critical call to action. It highlights the deep history of embodied practice within the fields of dance and somatics and outlines the value of embodied thinking within human-computer interaction (HCI) design. While there are strong parallels between the use of the term "embodiment" in both somatic (self-reflective) practices and the empirical (observational) practices most commonly cited in HCI design theory, the fundamental differences in methodology lead to striking differences in how embodiment is understood and used as a means of thinking. This chapter explores some of the pitfalls of only considering embodiment within the context of observation and articulates the potential for more thoughtful and ethical wearable technology (WT) design through somatic and dance-based practices.
 
+Chapter 19. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," by Kim A. Brillante Knight
+
+> Abstract forthcoming 
+
+Chapter 20. "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
+
+> Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing is there also a corollary smart subject? 
+
+
 ## III. Mediation and Materiality 
 
 8-10 chapters 
