@@ -42,6 +42,20 @@ Chapter 7. "Women Who Rock: Making Scenes, Building Communities (Convivencia and
 
 > Women Who Rock: Making Scenes, Building Communities (WWR) brings together scholars, musicians, media-makers, performers, artists, and activists to explore the role of women and popular music in the creation of cultural scenes that anchor social justice movements in the Amerícas and beyond. Our vision of digital humanities and media production is process-driven. Grounded in women-of-color feminist theorizing, WWR reshapes conventional understandings of music and cultural production by initiating decolonial methods of research, archiving, teaching, and community/scholarly collaboration. At WWR’s center is an oral history archive that ties together an annual community engagement unconference & film festival, and project-based graduate and undergraduate coursework. This chapter explores our experiences of "doing" digital humanities together through a method of convivencia and archivista praxis to develop a networked, digital archive hosted by the University of Washington Libraries.
 
+Chapter 8. "Decolonizing Digital Humanities in Theory and Practice," by Roopika Risam
+
+> The relationship between digital humanities and decolonization has become a popular one, representing a range of interventions. These include decolonizing digital archives, addressing representation in digital knowledge production, and using digital media to create spaces for voices that go unheard in dominant narratives of literature, history, and culture. This chapter examines the complex politics of decolonization in digital humanities. It begins by considering how discourses of decolonization have been deployed in the context of digital humanities and situating them in postcolonial theory and science and technology studies. The chapter then explores digital humanities projects that participate in decolonizing knowledge production. In doing so, it makes the case for culturally located approaches to digital humanities that resist reinscribing the politics of colonialism.
+
+Chapter 9. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor
+
+> Disability poses a challenge to academic uses of digital media technologies. It is a "glitch," a moment in which things do not work as they should, as is often the case when digital media are inaccessible to disabled people. This chapter begins with that "glitch," asking how it might cause us to reflect on the ways in which technological design privileges and excludes different people. Using literature on disability and digital media and drawing on universal design for learning, the chapter proposes three avenues by which digital humanities may promote inclusive academic environments: humanistic analysis, critically engaged praxis, and direct advocacy.
+
+Chapter 10. "Interactive Narratives: Addressing Social and Political Trauma through New Media," by Isabel Cristina Restrepo Acevedo
+
+> This chapter addresses the development of collective and unofficial dialogic spaces through new media as a way to engage social and political trauma and also facilitate mobilization towards healing and change. Specifically, it examines the creation of interactive narratives that go beyond words or written expression by integrating audience participation (physically and mentally) with different levels of impact. As a case study, it focuses on interactive narratives that use remote sensing technologies to track audience members' bodies and actions during art installations about the traumatic social and political circumstances surrounding people in Colombia, Argentina, and Mexico. 
+
+Chapter 11. 
+
 ## DESIGN, INTERFACE, INTERACTION
 8-10 chapters 
 
