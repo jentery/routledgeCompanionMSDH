@@ -94,8 +94,15 @@ Chapter 19. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents,
 
 Chapter 20. "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
 
-> Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing is there also a corollary smart subject? 
+> Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing, is there also a corollary smart subject? 
 
+Chapter 21. "Deep Mapping: Space, Place, and Narrative as Urban Interface," by Maureen Engel 
+
+> Abstract forthcoming 
+
+Chapter 22. "Current and Future Spaces for Media Studies and Digital Humanities," by Patrik Svensson
+
+> This chapter looks at space as an institutional, critical, and creative category for media studies and digital humanities. Following a background section on space and knowledge production, a hypothetical merger between a digital humanities initiative and a media studies department explores some of the tensions and possibilities at play. A basic issue discussed throughout the chapter is the entanglement of conceptual foundations (goals and intentions) and material manifestations (physical and digital structures). This entanglement is discussed through a framework based on the notions of intellectual middleware and design principles. The final section looks at the question of whether there can be a shared vision of the two fields in question, including whether we might consider manifesting such a vision through shared space.
 
 ## III. Mediation and Materiality 
 
