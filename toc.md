@@ -68,7 +68,13 @@ Chapter 13. "Self-Determination in Indigenous Games," by Elizabeth LaPensée
 
 ## II. Design, Interface, Interaction  
 
-8-10 chapters 
+Chapter 14. "Making Meaning, Making Culture: How to Think about Technology and Cultural Reproduction," by Anne Balsamo 
+
+> Abstract forthcoming 
+
+Chapter 15. "Finding Fault Lines: An Approach to Speculative Design," by Kari Kraus 
+
+> This chapter proposes a classification system of the various subjunctive practices that unify otherwise disparate artists, inventors, historians, conservators, and others whose work involves imagining or inferring the unknown. The "speculative design" of my title refers to the output or end products of all eleven categories in the classification system. Thus, for example, a conjecturally restored painting, a reconstructed text, and a scientific simulation of a flu pandemic are all works of speculative design that fall under the respective categories of "restoration," "conjectural criticism," and "scientific prediction." Drawing on cognitive scientist Ruth Byrne’s notion of "fault lines in reality," I argue that the fractures and cracks--both literal and conceptual--in everyday objects and events yield the fragments that form the raw material of speculative design. I illustrate the method of fault lines and various types of subjunctive practice with the help of the Whereabouts Clock, a make-believe technology found in the Harry Potter universe that has crossed over to the real world as a hybrid, physical-digital object. The chapter closes with a set of workshop activities informed by the subjunctive practices, including the category of "speculative wear."
 
 ## III. Mediation and Materiality 
 
