@@ -34,6 +34,14 @@ Chapter 5. "Of, By, and For the Internet: New Media Studies and Public Scholarsh
 
 > This chapter proposes we must actively work to craft a new media studies of, by, and for the internet, one that must seek to transform rather than simply disrupt both scholarship and the broader social landscape, or our online scholarly practices will certainly reinscribe existing hierarchies and inequities. New media studies, of, by, and for the internet is not the abstract and utopian dream for perfect communication envisioned in the early 1990s, suited to more idealistic aims of seamless transmission of information. It is about whose speech is suppressed, by what means, and how this suppression can be countered. It is about the care work entailed in seeking social change, accounting for the toll this care work exacts, and sharing that load more equitably by extending material and emotional supports to those from whom this work demands the highest personal costs. I consider viral academic speech as offering the opportunity to develop and sustain new modes of "public/scholarship," beginning by examining a viral academic speech event that happened to me.
 
+Chapter 6. "Power, Deliberation, and Citizenship in Distributed Environments," by Karin Hansson
+
+> Abstract forthcoming 
+
+Chapter 7. "Women Who Rock: Making Scenes, Building Communities (Convivencia and Archivista Praxis for a Digital Era)," by Michelle Habell-Pallán, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre
+
+> Women Who Rock: Making Scenes, Building Communities (WWR) brings together scholars, musicians, media-makers, performers, artists, and activists to explore the role of women and popular music in the creation of cultural scenes that anchor social justice movements in the Amerícas and beyond. Our vision of digital humanities and media production is process-driven. Grounded in women-of-color feminist theorizing, WWR reshapes conventional understandings of music and cultural production by initiating decolonial methods of research, archiving, teaching, and community/scholarly collaboration. At WWR’s center is an oral history archive that ties together an annual community engagement unconference & film festival, and project-based graduate and undergraduate coursework. This chapter explores our experiences of "doing" digital humanities together through a method of convivencia and archivista praxis to develop a networked, digital archive hosted by the University of Washington Libraries.
+
 ## DESIGN, INTERFACE, INTERACTION
 8-10 chapters 
 
