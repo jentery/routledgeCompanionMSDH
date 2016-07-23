@@ -4,7 +4,7 @@ A collection of introductory essays edited by Jentery Sayers (University of Vict
 
 Routledge (manuscript complete; ~300,000 words; forthcoming) 
 
-Proposed volume in the *Routledge Companions* series 
+A volume in the *Routledge Companions* series 
 
 The Companion is divided into five sections, including 53 chapters. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies and digital humanities through praxis.  
 
