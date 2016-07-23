@@ -6,7 +6,7 @@ Routledge (manuscript complete; ~300,000 words; forthcoming)
 
 Proposed volume in the *Routledge Companions* series 
 
-The Companion is divided into five sections, including 53 chapters. All chapters are original material intended to introduce readers to the intersections of media studies and digital humanities through praxis.  
+The Companion is divided into five sections, including 53 chapters. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies and digital humanities through praxis.  
 
 # Introduction 
 
