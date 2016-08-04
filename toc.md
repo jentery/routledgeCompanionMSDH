@@ -16,7 +16,7 @@ By Jentery Sayers
 
 Chapter 1. "Theory/Practice: Lessons Learned from Feminist Film Studies," by Tara McPherson 
 
-> Abstract forthcoming
+> This chapter investigates possible relationships of theory to practice within digital humanities and media studies and also calls for a more politically engaged approach to both fields. It seeks to move beyond the binary framing of the DH slogan, “less yack, more hack,” by arguing for a more integrative and dialectical melding of making and critique. In particular, the piece turns to feminist film studies of the late 1970s to examine an earlier moment in media studies that sought to integrate media production, distribution, theory, and pedagogy toward expressly political ends. In conversation with contemporary feminist scholarship in new materialisms and digital media studies, it argues that practices of making can and should enrich our theoretical and discursive endeavors.
   
 Chapter 2. "#cut/paste+bleed: Entangling Feminist Affect, Action, and Production On and Offline," by Alexandra Juhasz 
 
