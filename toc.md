@@ -34,73 +34,69 @@ Chapter 5. "Of, By, and For the Internet: New Media Studies and Public Scholarsh
 
 > This chapter proposes we must actively work to craft a new media studies of, by, and for the internet, one that must seek to transform rather than simply disrupt both scholarship and the broader social landscape, or our online scholarly practices will certainly reinscribe existing hierarchies and inequities. New media studies, of, by, and for the internet is not the abstract and utopian dream for perfect communication envisioned in the early 1990s, suited to more idealistic aims of seamless transmission of information. It is about whose speech is suppressed, by what means, and how this suppression can be countered. It is about the care work entailed in seeking social change, accounting for the toll this care work exacts, and sharing that load more equitably by extending material and emotional supports to those from whom this work demands the highest personal costs. I consider viral academic speech as offering the opportunity to develop and sustain new modes of "public/scholarship," beginning by examining a viral academic speech event that happened to me.
 
-Chapter 6. "Power, Deliberation, and Citizenship in Distributed Environments," by Karin Hansson
-
-> Abstract forthcoming 
-
-Chapter 7. "Women Who Rock: Making Scenes, Building Communities (Convivencia and Archivista Praxis for a Digital Era)," by Michelle Habell-Pallán, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre
+Chapter 6. "Women Who Rock: Making Scenes, Building Communities (Convivencia and Archivista Praxis for a Digital Era)," by Michelle Habell-Pallán, Sonnet Retman, Angelica Macklin, and Monica DeLaTorre
 
 > Women Who Rock: Making Scenes, Building Communities (WWR) brings together scholars, musicians, media-makers, performers, artists, and activists to explore the role of women and popular music in the creation of cultural scenes that anchor social justice movements in the Amerícas and beyond. Our vision of digital humanities and media production is process-driven. Grounded in women-of-color feminist theorizing, WWR reshapes conventional understandings of music and cultural production by initiating decolonial methods of research, archiving, teaching, and community/scholarly collaboration. At WWR’s center is an oral history archive that ties together an annual community engagement unconference & film festival, and project-based graduate and undergraduate coursework. This chapter explores our experiences of "doing" digital humanities together through a method of convivencia and archivista praxis to develop a networked, digital archive hosted by the University of Washington Libraries.
 
-Chapter 8. "Decolonizing Digital Humanities in Theory and Practice," by Roopika Risam
+Chapter 7. "Decolonizing Digital Humanities in Theory and Practice," by Roopika Risam
 
 > The relationship between digital humanities and decolonization has become a popular one, representing a range of interventions. These include decolonizing digital archives, addressing representation in digital knowledge production, and using digital media to create spaces for voices that go unheard in dominant narratives of literature, history, and culture. This chapter examines the complex politics of decolonization in digital humanities. It begins by considering how discourses of decolonization have been deployed in the context of digital humanities and situating them in postcolonial theory and science and technology studies. The chapter then explores digital humanities projects that participate in decolonizing knowledge production. In doing so, it makes the case for culturally located approaches to digital humanities that resist reinscribing the politics of colonialism.
 
-Chapter 9. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor
+Chapter 8. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor
 
 > Disability poses a challenge to academic uses of digital media technologies. It is a "glitch," a moment in which things do not work as they should, as is often the case when digital media are inaccessible to disabled people. This chapter begins with that "glitch," asking how it might cause us to reflect on the ways in which technological design privileges and excludes different people. Using literature on disability and digital media and drawing on universal design for learning, the chapter proposes three avenues by which digital humanities may promote inclusive academic environments: humanistic analysis, critically engaged praxis, and direct advocacy.
 
-Chapter 10. "Interactive Narratives: Addressing Social and Political Trauma through New Media," by Isabel Cristina Restrepo Acevedo
+Chapter 9. "Interactive Narratives: Addressing Social and Political Trauma through New Media," by Isabel Cristina Restrepo Acevedo
 
 > This chapter addresses the development of collective and unofficial dialogic spaces through new media as a way to engage social and political trauma and also facilitate mobilization towards healing and change. Specifically, it examines the creation of interactive narratives that go beyond words or written expression by integrating audience participation (physically and mentally) with different levels of impact. As a case study, it focuses on interactive narratives that use remote sensing technologies to track audience members' bodies and actions during art installations about the traumatic social and political circumstances surrounding people in Colombia, Argentina, and Mexico. 
 
-Chapter 11. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont and Elizabeth Losh
+Chapter 10. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont and Elizabeth Losh
 
 > Abstract forthcoming
 
-Chapter 12. "Games Studies for Great Justice," by Amanda Phillips 
+Chapter 11. "Games Studies for Great Justice," by Amanda Phillips 
 
 > In the age of GamerGate, the "social justice warrior" has become a polarizing figure in gaming culture: a hero to some (who might prefer job classes like wizard or rogue instead), but an emblem of all that is wrong with political correctness to others. Videogames may seem a trivial object for those concerned with something so grand as cultural equity, but they are an increasingly important component of the media landscapes that shape the world around us. There are many disciplinary strategies for seeking justice, and the popular turmoil around videogames and social justice demands more attention and resources. This chapter offers five concrete suggestions for game studies academics to leverage their work for the greater good.
 
-Chapter 13. "Self-Determination in Indigenous Games," by Elizabeth LaPensée
+Chapter 12. "Self-Determination in Indigenous Games," by Elizabeth LaPensée
 
 > Games are a powerful medium for expression, with their unique layering of play, story, art, and audio brought about through design and code. Self-determined Indigenous games could be considered what Anishinaabe writer, Gerald Vizenor, refers to as survivance--survival, endurance, and resistance. The award-winning platformer, Never Alone (developed for consoles and PCs by the Cook Inlet Tribal Council in collaboration with ally game company, E-Line Media), weaves a historical-traditional story into gameplay with Iñupiaq art, language, and teachings. The mobile game, Invaders (with art by Steven Paul Judd inspired by the classic arcade game, Space Invaders), represents colonization as an 8-bit alien invasion. Blood Quantum, a Real Time Strategy game (by Renee Nejo), which uses non-human droplet characters battling over communities, represents a statement about how blood quantum policies contribute to ongoing colonization. Looking at these games exemplifies the ways in which Indigenous culture and experiences bring about unique game design. 
 
 ## II. Design, Interface, Interaction  
 
-Chapter 14. "Making Meaning, Making Culture: How to Think about Technology and Cultural Reproduction," by Anne Balsamo 
+Chapter 13. "Making Meaning, Making Culture: How to Think about Technology and Cultural Reproduction," by Anne Balsamo 
 
 > Abstract forthcoming 
 
-Chapter 15. "Finding Fault Lines: An Approach to Speculative Design," by Kari Kraus 
+Chapter 14. "Finding Fault Lines: An Approach to Speculative Design," by Kari Kraus 
 
 > This chapter proposes a classification system of the various subjunctive practices that unify otherwise disparate artists, inventors, historians, conservators, and others whose work involves imagining or inferring the unknown. The "speculative design" of my title refers to the output or end products of all eleven categories in the classification system. Thus, for example, a conjecturally restored painting, a reconstructed text, and a scientific simulation of a flu pandemic are all works of speculative design that fall under the respective categories of "restoration," "conjectural criticism," and "scientific prediction." Drawing on cognitive scientist Ruth Byrne’s notion of "fault lines in reality," I argue that the fractures and cracks--both literal and conceptual--in everyday objects and events yield the fragments that form the raw material of speculative design. I illustrate the method of fault lines and various types of subjunctive practice with the help of the Whereabouts Clock, a make-believe technology found in the Harry Potter universe that has crossed over to the real world as a hybrid, physical-digital object. The chapter closes with a set of workshop activities informed by the subjunctive practices, including the category of "speculative wear."
 
-Chapter 16. "Game Mechanics, Experience Design, and Affective Play," by Patrick Jagoda and Peter McDonald
+Chapter 15. "Game Mechanics, Experience Design, and Affective Play," by Patrick Jagoda and Peter McDonald
 
 > This chapter explores games as a major object of study in both new media theory and practice. Two primary critical approaches, organized around procedure and play, have dominated game studies in the early 2000s. This essay advocates a middle ground through a form of experience design that foregrounds the ways a game affects players and how players can be affected by it: experientially, kinesthetically, and ideologically. The main site for this elaboration of affect is game mechanics. A focus on mechanics helps us be attentive to the range of possible play experiences, including gradations and shadings of various named emotions and non-conscious intensities. A brief theoretical overview of major competing contemporary perspectives in game studies opens up into a consideration for using a practice-based research method to design learning-oriented and serious games in new media studies. The chapter draws from close readings of existing digital and analog games, as well as techniques developed through the creative process in the Game Changer Chicago Design Lab.
 
-Chapter 17. "Critical Play and Responsible Design," by Mary Flanagan 
+Chapter 16. "Critical Play and Responsible Design," by Mary Flanagan 
 
 > There is great interest in how games promote pro-social values, due to the impact other media forms have had toward a more progressive society. In light of the financial and cultural sway of games, designing and playing critically is an indispensable approach in the domain of applied media studies research and for engaging the social and cultural dimensions of digital games. Critical Play is a useful concept to media studies and digital humanities, for it interjects notions of critical thinking and values into both the examination of games and the creation of playful artifacts. Games can operate as attitude shifters, as platforms for exploring subjectivity, and as sites for community engagement and collective visioning. How games function as their own art form--and not mere delivery mechanisms or media--is essential to understanding the role they play in criticality and social impact.
 
-Chapter 18. "A Call to Action: Embodied Thinking and Human-Computer Interaction Design," by Jessica Rajko
+Chapter 17. "A Call to Action: Embodied Thinking and Human-Computer Interaction Design," by Jessica Rajko
 
 > This chapter is not a guide to embodied thinking, but rather a critical call to action. It highlights the deep history of embodied practice within the fields of dance and somatics and outlines the value of embodied thinking within human-computer interaction (HCI) design. While there are strong parallels between the use of the term "embodiment" in both somatic (self-reflective) practices and the empirical (observational) practices most commonly cited in HCI design theory, the fundamental differences in methodology lead to striking differences in how embodiment is understood and used as a means of thinking. This chapter explores some of the pitfalls of only considering embodiment within the context of observation and articulates the potential for more thoughtful and ethical wearable technology (WT) design through somatic and dance-based practices.
 
-Chapter 19. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," by Kim A. Brillante Knight
+Chapter 18. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," by Kim A. Brillante Knight
 
 > Abstract forthcoming 
 
-Chapter 20. "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
+Chapter 19. "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
 
 > Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing, is there also a corollary smart subject? 
 
-Chapter 21. "Deep Mapping: Space, Place, and Narrative as Urban Interface," by Maureen Engel 
+Chapter 20. "Deep Mapping: Space, Place, and Narrative as Urban Interface," by Maureen Engel 
 
 > Abstract forthcoming 
 
-Chapter 22. "Current and Future Spaces for Media Studies and Digital Humanities," by Patrik Svensson
+Chapter 21. "Current and Future Spaces for Media Studies and Digital Humanities," by Patrik Svensson
 
 > This chapter looks at space as an institutional, critical, and creative category for media studies and digital humanities. Following a background section on space and knowledge production, a hypothetical merger between a digital humanities initiative and a media studies department explores some of the tensions and possibilities at play. A basic issue discussed throughout the chapter is the entanglement of conceptual foundations (goals and intentions) and material manifestations (physical and digital structures). This entanglement is discussed through a framework based on the notions of intellectual middleware and design principles. The final section looks at the question of whether there can be a shared vision of the two fields in question, including whether we might consider manifesting such a vision through shared space.
 
