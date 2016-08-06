@@ -88,7 +88,7 @@ Chapter 18. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents,
 
 > Abstract forthcoming 
 
-Chapter 19. "Smart Things and Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
+Chapter 19. "Smart Things, Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
 
 > Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing, is there also a corollary smart subject? 
 
