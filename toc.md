@@ -102,7 +102,21 @@ Chapter 21. "Current and Future Spaces for Media Studies and Digital Humanities,
 
 ## III. Mediation and Materiality 
 
-8-10 chapters 
+Chapter 22. "Approaching Sound," by Tara Rodgers 
+
+> Sound is a material and cultural phenomenon that embodies and catalyzes a diffuse set of relations. It functions as both a carrier of cultural knowledge and an expressive medium modulated by individual and collaborative creativity. It is sound's relational aspects, and its dynamic modes of connecting and transecting individual elements and complex wholes, that make it resoundingly political. This chapter presents sound definitions, histories, and methods by examining soundmakers' work alongside key concepts in cultural studies of music and sound, proposing a range of possibilities for approaching sound creatively and critically. 
+
+Chapter 23. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams
+
+> Abstract forthcoming 
+
+Chapter 24. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn 
+
+> This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry such as close reading, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
+
+Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson 
+
+> Physical computing is broadly defined as the practice of combining hardware design with computer programming to create networked, interactive devices and environments. Most often associated with increasingly popular "maker cultures," it constructs interfaces between computers and bodies beyond the screen, mouse, and keyboard, which are most often associated with human-computer interaction (HCI). Since physical computing is an inherently embodied practice, it encourages practitioners to apply a reciprocal methodology whereby hands-on exploration is combined with the development of new discourses. This chapter explores physical computing and its potential application in critical studies of media, technology, and other scholarly inquiries via a brief introduction to the histories, practices, and effects that computers have on culture, society, and the physical world. 
 
 ## IV. Remediation and Memory 
 
