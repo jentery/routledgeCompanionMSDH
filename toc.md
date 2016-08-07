@@ -106,31 +106,31 @@ Chapter 22. "Approaching Sound," by Tara Rodgers
 
 > Sound is a material and cultural phenomenon that embodies and catalyzes a diffuse set of relations. It functions as both a carrier of cultural knowledge and an expressive medium modulated by individual and collaborative creativity. It is sound's relational aspects, and its dynamic modes of connecting and transecting individual elements and complex wholes, that make it resoundingly political. This chapter presents sound definitions, histories, and methods by examining soundmakers' work alongside key concepts in cultural studies of music and sound, proposing a range of possibilities for approaching sound creatively and critically. 
 
-Chapter 23. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams
+Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki 
 
 > Abstract forthcoming 
 
-Chapter 24. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn 
-
-> This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry such as close reading, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
-
-Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson 
+Chapter 24. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson 
 
 > Physical computing is broadly defined as the practice of combining hardware design with computer programming to create networked, interactive devices and environments. Most often associated with increasingly popular "maker cultures," it constructs interfaces between computers and bodies beyond the screen, mouse, and keyboard, which are most often associated with human-computer interaction (HCI). Since physical computing is an inherently embodied practice, it encourages practitioners to apply a reciprocal methodology whereby hands-on exploration is combined with the development of new discourses. This chapter explores physical computing and its potential application in critical studies of media, technology, and other scholarly inquiries via a brief introduction to the histories, practices, and effects that computers have on culture, society, and the physical world. 
 
-Chapter 26. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster 
+Chapter 25. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster 
 
 > As sociotechnical assemblages, networks are both singular and nonlocalised. They are constituted by standardized communicative protocols that operate across open architectures that make them available to artistic intervention, corporate takeover, and nonpartisan political ends. Yet the ways in which networks experience, as well as human experience in and of networks, must be thought in close proximity to questions of affect. For networks are not simply organizational forms or maps of aspects of contemporary life. They involve processes of joining with and disjoining from others, not to mention technical elements and their operations. This chapter takes affect, technics, and their relations as primary in the experience of online networked life and looks to the ways in which early online, artistic cultures experimented with these relations. My engagement with the critical networked culture of the late 1980s and early 1990s was formative in the development of my current approach to thinking through these relations as an "aesthesia" of networks. This concept approaches the experience of networks through technical, affective, human, and nonhuman elements. It sees the transitions and breaks in their relations as critical for an understanding of contemporary media and culture.
 
-Chapter 27. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki 
+Chapter 26. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams
 
 > Abstract forthcoming 
 
-Chapter 28. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon 
+Chapter 27. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn 
+
+> This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry such as close reading, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
+
+Chapter 28. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones 
 
 > Abstract forthcoming 
 
-Chapter 29. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones 
+Chapter 29. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon 
 
 > Abstract forthcoming 
 
