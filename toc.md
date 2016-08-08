@@ -140,8 +140,88 @@ Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures
 
 ## IV. Remediation and Memory 
 
-12-14 chapters 
+Chapter 31. "Obsolescence and Innovation in the Age of the Digital," by  Kathleen Fitzpatrick
+
+> Abstract forthcoming  
+
+Chapter 32. "New Media Arts: Creativity on the Way to the Archive," by Timothy Murray
+
+> Abstract forthcoming 
+
+Chapter 33. "The Intimate Lives of Cultural Objects," by Jeffrey Schnapp
+
+> Abstract forthcoming 
+
+Chapter 34.  "Timescape and Memory: Visualizing Big Data at the 9/11 Memorial Museum," by Lauren F. Klein
+
+> Abstract forthcoming 
+
+Chapter 35. "Searching, Mining, and Interpreting Media History’s Big Data," by Eric Hoyt, Anthony Tran, Derek Long, Kit Hughes, and Kevin Ponto
+
+> Abstract forthcoming 
+
+Chapter 36. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman
+
+> Abstract forthcoming 
+
+Chapter 37. "Apprehending the Past: Augmented Reality, Archives, and Cultural Memory," by Victoria Szabo
+
+> Abstract forthcoming 
+
+Chapter 38. "Traversals: A Method of Preservation for Born-Digital Texts," by Dene Grigar and Stuart Moulthrop
+
+> Abstract forthcoming 
+
+Chapter 39. "Relationships, Not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online," by Kimberly Christen Withey
+
+> Abstract forthcoming 
+
+Chapter 40. "Critical Engagements with Race, Memory, and the Built Environment: A Primer for the Digital Humanities," by Angel Nieves 
+
+> Abstract forthcoming 
+
+Chapter 41. "Experiencing Digital Africana Studies: Bringing the Classroom to Life," by Bryan Carter
+
+> Abstract forthcoming 
+
+Chapter 42. "Futures of the Book," by Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group
+
+> Abstract forthcoming 
+
+Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collaborative Annotation," by Howard Rambsy II
 
 ## V. Processing, Programming, Hacking
 
-8-10 chapters 
+Chapter 44. "Software Studies Methods," by Matthew Fuller
+
+> Abstract forthcoming 
+
+Chapter 45. "Programming as Literacy," by Annette Vee 
+
+> Abstract forthcoming 
+
+Chapter 46. "Reading Culture through Code," by Mark Marino 
+
+> Abstract forthcoming 
+
+Chapter 47. "Building Interactive Stories," by Anastasia Salter
+
+> Abstract forthcoming 
+
+Chapter 48. "Expressive Processing: Interpretation and Creation," by Noah Wardrip-Fruin
+
+> Abstract forthcoming 
+
+Chapter 49. "Critical Unmaking: Computing Queerness in the Digital Humanities," by Jacob Gaboury
+
+> Abstract forthcoming 
+
+Chapter 50. "Making Things to Make Sense of Things: DIY as Research​ Subject and Practice," by Kat Jungnickel
+
+> Abstract forthcoming 
+
+Chapter 51. "Sensing, Environmental Monitoring, and 'Media' as Practice in the Making," by Jennifer Gabrys
+
+> Abstract forthcoming 
+
+Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design Inquiry," by Daniela Rosner
