@@ -132,7 +132,7 @@ Chapter 28. "From Liveness to Real Time: Television Studies after the Internet,"
 
 Chapter 29. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn 
 
-> This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry such as close reading, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
+> This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
 
 Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures," by Shannon Mattern
 
