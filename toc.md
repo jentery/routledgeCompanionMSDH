@@ -192,7 +192,7 @@ Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collab
 
 > Abstract forthcoming 
 
-## V. Processing, Programming, Hacking
+## V. Making, Programming, Hacking
 
 Chapter 44. "Software Studies Methods," by Matthew Fuller
 
