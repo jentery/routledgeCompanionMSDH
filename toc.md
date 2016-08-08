@@ -112,7 +112,7 @@ Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation
 
 Chapter 24. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon 
 
-> Abstract forthcoming 
+> This essay traces the history of the flight recorder--the technology colloquially known as the black box--across the twentieth and twenty-first centuries, from its earliest photographic incarnations in the 1930s to current debates around wireless, cloud-based flight recording. Through this history, I treat the flight recorder as an exemplary object of media archaeology, a critical subfield of media studies that attends to issues such as obsolescence, forgetting, and nonlinear histories of technological change. Approaching the flight recorder through media archaeology illustrates the importance of storage and ephemerality to a critical approach to contemporary digital culture. If we take the flight recorder as a test case for these questions, we become more able to see the need for a perspective within media studies that attends to the complex materiality of the digital archive.
 
 Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson 
 
