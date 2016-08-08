@@ -190,6 +190,8 @@ Chapter 42. "Futures of the Book," by Jon Bath, Alyssa Arbuckle, Constance Cromp
 
 Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collaborative Annotation," by Howard Rambsy II
 
+> Abstract forthcoming 
+
 ## V. Processing, Programming, Hacking
 
 Chapter 44. "Software Studies Methods," by Matthew Fuller
@@ -225,3 +227,5 @@ Chapter 51. "Sensing, Environmental Monitoring, and 'Media' as Practice in the M
 > Abstract forthcoming 
 
 Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design Inquiry," by Daniela Rosner
+
+> Abstract forthcoming 
