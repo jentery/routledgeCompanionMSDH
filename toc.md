@@ -136,7 +136,7 @@ Chapter 29. "Images on the Move: Analytics for a Mixed Methods Approach," by Vir
 
 Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures," by Shannon Mattern
 
-> Abstract forthcoming 
+> Infrastructures are the networks and platforms--as well as the institutional structures and operations--that bring us goods and services, including communication and informational resources. Thinking about media and design through the framework of infrastructure enables us to expand the scale, historical scope, and material and social complexity through which we understand our mediated and designed environments and practices. Media and design work--both critical and creative--can not only promote infrastructural literacy, but can also contribute to the development of new, or better, infrastructural sytems that embody the values we want to define our society.  
 
 ## IV. Remediation and Memory 
 
