@@ -142,7 +142,7 @@ Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures
 
 Chapter 31. "Obsolescence and Innovation in the Age of the Digital," by  Kathleen Fitzpatrick
 
-> Abstract forthcoming  
+> The concepts *obsolescence* and *innovation* demonstrate not only a complex relationship between contemporary consumer culture and temporality (in which the past is somehow produced by the future) but also an equal complexity at the heart of contemporary cultural criticism (in which our ways of reading and understanding appear to require constant upgrades in order to stay current). This chapter explores the lenticular logic of obsolescence and innovation, in which each concept is defined by and inseparable from the other, and the effects that logic might have on our understanding of digital media and of ourselves in the act of engaging with it. 
 
 Chapter 32. "New Media Arts: Creativity on the Way to the Archive," by Timothy Murray
 
