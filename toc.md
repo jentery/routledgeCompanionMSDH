@@ -66,7 +66,7 @@ Chapter 12. "Self-Determination in Indigenous Games," by Elizabeth LaPensée
 
 Chapter 13. "Making Meaning, Making Culture: How to Think about Technology and Cultural Reproduction," by Anne Balsamo 
 
-> Abstract forthcoming 
+> Whereas many digital humanities projects focus on the creation of new applications and platforms, less frequently will these projects take into account the "infrastructuring" of cultural meanings. This chapter considers the challenge for digital humanities projects to manifest critical insights about the relationship between culture and technology. I promote a reproductive theory of technology as a framework for understanding the cultural implications of designing digital applications. This approach asserts that such projects must be considered not merely as technological applications, but rather as complex socio-techno-cultural assemblages that both replicate and reconfigure cultural understandings. To illustrate how these theoretical insights manifested in a specific project, I describe an interactive application called *AIDS Quilt Touch* that enables people to view, search, and annotate digital images of the AIDS Memorial Quilt. Designed by a distributed team of digital humanists, creative technologists, and public artists, the project unfolded as a hybrid media system focused on engaging members of the public in learning about an important work of cultural heritage. This chapter reflects on the *AIDS Quilt Touch* design process to identify how questions of culture eclipsed questions of technology. 
 
 Chapter 14. "Finding Fault Lines: An Approach to Speculative Design," by Kari Kraus 
 
