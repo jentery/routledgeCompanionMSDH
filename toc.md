@@ -6,7 +6,7 @@ Routledge (manuscript complete; ~300,000 words; forthcoming)
 
 A volume in the *Routledge Companions* series 
 
-The Companion consists of 53 chapters (including the introduction) and is divided into five sections. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies digital humanities, and cultural criticism through praxis. The average chapter is 5000-words-long.  
+The Companion consists of 53 chapters (including the introduction) and is divided into five sections. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies, digital humanities, and cultural criticism through praxis. The average chapter is 5000-words-long.  
 
 # Introduction 
 
