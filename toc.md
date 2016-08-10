@@ -138,7 +138,7 @@ Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures
 
 > Infrastructures are the networks and platforms--as well as the institutional structures and operations--that bring us goods and services, including communication and informational resources. Thinking about media and design through the framework of infrastructure enables us to expand the scale, historical scope, and material and social complexity through which we understand our mediated and designed environments and practices. Media and design work--both critical and creative--can not only promote infrastructural literacy, but can also contribute to the development of new, or better, infrastructural sytems that embody the values we want to define our society.  
 
-## IV. Remediation and Memory 
+## IV. Remediation, Data, Memory 
 
 Chapter 31. "Obsolescence and Innovation in the Age of the Digital," by  Kathleen Fitzpatrick
 
@@ -158,7 +158,7 @@ Chapter 34.  "*Timescape* and Memory: Visualizing Big Data at the 9/11 Memorial 
 
 Chapter 35. "Searching, Mining, and Interpreting Media History’s Big Data," by Eric Hoyt, Anthony Tran, Derek Long, Kit Hughes, and Kevin Ponto
 
-> Abstract forthcoming 
+> As search has become a key tool in how we conduct research, this chapter introduces Scaled Entity Search (SES), an alternative method to traditional keyword searching, and Arclight, a software platform for applying SES to media history sources (search.projectarclight.org/). In exploring how search works as a method, we highlight the potential strengths and limitations SES and Arclight can bring to historical research. SES enables users to perform searches for multiple entities simultaneously across a large body of documents, as well as a critical framework for interpreting their search results. With Arclight, users can employ the SES method, which allows them to visualize and examine how entities trend across the Media History Digital Library’s 1.5 million-page corpus. Using the popular Japanese American silent film actors, Sessue Hayakawa and Tsuru Aoki, as examples, we demonstrate how SES and Arclight can be productively applied to new historical questions and confirm and enrich existing historical scholarship.
 
 Chapter 36. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman
 
