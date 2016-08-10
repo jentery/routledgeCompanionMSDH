@@ -150,7 +150,7 @@ Chapter 32. "New Media Arts: Creativity on the Way to the Archive," by Timothy M
 
 Chapter 33. "The Intimate Lives of Cultural Objects," by Jeffrey Schnapp
 
-> Abstract forthcoming 
+> This chapter is concerned with the manifold ways in which cultural objects are represented, from the standardized data schemes that translate them into fields such as title, creator, date, place of creation, medium, and provenance to the representations (photographic and other) that seek to capture aspects of their existence or meaning. It argues for expanded modes of registration, record-making, and linking that thicken and enrich the experience of cultural objects, whether from an informational or social standpoint or the standpoint of the sensory data they convey, whether on the micro level (as individual physical things) or on the macro level (as elements within aggregates such as entire collections). In so doing, it suggests that the critical skills associated with traditional humanistic approaches to the art of description should be brought to bear both on data schemes as well as in the design of hybrid digital/analog experiences of objects in galleries and museums.
 
 Chapter 34.  "Timescape and Memory: Visualizing Big Data at the 9/11 Memorial Museum," by Lauren F. Klein
 
