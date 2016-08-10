@@ -162,7 +162,7 @@ Chapter 35. "Searching, Mining, and Interpreting Media History’s Big Data," by
 
 Chapter 36. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman
 
-> Abstract forthcoming 
+> The ever-increasing scale of online video offers both a challenge and opportunity to scholars and students of the moving image. How can we make sense of so much material, and how does online video shape our understanding of the history and theory of the moving image? This chapter sets out three conceptual rubrics to help us think through online video: viewing, content, and genre. An accounting of the developing relationships between viewers and producers, individuals and communities, humans and technology, and industry and consumers allows for a new understanding of how the moving image is changing in the 21st century.
 
 Chapter 37. "Apprehending the Past: Augmented Reality, Archives, and Cultural Memory," by Victoria Szabo
 
