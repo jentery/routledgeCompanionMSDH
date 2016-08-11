@@ -174,7 +174,7 @@ Chapter 38. "Traversals: A Method of Preservation for Born-Digital Texts," by De
 
 Chapter 39. "Relationships, Not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online," by Kimberly Christen Withey
 
-> Abstract forthcoming 
+> Although physical archives were never intended to be input, they are often defined as places where one deposits materials. Over the last ten years, however, with digital tools and platforms that rely on user-generated content growing in popularity, curation has been linked to an outward-facing public view. In digital humanities and media studies, using archival content or generating one’s own archive has become prevalent. Remixing content from online sources and mining archives for data are seen as beneficial forms of digital knowledge creation. What is marginalized in these practices are the histories of archival content creation, diverse ethical systems of knowledge management, and cultural values that highlight differential access to material. Examining Indigenous systems of knowledge sheds light on alternative forms of archival practices and opens another avenue for collaboration and digital production.
 
 Chapter 40. "Critical Engagements with Race, Memory, and the Built Environment: A Primer for the Digital Humanities," by Angel Nieves 
 
