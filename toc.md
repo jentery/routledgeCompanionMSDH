@@ -170,7 +170,7 @@ Chapter 37. "Apprehending the Past: Augmented Reality, Archives, and Cultural Me
 
 Chapter 38. "Traversals: A Method of Preservation for Born-Digital Texts," by Dene Grigar and Stuart Moulthrop
 
-> Abstract forthcoming 
+> This chapter describes a method of preserving works of digital creativity by documenting the experience of play, assembly, navigation, and co-performance that represents a traversal of the work in its original technical context. We discuss outcomes of *Pathfinders*, a multi-year project focusing on five works of early electronic literature. Traversals of these works, accompanied by oral history interviews, generate important insights into the nature and history of computational art. Considering the affordances and limits of traversals, we suggest ways to integrate our approach with other strategies of preservation, including archiving, migration, and emulation. 
 
 Chapter 39. "Relationships, Not Records: Digital Heritage and the Ethics of Sharing Indigenous Knowledge Online," by Kimberly Christen Withey
 
