@@ -186,7 +186,7 @@ Chapter 41. "Experiencing Digital Africana Studies: Bringing the Classroom to Li
 
 Chapter 42. "Futures of the Book," by Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group
 
-> Abstract forthcoming 
+> In this chapter, we examine the relationship between the printed book and the electronic book, but not as a progression from the old to the new. We begin by looking at how the electronic book has been shaped by understandings of printed books. Electronic text was initially created to encode pre-existing books and continues to carry traces of this materiality forward. As we reveal the depth of this influence it becomes clear that the e-book, and the infrastructure that supports it, have been built by those with a very narrow understanding of what a "book" is; an Amazon Kindle may be a marvelous tool for reading novels, but it should be remembered that novels themselves are a fairly recent development in the book's existence. In opposition to this singular definition of a book, we provide an example, the *Social Edition of the Devonshire Manuscript*, of how a more fulsome understanding of the socially and institutionally contingent forms that books (and authors, editors, and readers) have taken can result in an e-book that respects, reflects upon, and responds to the book in all its diversity.
 
 Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collaborative Annotation," by Howard Rambsy II
 
