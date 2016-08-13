@@ -48,7 +48,7 @@ Chapter 8. "A Glitch in the Tower: Academia, Disability, and Digital Humanities,
 
 Chapter 9. "Interactive Narratives: Addressing Social and Political Trauma through New Media," by Isabel Cristina Restrepo Acevedo
 
-> This chapter addresses the development of collective and unofficial dialogic spaces through new media as a way to engage social and political trauma and also facilitate mobilization towards healing and change. Specifically, it examines the creation of interactive narratives that go beyond words or written expression by integrating audience participation (physically and mentally) with different levels of impact. As a case study, it focuses on interactive narratives that use remote sensing technologies to track audience members' bodies and actions during art installations about the traumatic social and political circumstances surrounding people in Colombia, Argentina, and Mexico. 
+> This chapter addresses the development of collective and unofficial dialogic spaces through new media as a way to engage social and political trauma and also facilitate mobilization towards healing and change. Specifically, it examines the creation of interactive narratives that go beyond words or written expression by integrating audience participation (physically and mentally) with different levels of impact. As a case study, it focuses on interactive narratives that use remote sensing technologies to track audience members' bodies and actions during art installations about the traumatic social and political circumstances surrounding people in Colombia, Argentina, and Mexico.  
 
 Chapter 10. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont and Elizabeth Losh
 
