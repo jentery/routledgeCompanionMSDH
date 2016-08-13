@@ -86,7 +86,7 @@ Chapter 17. "A Call to Action: Embodied Thinking and Human-Computer Interaction 
 
 Chapter 18. "Wearable Interfaces, Networked Bodies, and Feminist Sleeper Agents," by Kim A. Brillante Knight
 
-> Abstract forthcoming 
+> In this chapter, I argue that one must account for the materiality of the body in the wearable interface. The wearable interface is a process enacted within an assemblage of dress-body-technology, with the potential to construct a radical cyborg subject. However, the current most ubiquitous form of wearable technology, the fitness tracker, fails to fulfill the cyborg's promise of kinship and affinity. Instead, it facilitates the myth of self-reliant neoliberal subjectivity. I examine alternative landscapes in which wearables might contribute to counterpublic formation through arts and design, as well as feminist epistemologies and critical making in the university classroom.
 
 Chapter 19. "Smart Things, Smart Subjects: How the 'Internet of Things' Enacts Pervasive Media," by Beth Coleman 
 
