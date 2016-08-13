@@ -190,7 +190,7 @@ Chapter 42. "Futures of the Book," by Jon Bath, Alyssa Arbuckle, Constance Cromp
 
 Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collaborative Annotation," by Howard Rambsy II
 
-> Abstract forthcoming 
+> This chapter explains the processes of using the crowd-sourced annotation site, Rap Genius, for pedagogical purposes in African American literature courses. The chapter first provides brief background on Genius and then summarizes the implementation of two "Becoming a Rap Genius" courses. Finally, it addresses the implications of offering students opportunities to take African American literature courses with a technological or online basis.  
 
 ## V. Making, Programming, Hacking
 
