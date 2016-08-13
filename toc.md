@@ -196,7 +196,7 @@ Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collab
 
 Chapter 44. "Software Studies Methods," by Matthew Fuller
 
-> Abstract forthcoming 
+> This chapter provides a short overview of some of the conceptual and practical methods developed in the interdisciplinary field of software studies. After assessing some of the contexts in which software studies arose, it briefly reviews technical, cultural, theoretical, and artistic means of understanding the nature of computational structures and processes and their role in the constitution of contemporary forms of life. It also addresses some of the controversies, points of differentiation, and critical articulations in the field as well as examples of key methodological tendencies. 
 
 Chapter 45. "Programming as Literacy," by Annette Vee 
 
