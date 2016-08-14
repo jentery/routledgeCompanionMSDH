@@ -212,7 +212,7 @@ Chapter 47. "Building Interactive Stories," by Anastasia Salter
 
 Chapter 48. "Expressive Processing: Interpretation and Creation," by Noah Wardrip-Fruin
 
-> Abstract forthcoming 
+> Software Studies approaches use humanities and/or social science methods and engage the specific operations of particular software--for purposes ranging from understanding digital culture to the development of procedural literacy and the creation of novel software. "Expressive processing" names a particular software studies approach that focuses on the (perhaps unconscious) ideas, as well as intellectual and material histories, expressed through the design and operation of computational processes. Using this approach to examine existing works can reveal something quite different from what software authors state publicly, as this chapter outlines with Abelson and Carroll's "Goldwater Machine." This approach can also help guide the creation of new works, complementing techniques such as playtesting and arts critique, as this chapter outlines with the social simulation storytelling game, *Prom Week*. Through such work, we can not only better understand the computational media that shapes our society, but also develop perspectives that can help us understand software more generally and find ways to extend what it can express.
 
 Chapter 49. "Critical Unmaking: Computing Queerness in the Digital Humanities," by Jacob Gaboury
 
