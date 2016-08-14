@@ -214,9 +214,9 @@ Chapter 48. "Expressive Processing: Interpretation and Creation," by Noah Wardri
 
 > Software Studies approaches use humanities and/or social science methods and engage the specific operations of particular software--for purposes ranging from understanding digital culture to the development of procedural literacy and the creation of novel software. "Expressive processing" names a particular software studies approach that focuses on the (perhaps unconscious) ideas, as well as intellectual and material histories, expressed through the design and operation of computational processes. Using this approach to examine existing works can reveal something quite different from what software authors state publicly, as this chapter outlines with Abelson and Carroll's "Goldwater Machine." This approach can also help guide the creation of new works, complementing techniques such as playtesting and arts critique, as this chapter outlines with the social simulation storytelling game, *Prom Week*. Through such work, we can not only better understand the computational media that shapes our society, but also develop perspectives that can help us understand software more generally and find ways to extend what it can express.
 
-Chapter 49. "Critical Unmaking: Computing Queerness in the Digital Humanities," by Jacob Gaboury
+Chapter 49. "Critical Unmaking: Computing Queerness in Digital Humanities," by Jacob Gaboury
 
-> Abstract forthcoming 
+> This essay explores the intersection of queer theory and critical practices in digital humanities, offering up a critique of our impulse toward productivity and making through an engagement with critical practices of unmaking. Engaging with queer discourses on the politics of failure alongside tactical and artistic practices in glitch studies, computer history, and critical code studies, the essay looks to model various modes of working with digital technologies to critique the ideological and technological assumptions that structure them. In acknowledging the challenge of making queer bodies, identities, and theories legible to digital media, the essay calls for further experimentation by scholars, artists, and students of digital humanities to think technology, sexuality, and identity together.
 
 Chapter 50. "Making Things to Make Sense of Things: DIY as Research​ Subject and Practice," by Kat Jungnickel
 
