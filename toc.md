@@ -208,7 +208,7 @@ Chapter 46. "Reading Culture through Code," by Mark Marino
 
 Chapter 47. "Building Interactive Stories," by Anastasia Salter
 
-> Abstract forthcoming 
+> Interactive stories sit at the intersection of many fields and forms, including games, comics, electronic literature, hypertext, and interactive fiction. An interactive story is any narrative-driven experience in which the reader becomes a user or player by becoming a participant in the work, usually through clicking, choosing, or exploring. This intersection has created many challenges in defining and recognizing interactive stories, as it often leads to grouping interactive stories that share particular platforms or technologies without recognizing the larger characteristics of a growing form. Building interactive stories requires considering narrative in terms of interaction and simulation, which can transform our relationship with a text and allow readers to explore choices and spaces. Open source platforms, including Twine and Inform 7, offer affordances and accessible methods for building procedural systems that take advantage of these structures for designing story-driven experiences.
 
 Chapter 48. "Expressive Processing: Interpretation and Creation," by Noah Wardrip-Fruin
 
