@@ -228,4 +228,4 @@ Chapter 51. "Sensing, Environmental Monitoring, and 'Media' as Practice in the M
 
 Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design Inquiry," by Daniela Rosner
 
-> Abstract forthcoming 
+> This chapter considers three projects of digital fabrication and the productivist and integrated approaches to design inquiry they set in motion. In reflecting on these cases and scholarship from media studies and digital humanities, I show how digital production becomes a means rather than an end, a mechanism by which researchers might mutually engage their sites of study. Using this integrated approach, I locate small-scale manufacturing prototypes in a wider historical context of "mimetic machinery": machines for mechanical reproduction that draw their symbolic power from a material connection with the phenomena represented.
