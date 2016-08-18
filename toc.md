@@ -120,7 +120,7 @@ Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun
 
 Chapter 26. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones 
 
-> Abstract forthcoming 
+> What William Gibson called the "eversion of cyberspace"--its turning inside out--provides a context for understanding the emergence of the new digital humanities (DH) around 2004-2008. Digital humanities practice has both contributed and responded to the eversion. What was once understood as a transcendent virtual reality is now experienced as a ubiquitous grid of data that we move through and interact with every day, a new perspective that calls on DH practice to engage the social, locative, embodied, and object-oriented nature of our experience in the networked world. 
 
 Chapter 27. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster 
 
