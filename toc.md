@@ -182,7 +182,7 @@ Chapter 40. "Critical Engagements with Race, Memory, and the Built Environment: 
 
 Chapter 41. "Experiencing Digital Africana Studies: Bringing the Classroom to Life," by Bryan Carter
 
-> Abstract forthcoming 
+> With attention to the Virtual Harlem project as well as to virtual reality (VR) and augmented reality (AR) technologies, this chapter outlines several approaches to teaching Digital Africana Studies. Creating memorable classroom experiences is an inherent part of every assignment in the Digital Africana Studies environment. Through interaction, engaging activities, experiential learning, and meaningful digital projects, it is possible to shape ideas about Africana topics that may have a better chance at becoming an inherent part of a learner’s consciousness. Digital Africana Studies not only teaches students about a culture; courses are also designed to connect and immerse students in a way different from traditional approaches to literature and history.  
 
 Chapter 42. "Futures of the Book," by Jon Bath, Alyssa Arbuckle, Constance Crompton, Alex Christie, Ray Siemens, and the INKE Research Group
 
