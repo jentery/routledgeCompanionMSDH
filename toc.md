@@ -96,7 +96,7 @@ Chapter 20. "Deep Mapping: Space, Place, and Narrative as Urban Interface," by M
 
 > Abstract forthcoming 
 
-Chapter 21. "Current and Future Spaces for Media Studies and Digital Humanities," by Patrik Svensson
+Chapter 21. "Contemporary and Future Spaces for Media Studies and Digital Humanities," by Patrik Svensson
 
 > This chapter looks at space as an institutional, critical, and creative category for media studies and digital humanities. Following a background section on space and knowledge production, a hypothetical merger between a digital humanities initiative and a media studies department explores some of the tensions and possibilities at play. A basic issue discussed throughout the chapter is the entanglement of conceptual foundations (goals and intentions) and material manifestations (physical and digital structures). This entanglement is discussed through a framework based on the notions of intellectual middleware and design principles. The final section looks at the question of whether there can be a shared vision of the two fields in question, including whether we might consider manifesting such a vision through shared space.
 
