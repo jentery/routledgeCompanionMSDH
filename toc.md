@@ -178,7 +178,7 @@ Chapter 39. "Relationships, Not Records: Digital Heritage and the Ethics of Shar
 
 Chapter 40. "Critical Engagements with Race, Memory, and the Built Environment: A Primer for the Digital Humanities," by Angel Nieves 
 
-> Abstract forthcoming 
+> Over the past decade, scholars and community leaders have experimented with the use of new digital technologies to tell the history of the anti-apartheid movement in South Africa. Technologies now at our disposal allow us to layer victim testimony in hypertexts using multiple tools for mapping, text mining, and 3-D visualizations. Digital humanities may also help analyze documentation so as to reconstruct and recover an alternative historical narrative in the face of conventional wisdom or officializing histories. The layering of the many narratives also helps lay bare the messiness of archive making, the methodologies of digital ethnography, and, in particular, the endangered nature of those archives across South Africa related to the Soweto Uprisings of June 1976.  
 
 Chapter 41. "Experiencing Digital Africana Studies: Bringing the Classroom to Life," by Bryan Carter
 
