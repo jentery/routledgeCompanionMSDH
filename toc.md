@@ -204,7 +204,7 @@ Chapter 45. "Programming as Literacy," by Annette Vee
 
 Chapter 46. "Reading Culture through Code," by Mark Marino 
 
-> Abstract forthcoming 
+> The analysis of source code is an emerging approach to interpreting digital texts. This chapter introduces the methodologies of Critical Code Studies (CCS), situates it within the landscape of media and technology studies, and models the interpretive practices through a few case studies to demonstrate how understanding source code can enrich readings of technoculture through electronic texts. 
 
 Chapter 47. "Building Interactive Stories," by Anastasia Salter
 
