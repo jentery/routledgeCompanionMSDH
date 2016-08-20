@@ -222,7 +222,7 @@ Chapter 50. "Making Things to Make Sense of Things: DIY as Research​ Subject a
 
 > Abstract forthcoming 
 
-Chapter 51. "Sensing, Environmental Monitoring, and 'Media' as Practice in the Making," by Jennifer Gabrys
+Chapter 51. "Environmental Sensing and 'Media' as Practice in the Making," by Jennifer Gabrys
 
 > Environmental sensors are proliferating for a range of uses within the wider context of the Internet of Things. Sensors are also being taken up as low-cost digital technologies that allow citizens to monitor their environments, collect data, and report on events such as pollution. These emerging sets of practices, often termed "citizen sensing," present new questions for how participation, sensing, and citizenship are understood and practiced within the context of digital media. Through a review of technologies, practices, and literature, this chapter outlines the newly developing area of citizen sensing and then discusses one research project, Citizen Sense, which undertakes a practice-based and participatory investigation into the possibilities and issues that arise with citizen sensing. Ultimately, the chapter suggests that citizen sensing presents new methods and approaches for understanding digital media in and through practice.
 
