@@ -166,7 +166,7 @@ Chapter 36. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman
 
 Chapter 37. "Apprehending the Past: Augmented Reality, Archives, and Cultural Memory," by Victoria Szabo
 
-> Abstract forthcoming 
+> This essay explores the state of, and potential for, mobile augmented reality (AR) for digital heritage applications within urban environments. It takes as its focus the notion that "apprehension" of the past serves as a valuable complement to traditional comprehension-based approaches to understanding historical sites. Drawing upon experiential learning theory, critical theories of space and place, and digital interaction design principles, it suggests that location-based or "situated" access to archival resources offers opportunities both for deeper visitor engagement with historic sites and urban spaces and for new, multimodal approaches to digital humanities project development. This approach explores sharing scholarly research and received knowledge on site and on location, while at the same time offering opportunities for active engagement for users. 
 
 Chapter 38. "Traversals: A Method of Preservation for Born-Digital Texts," by Dene Grigar and Stuart Moulthrop
 
