@@ -1,6 +1,4 @@
-News, Announcements, and Chapter Metadata for the ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES
+Routledge Companion to Media Studies and Digital Humanities 
 ======================
 
-This repository contains news, announcements, and chapter metadata related to the ROUTLEDGE COMPANION TO MEDIA STUDIES AND DIGITAL HUMANITIES, edited by Jentery Sayers. It does not contain any of the COMPANION's actual content, which will be published by Routledge. 
-
-[Learn more](index.md) about the COMPANION. 
+This repository contains the table of contents and chapter abstracts for the *Routledge Companion to Media Studies and Digital Humanities*, edited by Jentery Sayers.
