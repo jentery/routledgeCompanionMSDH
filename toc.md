@@ -1,4 +1,4 @@
-# The Routledge Companion to Media Studies and Digital Humanities 
+## The Routledge Companion to Media Studies and Digital Humanities 
 
 A collection of introductory essays edited by Jentery Sayers (University of Victoria) 
 
@@ -9,7 +9,7 @@ A volume in the [*Routledge Companions*](https://www.routledge.com/Routledge-Com
 The Companion consists of 53 chapters (including the introduction) by 71 authors and is divided into five sections. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies, digital humanities, and cultural criticism through praxis. The average chapter length is 5000 words. Each chapter is accompanied by recommendations for further reading. 
 
 ## Table of Contents (with abstracts) 
-* [Introduction](#introdution), by Jentery Sayers 
+* [Introduction](#introduction)
 * [I. Access, Praxis, Justice](#i-access-praxis-justice)
 * [II. Design, Interface, Interaction](#ii-design-interface-interaction) 
 * [III. Mediation, Method, Materiality](#iii-mediation-method-materiality)
