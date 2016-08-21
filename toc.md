@@ -110,37 +110,37 @@ Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation
 
 > This chapter offers an alternative approach to computation, with an emphasis on our senses (especially hearing) and the notion of algorhythmics, a neologism combining algorithm with rhythm. As a method, algorhythmics builds on Karen Barad's approach to diffraction and extends media theory through feminist thinking by prompting researchers to study media through other media. Via two examples, the chapter demonstrates how a sensitivity towards time-based processes, especially the rhythms of digital storage, transmission, and processing, might be useful for a critical understanding of digital cultures. It also provides some arguments for algorhythmics as a crucial method within digital humanities.
 
-Chapter 24. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon (Skidmore College) 
-
-> This essay traces the history of the flight recorder--the technology colloquially known as the black box--across the twentieth and twenty-first centuries, from its earliest photographic incarnations in the 1930s to current debates around wireless, cloud-based flight recording. Through this history, I treat the flight recorder as an exemplary object of media archaeology, a critical subfield of media studies that attends to issues such as obsolescence, forgetting, and nonlinear histories of technological change. Approaching the flight recorder through media archaeology illustrates the importance of storage and ephemerality to a critical approach to contemporary digital culture. If we take the flight recorder as a test case for these questions, we become more able to see the need for a perspective within media studies that attends to the complex materiality of the digital archive.
-
-Chapter 25. "Software Studies Methods," by Matthew Fuller (Goldsmiths, University of London) 
+Chapter 24. "Software Studies Methods," by Matthew Fuller (Goldsmiths, University of London) 
 
 > This chapter provides a short overview of some of the conceptual and practical methods developed in the interdisciplinary field of software studies. After assessing some of the contexts in which software studies arose, it briefly reviews technical, cultural, theoretical, and artistic means of understanding the nature of computational structures and processes and their role in the constitution of contemporary forms of life. It also addresses some of the controversies, points of differentiation, and critical articulations in the field as well as examples of key methodological tendencies. 
 
-Chapter 26. "Physical Computing, Embodied Practice," by Nina Belojevic (DDB Canada) and Shaun Macpherson (Crow Computing) 
+Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic (DDB Canada) and Shaun Macpherson (Crow Computing) 
 
 > Physical computing is broadly defined as the practice of combining hardware design with computer programming to create networked, interactive devices and environments. Most often associated with increasingly popular "maker cultures," it constructs interfaces between computers and bodies beyond the screen, mouse, and keyboard, which are most often associated with human-computer interaction (HCI). Since physical computing is an inherently embodied practice, it encourages practitioners to apply a reciprocal methodology whereby hands-on exploration is combined with the development of new discourses. This chapter explores physical computing and its potential application in critical studies of media, technology, and other scholarly inquiries via a brief introduction to the histories, practices, and effects that computers have on culture, society, and the physical world. 
 
-Chapter 27. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones (University of South Florida) 
+Chapter 26. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones (University of South Florida) 
 
 > What William Gibson called the "eversion of cyberspace"--its turning inside out--provides a context for understanding the emergence of the new digital humanities (DH) around 2004-2008. Digital humanities practice has both contributed and responded to the eversion. What was once understood as a transcendent virtual reality is now experienced as a ubiquitous grid of data that we move through and interact with every day, a new perspective that calls on DH practice to engage the social, locative, embodied, and object-oriented nature of our experience in the networked world. 
 
-Chapter 28. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster (University of New South Wales) 
+Chapter 27. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster (University of New South Wales) 
 
 > As sociotechnical assemblages, networks are both singular and nonlocalized. They are constituted by standardized communicative protocols that operate across open architectures that make them available to artistic intervention, corporate takeover, and nonpartisan political ends. Yet the ways in which networks experience, as well as human experience in and of networks, must be thought in close proximity to questions of affect. For networks are not simply organizational forms or maps of contemporary life. They involve processes of joining with and disjoining from others, not to mention technical elements and their operations. This chapter takes affect, technics, and their relations as primary in the experience of online networked life and looks to the ways in which early online, artistic cultures experimented with these relations. My engagement with the critical networked culture of the late 1980s and early 1990s was formative in the development of my current approach to thinking through these relations as an "aesthesia" of networks. This concept approaches the experience of networks through technical, affective, human, and nonhuman elements. It sees the transitions and breaks in their relations as critical for an understanding of contemporary media and culture.
 
-Chapter 29. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams (Dartmouth College) 
+Chapter 28. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams (Dartmouth College) 
 
 > Abstract forthcoming 
 
-Chapter 30. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) 
+Chapter 29. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) 
 
 > The ever-increasing scale of online video offers both a challenge and opportunity to scholars and students of the moving image. How can we make sense of so much material, and how does online video shape our understanding of the history and theory of the moving image? This chapter sets out three conceptual rubrics to help us think through online video: viewing, content, and genre. An accounting of the developing relationships between viewers and producers, individuals and communities, humans and technology, and industry and consumers allows for a new understanding of how the moving image is changing in the 21st century.
 
-Chapter 31. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn (University of Southern California) 
+Chapter 30. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn (University of Southern California) 
 
 > This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
+
+Chapter 31. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon (Skidmore College) 
+
+> This essay traces the history of the flight recorder--the technology colloquially known as the black box--across the twentieth and twenty-first centuries, from its earliest photographic incarnations in the 1930s to current debates around wireless, cloud-based flight recording. Through this history, I treat the flight recorder as an exemplary object of media archaeology, a critical subfield of media studies that attends to issues such as obsolescence, forgetting, and nonlinear histories of technological change. Approaching the flight recorder through media archaeology illustrates the importance of storage and ephemerality to a critical approach to contemporary digital culture. If we take the flight recorder as a test case for these questions, we become more able to see the need for a perspective within media studies that attends to the complex materiality of the digital archive.
 
 Chapter 32. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures," by Shannon Mattern (The New School) 
 
@@ -196,52 +196,48 @@ Chapter 44.  "*Timescape* and Memory: Visualizing Big Data at the 9/11 Memorial 
 
 > This chapter positions *Timescape* (Local Projects, 2014), a large-scale data visualization installed in the 9/11 Memorial Museum, as evidence of how humanistic inquiry must stand alongside data visualization and other computational practices if we are to most fully address the complexity of twenty-first-century daily life. I demonstrate how *Timescape*, and all data visualizations, must be analyzed on three levels: 1) at the level of the data-image, 2) at the level of data-processing, and 3) at the level of the dataset itself. By analyzing *Timescape* according to this scheme, I show how the piece must be interpreted so as to better understand the assumptions and arguments embedded in its design. I claim that the knowledge produced by data visualization is always partial, and that no quantity of data, however large, and however it might be visualized, can be made to represent the global impact of 9/11 in a single view. I conclude that *Timescape*, as a result of its relation to 9/11 as a media event, does not merely produce knowledge in the particular terms that its algorithms identify and visualize; it also represents the larger process of knowledge production itself.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## V. Making, Programming, Hacking
 
-
-
-Chapter 45. "Programming as Literacy," by Annette Vee 
+Chapter 45. "Programming as Literacy," by Annette Vee (University of Pittsburgh) 
 
 > "Computer programming is the new literacy," say countless popular articles on education. In fact, the claims for programming as a kind of literacy stretch back to the 1960s. Linking programming to literacy is rhetorically expeditious because literacy can be an argument for funding and political support. But connections between programming and writing are more than political savvy: like writing, programming is a symbolic system operating through an inscribed language and social contexts. This chapter introduces several influential projects that have posited programming as a literacy, provides logical reasons for these connections, points to several legal cases that demonstrate how programming functions like (and unlike) writing, and concludes by pointing to several ways the humanities can contribute to understandings of computer programming as part of the environment in which people now dwell and communicate. 
 
-Chapter 46. "Reading Culture through Code," by Mark Marino 
-
-> The analysis of source code is an emerging approach to interpreting digital texts. This chapter introduces the methodologies of Critical Code Studies (CCS), situates it within the landscape of media and technology studies, and models the interpretive practices through a few case studies to demonstrate how understanding source code can enrich readings of technoculture through electronic texts. 
-
-Chapter 47. "Building Interactive Stories," by Anastasia Salter
-
-> Interactive stories sit at the intersection of many fields and forms, including games, comics, electronic literature, hypertext, and interactive fiction. An interactive story is any narrative-driven experience in which the reader becomes a user or player by becoming a participant in the work, usually through clicking, choosing, or exploring. This intersection has created many challenges in defining and recognizing interactive stories, as it often leads to grouping interactive stories that share particular platforms or technologies without recognizing the larger characteristics of a growing form. Building interactive stories requires considering narrative in terms of interaction and simulation, which can transform our relationship with a text and allow readers to explore choices and spaces. Open source platforms, including Twine and Inform 7, offer affordances and accessible methods for building procedural systems that take advantage of these structures for designing story-driven experiences.
-
-Chapter 48. "Expressive Processing: Interpretation and Creation," by Noah Wardrip-Fruin
+Chapter 46. "Expressive Processing: Interpretation and Creation," by Noah Wardrip-Fruin (University of California, Santa Cruz) 
 
 > Software Studies approaches use humanities and/or social science methods and engage the specific operations of particular software--for purposes ranging from understanding digital culture to the development of procedural literacy and the creation of novel software. "Expressive processing" names a particular software studies approach that focuses on the (perhaps unconscious) ideas, as well as intellectual and material histories, expressed through the design and operation of computational processes. Using this approach to examine existing works can reveal something quite different from what software authors state publicly, as this chapter outlines with Abelson and Carroll's "Goldwater Machine." This approach can also help guide the creation of new works, complementing techniques such as playtesting and arts critique, as this chapter outlines with the social simulation storytelling game, *Prom Week*. Through such work, we can not only better understand the computational media that shapes our society, but also develop perspectives that can help us understand software more generally and find ways to extend what it can express.
 
-Chapter 49. "Critical Unmaking, or Queer Computation as a Radical Practice," by Jacob Gaboury
+Chapter 47. "Building Interactive Stories," by Anastasia Salter (University of Central Florida) 
+
+> Interactive stories sit at the intersection of many fields and forms, including games, comics, electronic literature, hypertext, and interactive fiction. An interactive story is any narrative-driven experience in which the reader becomes a user or player by becoming a participant in the work, usually through clicking, choosing, or exploring. This intersection has created many challenges in defining and recognizing interactive stories, as it often leads to grouping interactive stories that share particular platforms or technologies without recognizing the larger characteristics of a growing form. Building interactive stories requires considering narrative in terms of interaction and simulation, which can transform our relationship with a text and allow readers to explore choices and spaces. Open source platforms, including Twine and Inform 7, offer affordances and accessible methods for building procedural systems that take advantage of these structures for designing story-driven experiences.
+
+Chapter 48. "Reading Culture through Code," by Mark Marino (University of Southern California) 
+
+> The analysis of source code is an emerging approach to interpreting digital texts. This chapter introduces the methodologies of Critical Code Studies (CCS), situates it within the landscape of media and technology studies, and models the interpretive practices through a few case studies to demonstrate how understanding source code can enrich readings of technoculture through electronic texts. 
+
+Chapter 49. "Critical Unmaking, or Queer Computation as a Radical Practice," by Jacob Gaboury (Stony Brook University)
 
 > This essay explores the intersection of queer theory and critical practices in digital humanities, offering up a critique of our impulse toward productivity and making through an engagement with critical practices of unmaking. Engaging with queer discourses on the politics of failure alongside tactical and artistic practices in glitch studies, computer history, and critical code studies, the essay looks to model various modes of working with digital technologies to critique the ideological and technological assumptions that structure them. In acknowledging the challenge of making queer bodies, identities, and theories legible to digital media, the essay calls for further experimentation by scholars, artists, and students of digital humanities to think technology, sexuality, and identity together.
 
-Chapter 50. "Making Things to Make Sense of Things: DIY as Research​ Subject and Practice," by Kat Jungnickel
+Chapter 50. "Making Things to Make Sense of Things: DIY as Research​ Subject and Practice," by Katrina Jungnickel (Goldsmiths, University of London)
 
 > Abstract forthcoming 
 
-Chapter 51. "Environmental Sensing and 'Media' as Practice in the Making," by Jennifer Gabrys
+Chapter 51. "Environmental Sensing and 'Media' as Practice in the Making," by Jennifer Gabrys (Goldsmiths, University of London) 
 
 > Environmental sensors are proliferating for a range of uses within the wider context of the Internet of Things. Sensors are also being taken up as low-cost digital technologies that allow citizens to monitor their environments, collect data, and report on events such as pollution. These emerging sets of practices, often termed "citizen sensing," present new questions for how participation, sensing, and citizenship are understood and practiced within the context of digital media. Through a review of technologies, practices, and literature, this chapter outlines the newly developing area of citizen sensing and then discusses one research project, Citizen Sense, which undertakes a practice-based and participatory investigation into the possibilities and issues that arise with citizen sensing. Ultimately, the chapter suggests that citizen sensing presents new methods and approaches for understanding digital media in and through practice.
 
-Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design Inquiry," by Daniela Rosner
+Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design Inquiry," by Daniela Rosner (University of Washington) 
 
 > This chapter considers three projects of digital fabrication and the productivist and integrated approaches to design inquiry they set in motion. In reflecting on these cases and scholarship from media studies and digital humanities, I show how digital production becomes a means rather than an end, a mechanism by which researchers might mutually engage their sites of study. Using this integrated approach, I locate small-scale manufacturing prototypes in a wider historical context of "mimetic machinery": machines for mechanical reproduction that draw their symbolic power from a material connection with the phenomena represented.
+
+## Glossary of Methods and Methodologies 
+
+A glossary of methods and methodologies used by contributors to this volume, with brief definitions of each
+
+## Glossary of Projects 
+
+A glossary of projects referenced in this volume, with brief descriptions of each and URLs (where applicable) 
+
+## Glossary of Acronyms 
+
+A glossary of acronyms used in this volume, accomanied by the words they abbreviate 
