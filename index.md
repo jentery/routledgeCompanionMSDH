@@ -1,6 +1,6 @@
 ## Routledge Companion to Media Studies and Digital Humanities 
 
-Proposed as part of the [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Routledge Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how media studies and digital humanities happen beyond text: about, with, and through new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
+Part of the [Routledge Companions Series](http://www.routledge.com/books/series/ROUTCOMPS/), the *Routledge Companion to Media Studies and Digital Humanities* shares ways to argue about mediation through new media. Containing fifty+ chapters, it highlights how media studies and digital humanities happen beyond text: about, with, and through new media such as audio, film, television, videogames, databases, algorithms, and electronics. Anchored in arts and humanities perspectives, it also underscores the social, cultural, political, aesthetic, and embodied dimensions of new media production.  
 
 ## Audience 
 
@@ -12,7 +12,7 @@ The *Companion* does not assume the form of a textbook, encyclopedia, or keyword
 
 ## Staus
 
-The *Companion* is currently under contract with Routledge. The contributors and editor are aiming for publication in 2017. 
+The *Companion* is currently under contract with Routledge. The contributors and editor expect publication in 2017. 
 
 ## Table of Contents and Abstracts 
 
