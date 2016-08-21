@@ -106,35 +106,43 @@ Chapter 22. "Approaching Sound," by Tara Rodgers
 
 > Sound is a material and cultural phenomenon that embodies and catalyzes a diffuse set of relations. It functions as both a carrier of cultural knowledge and an expressive medium modulated by individual and collaborative creativity. It is sound's relational aspects, and its dynamic modes of connecting and transecting individual elements and complex wholes, that make it resoundingly political. This chapter presents sound definitions, histories, and methods by examining soundmakers' work alongside key concepts in cultural studies of music and sound, proposing a range of possibilities for approaching sound creatively and critically. 
 
-Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki 
+Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki (University of Applied Sciences and Arts Northwestern Switzerland)
 
 > This chapter offers an alternative approach to computation, with an emphasis on our senses (especially hearing) and the notion of algorhythmics, a neologism combining algorithm with rhythm. As a method, algorhythmics builds on Karen Barad's approach to diffraction and extends media theory through feminist thinking by prompting researchers to study media through other media. Via two examples, the chapter demonstrates how a sensitivity towards time-based processes, especially the rhythms of digital storage, transmission, and processing, might be useful for a critical understanding of digital cultures. It also provides some arguments for algorhythmics as a crucial method within digital humanities.
 
-Chapter 24. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon 
+Chapter 24. "Lost in the Clouds: A Media Theory of the Flight Recorder," by Paul Benzon (Skidmore College) 
 
 > This essay traces the history of the flight recorder--the technology colloquially known as the black box--across the twentieth and twenty-first centuries, from its earliest photographic incarnations in the 1930s to current debates around wireless, cloud-based flight recording. Through this history, I treat the flight recorder as an exemplary object of media archaeology, a critical subfield of media studies that attends to issues such as obsolescence, forgetting, and nonlinear histories of technological change. Approaching the flight recorder through media archaeology illustrates the importance of storage and ephemerality to a critical approach to contemporary digital culture. If we take the flight recorder as a test case for these questions, we become more able to see the need for a perspective within media studies that attends to the complex materiality of the digital archive.
 
-Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson 
+Chapter 25. "Software Studies Methods," by Matthew Fuller (Goldsmiths, University of London) 
+
+> This chapter provides a short overview of some of the conceptual and practical methods developed in the interdisciplinary field of software studies. After assessing some of the contexts in which software studies arose, it briefly reviews technical, cultural, theoretical, and artistic means of understanding the nature of computational structures and processes and their role in the constitution of contemporary forms of life. It also addresses some of the controversies, points of differentiation, and critical articulations in the field as well as examples of key methodological tendencies. 
+
+Chapter 26. "Physical Computing, Embodied Practice," by Nina Belojevic (DDB Canada) and Shaun Macpherson (Crow Computing) 
 
 > Physical computing is broadly defined as the practice of combining hardware design with computer programming to create networked, interactive devices and environments. Most often associated with increasingly popular "maker cultures," it constructs interfaces between computers and bodies beyond the screen, mouse, and keyboard, which are most often associated with human-computer interaction (HCI). Since physical computing is an inherently embodied practice, it encourages practitioners to apply a reciprocal methodology whereby hands-on exploration is combined with the development of new discourses. This chapter explores physical computing and its potential application in critical studies of media, technology, and other scholarly inquiries via a brief introduction to the histories, practices, and effects that computers have on culture, society, and the physical world. 
 
-Chapter 26. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones 
+Chapter 27. "Turning Practice Inside Out: The Digital Humanities and the Eversion," by Steven E. Jones (University of South Florida) 
 
 > What William Gibson called the "eversion of cyberspace"--its turning inside out--provides a context for understanding the emergence of the new digital humanities (DH) around 2004-2008. Digital humanities practice has both contributed and responded to the eversion. What was once understood as a transcendent virtual reality is now experienced as a ubiquitous grid of data that we move through and interact with every day, a new perspective that calls on DH practice to engage the social, locative, embodied, and object-oriented nature of our experience in the networked world. 
 
-Chapter 27. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster 
+Chapter 28. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts in the Experience of Relation," by Anna Munster (University of New South Wales) 
 
 > As sociotechnical assemblages, networks are both singular and nonlocalized. They are constituted by standardized communicative protocols that operate across open architectures that make them available to artistic intervention, corporate takeover, and nonpartisan political ends. Yet the ways in which networks experience, as well as human experience in and of networks, must be thought in close proximity to questions of affect. For networks are not simply organizational forms or maps of contemporary life. They involve processes of joining with and disjoining from others, not to mention technical elements and their operations. This chapter takes affect, technics, and their relations as primary in the experience of online networked life and looks to the ways in which early online, artistic cultures experimented with these relations. My engagement with the critical networked culture of the late 1980s and early 1990s was formative in the development of my current approach to thinking through these relations as an "aesthesia" of networks. This concept approaches the experience of networks through technical, affective, human, and nonhuman elements. It sees the transitions and breaks in their relations as critical for an understanding of contemporary media and culture.
 
-Chapter 28. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams
+Chapter 29. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams (Dartmouth College) 
 
 > Abstract forthcoming 
 
-Chapter 29. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn 
+Chapter 30. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) 
+
+> The ever-increasing scale of online video offers both a challenge and opportunity to scholars and students of the moving image. How can we make sense of so much material, and how does online video shape our understanding of the history and theory of the moving image? This chapter sets out three conceptual rubrics to help us think through online video: viewing, content, and genre. An accounting of the developing relationships between viewers and producers, individuals and communities, humans and technology, and industry and consumers allows for a new understanding of how the moving image is changing in the 21st century.
+
+Chapter 31. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn (University of Southern California) 
 
 > This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
 
-Chapter 30. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures," by Shannon Mattern
+Chapter 32. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures," by Shannon Mattern (The New School) 
 
 > Infrastructures are the networks and platforms--as well as the institutional structures and operations--that bring us goods and services, including communication and informational resources. Thinking about media and design through the framework of infrastructure enables us to expand the scale, historical scope, and material and social complexity through which we understand our mediated and designed environments and practices. Media and design work--both critical and creative--can not only promote infrastructural literacy, but can also contribute to the development of new, or better, infrastructural sytems that embody the values we want to define our society.  
 
@@ -160,9 +168,7 @@ Chapter 35. "Searching, Mining, and Interpreting Media History’s Big Data," by
 
 > As search has become a key tool in how we conduct research, this chapter introduces Scaled Entity Search (SES), an alternative method to traditional keyword searching, and Arclight, a software platform for applying SES to media history sources (search.projectarclight.org/). In exploring how search works as a method, we highlight the potential strengths and limitations SES and Arclight can bring to historical research. SES enables users to perform searches for multiple entities simultaneously across a large body of documents, as well as a critical framework for interpreting their search results. With Arclight, users can employ the SES method, which allows them to visualize and examine how entities trend across the Media History Digital Library’s 2 million-page corpus. Using the popular Japanese American silent film actors, Sessue Hayakawa and Tsuru Aoki, as examples, we demonstrate how SES and Arclight can be productively applied to new historical questions and confirm and enrich existing historical scholarship.
 
-Chapter 36. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman
 
-> The ever-increasing scale of online video offers both a challenge and opportunity to scholars and students of the moving image. How can we make sense of so much material, and how does online video shape our understanding of the history and theory of the moving image? This chapter sets out three conceptual rubrics to help us think through online video: viewing, content, and genre. An accounting of the developing relationships between viewers and producers, individuals and communities, humans and technology, and industry and consumers allows for a new understanding of how the moving image is changing in the 21st century.
 
 Chapter 37. "Apprehending the Past: Augmented Reality, Archives, and Cultural Memory," by Victoria Szabo
 
@@ -194,9 +200,7 @@ Chapter 43. "Becoming a Rap Genius: African American Literary Studies and Collab
 
 ## V. Making, Programming, Hacking
 
-Chapter 44. "Software Studies Methods," by Matthew Fuller
 
-> This chapter provides a short overview of some of the conceptual and practical methods developed in the interdisciplinary field of software studies. After assessing some of the contexts in which software studies arose, it briefly reviews technical, cultural, theoretical, and artistic means of understanding the nature of computational structures and processes and their role in the constitution of contemporary forms of life. It also addresses some of the controversies, points of differentiation, and critical articulations in the field as well as examples of key methodological tendencies. 
 
 Chapter 45. "Programming as Literacy," by Annette Vee 
 
