@@ -6,11 +6,13 @@ Routledge (manuscript complete; ~300,000 words; forthcoming)
 
 A volume in the [*Routledge Companions*](https://www.routledge.com/Routledge-Companions/book-series/ROUTCOMPS) series 
 
-The Companion consists of 53 chapters (including the introduction) and is divided into five sections. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies, digital humanities, and cultural criticism through praxis. The average chapter length is 5000 words. Each chapter is accompanied by recommendations for further reading. 
+The Companion consists of 53 chapters (including the introduction) by 71 authors and is divided into five sections. All chapters contain original material intended to introduce readers (especially students of media studies, cultural studies, and digital studies) to the intersections of media studies, digital humanities, and cultural criticism through praxis. The average chapter length is 5000 words. Each chapter is accompanied by recommendations for further reading. 
 
 # Introduction 
 
-By Jentery Sayers 
+By Jentery Sayers (University of Victoria) 
+
+> Abstract forthcoming 
 
 ## I. Access, Praxis, Justice
 
