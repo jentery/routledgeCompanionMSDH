@@ -243,12 +243,12 @@ Chapter 52. "Investigating the Spectacle of Digital Fabrication through Design I
 
 ## Glossary of Methods and Methodologies 
 
-A glossary of methods and methodologies used by contributors to this volume, with brief definitions of each
+> A glossary of methods and methodologies used by contributors to this volume
 
 ## Glossary of Projects 
 
-A glossary of projects referenced in this volume, with brief descriptions of each and URLs (where applicable) 
+> A glossary of projects referenced in this volume, with URLs where applicable 
 
 ## Glossary of Acronyms 
 
-A glossary of acronyms used in this volume, accomanied by the words they abbreviate 
+> A glossary of acronyms used in this volume
