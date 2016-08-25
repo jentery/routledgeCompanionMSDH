@@ -59,7 +59,7 @@ Chapter 8. "Interactive Narratives: Addressing Social and Political Trauma throu
 
 Chapter 9. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont (Arizona State University) and Elizabeth Losh (College of William and Mary) 
 
-> Abstract forthcoming
+> With the rise of popularity in hacker/makerspaces has come an old reproduction of inequality at the sites of innovation and education in which women, people of color, middle-aged and elderly citizens, queer and genderqueer people, and people with disabilities are affectively and/or economically excluded. This chapter leverages pedagogical case studies, including our summer course, Feminist Digital Humanities: Theoretical, Social, and Material Engagements around Making and Breaking Computational Media, to sketch out a vision of a "long maker table" that draws on the feminist performance art tradition to break into and break open makerspaces that have been traditionally coded as white, affluent, masculine spaces.
 
 Chapter 10. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor (Indiana University, Bloomington)
 
