@@ -137,9 +137,9 @@ Chapter 27. "Conjunctive and Disjunctive Networks: Affects, Technics, and Arts i
 
 > As sociotechnical assemblages, networks are both singular and nonlocalized. They are constituted by standardized communicative protocols that operate across open architectures that make them available to artistic intervention, corporate takeover, and nonpartisan political ends. Yet the ways in which networks experience, as well as human experience in and of networks, must be thought in close proximity to questions of affect. For networks are not simply organizational forms or maps of contemporary life. They involve processes of joining with and disjoining from others, not to mention technical elements and their operations. This chapter takes affect, technics, and their relations as primary in the experience of online networked life and looks to the ways in which early online, artistic cultures experimented with these relations. My engagement with the critical networked culture of the late 1980s and early 1990s was formative in the development of my current approach to thinking through these relations as an "aesthesia" of networks. This concept approaches the experience of networks through technical, affective, human, and nonhuman elements. It sees the transitions and breaks in their relations as critical for an understanding of contemporary media and culture.
 
-Chapter 28. "From Liveness to Real Time: Television Studies after the Internet," by Mark J. Williams (Dartmouth College) 
+Chapter 28. "From 'Live' to Real Time: On Future Television Studies," by Mark J. Williams (Dartmouth College) 
 
-> Abstract forthcoming 
+> This chapter surveys critical constructs and methodological differences within television studies as they relate to the challenges and opportunities posited by digital media and technologies. A key arc of consideration is the seemingly linear and arguably triumphalist progression from "live" to "real time," provisionally an arc from analog media to digital media. The chapter concludes with some example projects that combine television studies with approaches to streaming media and online participation.  
 
 Chapter 29. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) 
 
