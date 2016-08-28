@@ -221,7 +221,7 @@ Chapter 47. "Building Interactive Stories," by Anastasia Salter (University of C
 
 > Interactive stories sit at the intersection of many fields and forms, including games, comics, electronic literature, hypertext, and interactive fiction. An interactive story is any narrative-driven experience in which the reader becomes a user or player by becoming a participant in the work, usually through clicking, choosing, or exploring. This intersection has created many challenges in defining and recognizing interactive stories, as it often leads to grouping interactive stories that share particular platforms or technologies without recognizing the larger characteristics of a growing form. Building interactive stories requires considering narrative in terms of interaction and simulation, which can transform our relationship with a text and allow readers to explore choices and spaces. Open source platforms, including Twine and Inform 7, offer affordances and accessible methods for building procedural systems that take advantage of these structures for designing story-driven experiences.
 
-Chapter 48. "Reading Culture through Code," by Mark Marino (University of Southern California) 
+Chapter 48. "Reading Culture through Code," by Mark C. Marino (University of Southern California) 
 
 > The analysis of source code is an emerging approach to interpreting digital texts. This chapter introduces the methodologies of Critical Code Studies (CCS), situates it within the landscape of media and technology studies, and models the interpretive practices through a few case studies to demonstrate how understanding source code can enrich readings of technoculture through electronic texts. 
 
