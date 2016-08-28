@@ -10,7 +10,7 @@ The *Companion*'s intended audience includes advanced undergraduates as well as 
 
 The *Companion* does not assume the form of a textbook, encyclopedia, or keywords collection. As a guide, it instead gives its contributors opportunities to convey the relevance of their methodologies and media practices to an array of audiences. It also surveys important differences across the contributors' approaches, projects, settings, styles, and perspectives, without assuming a unified voice across the chapters. These chapters contain original material and are relatively brief (~5000 words each). 
 
-## Staus
+## Status
 
 The *Companion* is currently under contract with Routledge. The contributors and editor expect publication in 2017. 
 
