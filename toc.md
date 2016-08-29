@@ -13,7 +13,6 @@ The Companion consists of 53 chapters (including the introduction) by 71 authors
 * [III. Mediation, Method, Materiality](#iii-mediation-method-materiality)
 * [IV. Remediation, Data, Memory](#iv-remediation-data-memory) 
 * [V. Making, Programming, Hacking](#v-making-programming-hacking) 
-* [Glossary of Methods and Methodologies](#glossary-of-methods-and-methodologies) 
 * [Glossary of Projects](#glossary-of-projects) 
 * [Glossary of Acronyms](#glossary-of-acronyms) 
 
@@ -250,10 +249,6 @@ Chapter 51. "Environmental Sensing and 'Media' as Practice in the Making," by Je
 Chapter 52. "Approaching Design as Inquiry: Magic, Myth, and Metaphor in Digital Fabrication," by Daniela Rosner (University of Washington) 
 
 > This chapter considers three projects of digital fabrication and the productivist and integrated approaches to design inquiry they set in motion. In reflecting on these cases and scholarship from media studies and digital humanities, I show how digital production becomes a means rather than an end, a mechanism by which researchers might mutually engage their sites of study. Using this integrated approach, I locate small-scale manufacturing prototypes in a wider historical context of "mimetic machinery": machines for mechanical reproduction that draw their symbolic power from a material connection with the phenomena represented.
-
-## Glossary of Methods and Methodologies 
-
-> A glossary of methods and methodologies used by contributors to this volume
 
 ## Glossary of Projects 
 
