@@ -21,9 +21,11 @@ The Companion consists of 53 chapters (including the introduction) by 71 authors
 
 By Jentery Sayers (University of Victoria) 
 
-> Abstract forthcoming 
+> *The Companion to Media Studies and Digital Humanities* is about researching media through new media: for example, playing games to better understand their politics and mechanics, exhibiting new media art to witness how people engage it, building stories to become more familiar with their structures and narratives, making wearable technologies to explore the overlaps between norms and fashion, or developing software to examine its relation to writing and literacy. In this introduction, I survey some tensions and overlaps between media studies and digital humanities and then focus on four key areas emerging from their intersection in this companion: moving beyond text in digital humanities research, foregrounding the importance of collaboration and laboratories outside of the sciences, underscoring the need for cultural criticism and attention to social justice issues when working with technologies, and expanding what "intervention" and "research contribution" mean in a moment obsessed with "doing," "making," and "hacking." I conclude the introduction with an outline and rationale for each of the *Companion*'s five sections: Access, Praxis, Justice; Design, Interface, Interaction; Mediation, Method, Materiality; Remediation, Data, Memory; and Making, Programming, Hacking.  
 
 ## I. Access, Praxis, Justice
+
+This section highlights social justice issues that permeate the entirety of the *Companion*. It also demonstrates how social justice work is enacted through new media as a form of praxis, in part by expanding the definition of "access" through an emphasis on participation, but also by sharing various modes of activism involving new media.   
 
 Chapter 1. "Theory/Practice: Lessons Learned from Feminist Film Studies," by Tara McPherson (University of Southern California) 
 
@@ -75,6 +77,8 @@ Chapter 12. "Self-Determination in Indigenous Games," by Elizabeth LaPensée (Mi
 
 ## II. Design, Interface, Interaction  
 
+Design, interfaces, and interaction are too often considered additive, as if they are features layered over code just before release. Against such tendencies, this section exhibits the centrality of design to critical and creative inquiry with media. 
+
 Chapter 13. "Making Meaning, Making Culture: How to Think about Technology and Cultural Reproduction," by Anne Balsamo (University of Texas at Dallas) 
 
 > Whereas many digital humanities projects focus on the creation of new applications and platforms, less frequently will these projects take into account the "infrastructuring" of cultural meanings. This chapter considers the challenge for digital humanities projects to manifest critical insights about the relationship between culture and technology. I promote a reproductive theory of technology as a framework for understanding the cultural implications of designing digital applications. This approach asserts that such projects must be considered not merely as technological applications, but rather as complex socio-techno-cultural assemblages that both replicate and reconfigure cultural understandings. To illustrate how these theoretical insights manifested in a specific project, I describe an interactive application called *AIDS Quilt Touch* that enables people to view, search, and annotate digital images of the AIDS Memorial Quilt. Designed by a distributed team of digital humanists, creative technologists, and public artists, the project unfolded as a hybrid media system focused on engaging members of the public in learning about an important work of cultural heritage. This chapter reflects on the *AIDS Quilt Touch* design process to identify how questions of culture eclipsed questions of technology. 
@@ -112,6 +116,8 @@ Chapter 21. "Smart Things, Smart Subjects: How the 'Internet of Things' Enacts P
 > Known variously as "smart" technologies, ambient intelligence, and social machines, Internet of Things (IoT) technology extends our reach across networked information (internet and mobile computing) into the material world. There are objects such as "smart" cars that drive themselves and "smart" tiles that tell us where our dumb objects, such as keys and bikes, are hiding. This chapter asks, "What is the place of the human actor in this network of interactions and automated exchanges?" If there is an emergent smart thing, is there also a corollary smart subject? 
 
 ## III. Mediation, Method, Materiality 
+
+Instead of treating media as "containers" that transmit content, this section of the *Companion* attends to various forms of mediation, affect, and materiality important to humanities research. Many of the authors also translate mediation into a method for inquiry. Here, mediation is not something delegated to instruments or overwritten by research techniques; it is what prompts interesting questions. 
 
 Chapter 22. "Approaching Sound," by Tara Rodgers 
 
@@ -159,6 +165,8 @@ Chapter 32. "Scaffolding, Hard and Soft: Critical and Generative Infrastructures
 
 ## IV. Remediation, Data, Memory 
 
+In the humanities, how is media preserved? What role does it play in memory? When does it become "data"? And how does it change across formats over time? Moving between new and old media, the past and present, this section of the *Companion* addresses these questions and more.  
+
 Chapter 33. "Obsolescence and Innovation in the Age of the Digital," by Kathleen Fitzpatrick (Modern Language Association) 
 
 > The concepts *obsolescence* and *innovation* demonstrate not only a complex relationship between contemporary consumer culture and temporality (in which the past is somehow produced by the future) but also an equal complexity at the heart of contemporary cultural criticism (in which our ways of reading and understanding appear to require constant upgrades in order to stay current). This chapter explores the lenticular logic of obsolescence and innovation, in which each concept is defined by and inseparable from the other, and the effects that logic might have on our understanding of digital media and of ourselves in the act of engaging with it. 
@@ -203,11 +211,13 @@ Chapter 43. "The Intimate Lives of Cultural Objects," by Jeffrey Schnapp (Harvar
 
 > This chapter is concerned with the manifold ways in which cultural objects are represented, from the standardized data schemes that translate them into fields such as title, creator, date, place of creation, medium, and provenance to the representations (photographic and other) that seek to capture aspects of their existence or meaning. It argues for expanded modes of registration, record-making, and linking that thicken and enrich the experience of cultural objects, whether from an informational or social standpoint or the standpoint of the sensory data they convey, whether on the micro level (as individual physical things) or on the macro level (as elements within aggregates such as entire collections). In so doing, it suggests that the critical skills associated with traditional humanistic approaches to the art of description should be brought to bear both on data schemes as well as in the design of hybrid digital/analog experiences of objects in galleries and museums.
 
-Chapter 44.  "*Timescape* and Memory: Visualizing Big Data at the 9/11 Memorial Museum," by Lauren F. Klein (Georgia Institute of Technology)
+Chapter 44. "*Timescape* and Memory: Visualizing Big Data at the 9/11 Memorial Museum," by Lauren F. Klein (Georgia Institute of Technology)
 
 > This chapter positions *Timescape* (Local Projects, 2014), a large-scale data visualization installed in the 9/11 Memorial Museum, as evidence of how humanistic inquiry must stand alongside data visualization and other computational practices if we are to most fully address the complexity of twenty-first-century daily life. I demonstrate how *Timescape*, and all data visualizations, must be analyzed on three levels: 1) at the level of the data-image, 2) at the level of data-processing, and 3) at the level of the dataset itself. By analyzing *Timescape* according to this scheme, I show how the piece must be interpreted so as to better understand the assumptions and arguments embedded in its design. I claim that the knowledge produced by data visualization is always partial, and that no quantity of data, however large, and however it might be visualized, can be made to represent the global impact of 9/11 in a single view. I conclude that *Timescape*, as a result of its relation to 9/11 as a media event, does not merely produce knowledge in the particular terms that its algorithms identify and visualize; it also represents the larger process of knowledge production itself.
 
 ## V. Making, Programming, Hacking
+
+Practices such as making, programming, and hacking intertwine in many ways with writing, ethnography, and even archival work. Underscoring the critical and creative dimensions of these practices, this section surveys noninstrumentalist approaches to code, platforms, and machines that privilege inquiry over proof.  
 
 Chapter 45. "Programming as Literacy," by Annette Vee (University of Pittsburgh) 
 
