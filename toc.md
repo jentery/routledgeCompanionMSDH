@@ -123,7 +123,7 @@ Chapter 22. "Approaching Sound," by Tara Rodgers
 
 > Sound is a material and cultural phenomenon that embodies and catalyzes a diffuse set of relations. It functions as both a carrier of cultural knowledge and an expressive medium modulated by individual and collaborative creativity. It is sound's relational aspects, and its dynamic modes of connecting and transecting individual elements and complex wholes, that make it resoundingly political. This chapter presents sound definitions, histories, and methods by examining soundmakers' work alongside key concepts in cultural studies of music and sound, proposing a range of possibilities for approaching sound creatively and critically. 
 
-Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki (University of Applied Sciences and Arts Northwestern Switzerland)
+Chapter 23. "Algorhythmics: A Diffractive Approach for Understanding Computation," by Shintaro Miyazaki (University of Applied Sciences and Arts, Northwestern Switzerland)
 
 > This chapter offers an alternative approach to computation, with an emphasis on our senses (especially hearing) and the notion of algorhythmics, a neologism combining algorithm with rhythm. As a method, algorhythmics builds on Karen Barad's approach to diffraction and extends media theory through feminist thinking by prompting researchers to study media through other media. Via two examples, the chapter demonstrates how a sensitivity towards time-based processes, especially the rhythms of digital storage, transmission, and processing, might be useful for a critical understanding of digital cultures. It also provides some arguments for algorhythmics as a crucial method within digital humanities.
 
