@@ -21,3 +21,7 @@ The table of contents and chapter abstracts are available [here](toc.md).
 ## Editor 
 
 Jentery Sayers is Assistant Professor of English; a Faculty Member of the Cultural, Social, and Political Thought Program; Director of the Maker Lab in the Humanities; and Director of the Digital Humanities Certificate at the University of Victoria.   
+
+## Acknowledgements 
+
+I would like to thank Nadia Timperio for copy-editing this companion and compiling the glossaries with me. I would also like to thank the Social Sciences and Humanities Research Council of Canada (SSHRC) and the Department of English at the University of Victoria for supporting the research and labor required for this project. 
