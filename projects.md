@@ -1,4 +1,4 @@
-## A Glossary of Projects Appearing the Routledge Companion to Media Studies and Digital Humanities (Draft) 
+## A Glossary of Projects Mentioned in the Routledge Companion to Media Studies and Digital Humanities (Draft) 
 
 A Glossary of Projects Mentioned in this Companion
 
