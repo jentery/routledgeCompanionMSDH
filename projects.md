@@ -2,7 +2,7 @@
 
 A Glossary of Projects Mentioned in this Companion
 
-#BlackLivesMatter: “[A]n online forum intended to build connections between Black people and our allies to fight anti-Black racism, to spark dialogue among Black people, and to facilitate the types of connections necessary to encourage social action and engagement.” See blacklivesmatter.com and twitter.com/hashtag/blacklivesmatter.
+&#35BlackLivesMatter: “[A]n online forum intended to build connections between Black people and our allies to fight anti-Black racism, to spark dialogue among Black people, and to facilitate the types of connections necessary to encourage social action and engagement.” See blacklivesmatter.com and twitter.com/hashtag/blacklivesmatter.
 
 #FeesMustFall: The Twitter hashtag associated with a protest movement that began in October 2015 in response to increasing fees at South African universities. See twitter.com/hashtag/feesmustfall.
 
