@@ -2,19 +2,19 @@
 
 A Glossary of Projects Mentioned in this Companion
 
-\#BlackLivesMatter: “[A]n online forum intended to build connections between Black people and our allies to fight anti-Black racism, to spark dialogue among Black people, and to facilitate the types of connections necessary to encourage social action and engagement.” See blacklivesmatter.com and twitter.com/hashtag/blacklivesmatter.
+\#BlackLivesMatter: “[A]n online forum intended to build connections between Black people and our allies to fight anti-Black racism, to spark dialogue among Black people, and to facilitate the types of connections necessary to encourage social action and engagement.” See www.www.www.www.www.www.blacklivesmatter.com and www.twitter.com/hashtag/blacklivesmatter.
 
-\#FeesMustFall: The Twitter hashtag associated with a protest movement that began in October 2015 in response to increasing fees at South African universities. See twitter.com/hashtag/feesmustfall.
+\#FeesMustFall: The Twitter hashtag associated with a protest movement that began in October 2015 in response to increasing fees at South African universities. See www.twitter.com/hashtag/feesmustfall.
 
-\#FemDH: The Twitter hashtag for an annual course at the University of Victoria’s Digital Humanities Summer Institute titled, “Feminist Digital Humanities: Theoretical, Social, and Material Engagements.” See twitter.com/hashtag/femdh.
+\#FemDH: The Twitter hashtag for an annual course at the University of Victoria’s Digital Humanities Summer Institute titled, “Feminist Digital Humanities: Theoretical, Social, and Material Engagements.” See www.www.www.www.www.twitter.com/hashtag/femdh.
 
-\#Ferguson: The Twitter hashtag associated with events in Ferguson, Missouri following the fatal shooting of Michael Brown by police officer, Darren Wilson, on August 9, 2014. See twitter.com/hashtag/ferguson.
+\#Ferguson: The Twitter hashtag associated with events in Ferguson, Missouri following the fatal shooting of Michael Brown by police officer, Darren Wilson, on August 9, 2014. See www.www.www.www.twitter.com/hashtag/ferguson.
 
-\#Gamergate: The Twitter hashtag associated with a harassment campaign concerning sexism in videogame culture. See twitter.com/hashtag/gamergate.
+\#Gamergate: The Twitter hashtag associated with a harassment campaign concerning sexism in videogame culture. See www.www.www.twitter.com/hashtag/gamergate.
 
-\#RhodesMustFall: The Twitter hashtag associated with a protest movement directed against a statue that commemorates Cecil Rhodes at the University of Cape Town (UCT). See twitter.com/hashtag/rhodesmustfall. 
+\#RhodesMustFall: The Twitter hashtag associated with a protest movement directed against a statue that commemorates Cecil Rhodes at the University of Cape Town (UCT). See www.www.twitter.com/hashtag/rhodesmustfall. 
 
-\#TransformDH: “[A]n academic guerrilla movement seeking to (re)define capital-letter Digital Humanities as a force for transformative scholarship by collecting, sharing, and highlighting projects that push at its boundaries and work for social justice, accessibility, and inclusion.” See transformdh.org.
+\#TransformDH: “[A]n academic guerrilla movement seeking to (re)define capital-letter Digital Humanities as a force for transformative scholarship by collecting, sharing, and highlighting projects that push at its boundaries and work for social justice, accessibility, and inclusion.” See www.transformdh.org.
 
 \#transhealthcarenow!: A social media campaign launched by Reina Gossett and other members of the Sylvia Rivera Law Project following their attendance at HX Refactored, a health care conference in New York City. See www.reinagossett.com/transhealthcarenow.
 
