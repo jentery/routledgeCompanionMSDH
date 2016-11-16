@@ -84,7 +84,7 @@ Assassin’s Creed: An action-adventure video game series created by Ubisoft.
 
 Augmented Reality Lab: “Situated in the Faculty of Fine Arts [at York University], the Augmented Reality Lab offers researchers the opportunity to explore new screen technologies, approaches and techniques through both production and theoretical study of this emerging medium.” See www.ar.lab.yorku.ca.
 
-Austentes: “[An] interactive installation composed of printed digital images, neon lights, aluminum frames, six engines, two motion sensors, and PLC (Controllable Logic Programmer)” by Isabel Restrepo (2007). See www.isabelrestrepo.com/index.php/8-portafolio/11-ausentes.
+Ausentes: “[An] interactive installation composed of printed digital images, neon lights, aluminum frames, six engines, two motion sensors, and PLC (Controllable Logic Programmer)” by Isabel Restrepo (2007). See www.isabelrestrepo.com/index.php/8-portafolio/11-ausentes.
 
 The Australian Institute for Aboriginal and Torres Strait Islander Studies: “[A] world-renowned research, collections and publishing organisation. We promote knowledge and understanding of Aboriginal and Torres Strait Islander cultures, traditions, languages and stories, past and present.” See www.aiatsis.gov.au.
 
