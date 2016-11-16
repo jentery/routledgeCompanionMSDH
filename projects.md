@@ -136,7 +136,7 @@ Chicana por mi Raza: Uncovering the Hidden History of Chicana Feminism (1965-198
 
 Chicas Rockeras of Southest Los Angeles: “[A] day camp where girls ages 8-17 explore the joys and challenges of collaborative music-making while guided by inspirational female mentors.” See www.chicasrockerassela.org.
 
-Chronicles: “Chronicles, an extension of the Pathfinders project, focuses on Chrono Trigger, a video game, and applies best practices and methodologies from Pathfinders in order to capture and preserve these playing experiences, as well as document the articulation of culture in video games for generations to come.” See www.scalar.usc.edu/works/chronicles/index.
+Chronicles: “Chronicles, an extension of the Pathfinders project, focuses on Chrono Trigger, a video game, and applies best practices and methodologies from Pathfinders in order to capture and preserve these playing experiences, as well as document the articulation of culture in video games for generations to come.” See scalar.usc.edu/works/chronicles/index.
 
 Chrono Trigger: A role-playing video game developed in 1995 for Super Nintendo using Square.
 
@@ -258,7 +258,7 @@ Feminist Online Spaces: “[A] project aimed at researching, teaching, talking a
 
 FemTechNet: “[A]n activated network of hundreds of scholars, students, and artists who work on, with, and at the borders of technology, science, and feminism in a variety of fields including Science and Technology Studies (STS), Media and Visual Studies, Art, Women’s, Queer, and Ethnic Studies.” See www.femtechnet.org.
 
-FemTechNet Critical Race and Ethnic Studies Pedagogy Workbook: Launched by the Ethnic Studies Committee of FemTechNet and written in Scalar, the “workbook is an ongoing project to build resources for faculty members who are often overburdened at their home institutions, but are willing to take on the difficult task of teaching about gender and racial inequity in our information culture.” See www.scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index.
+FemTechNet Critical Race and Ethnic Studies Pedagogy Workbook: Launched by the Ethnic Studies Committee of FemTechNet and written in Scalar, the “workbook is an ongoing project to build resources for faculty members who are often overburdened at their home institutions, but are willing to take on the difficult task of teaching about gender and racial inequity in our information culture.” See scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/index.
 
 Ferguson Syllabus: A Google Doc intended “to gather resources for learning about the recent events in Ferguson, Missouri.” See www.bit.ly/FergusonSyllabus.
 
@@ -504,7 +504,7 @@ Patchwork Girl: A work of electronic literature by American author Shelley Jacks
 
 Pathfinders: “‘Pathfinders:  Documenting the Experience of Early Digital Literature,’ led by Dene Grigar (Washington State University Vancouver) and Stuart Moulthrop (University of Wisconsin––Milwaukee), is a digital preservation project that captures an important moment in literary history: the development of early digital literature.” See www.dtc-wsuv.org/wp/pathfinders.
 
-Pathfinders Book: A multimedia, open-source book published June 2015 that “begins the necessary process of documenting early digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.” See www.scalar.usc.edu/works/pathfinders/index.
+Pathfinders Book: A multimedia, open-source book published June 2015 that “begins the necessary process of documenting early digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.” See scalar.usc.edu/works/pathfinders/index.
 
 PeaceMaker: A game “inspired by real events in the Israeli-Palestinian conflict.” See www.peacemakergame.com.
 
@@ -556,7 +556,7 @@ Raspberry Pi: “The Raspberry Pi is a credit card-sized computer that plugs int
 
 Reacting to the Past: A series of “games, set in the past, in which students are assigned roles informed by classic texts in the history of ideas.” See www.reacting.barnard.edu/about.
 
-Reading Project: A Collaborative Analysis of William Poundstone’s Project for Tachistoscope {Bottomless Pit}: “[A] collaboration between three scholars combining different interpretive methods of digital literature and poetics in order to think through how critical reading is changing—and, indeed, must change—to keep up with the emergence of digital poetics and practices.” See www.scalar.usc.edu/aclsworkbench/reading-project/index.
+Reading Project: A Collaborative Analysis of William Poundstone’s Project for Tachistoscope {Bottomless Pit}: “[A] collaboration between three scholars combining different interpretive methods of digital literature and poetics in order to think through how critical reading is changing—and, indeed, must change—to keep up with the emergence of digital poetics and practices.” See scalar.usc.edu/aclsworkbench/reading-project/index.
 
 Real Computer Music: “Some sort of computer music without any proper composer. Computer music as a side effect of computation.” See www.algorhythmics.ixdm.ch/?p=38.
 
@@ -570,7 +570,7 @@ Ruby: “A dynamic, open source programming language with a focus on simplicity 
 
 Rumah Hacker: A video by Stefanie Wuschitz that “compares women-centered tribe houses in West Sumatra with men-centered hackerspaces.” See www.vimeo.com/79198342.
 
-Scalar: “Scalar is a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online.” See www.scalar.usc.edu/scalar.
+Scalar: “Scalar is a free, open source authoring and publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online.” See scalar.usc.edu/scalar.
 
 Seattle Fandango Project: “The Seattle Fandango Project is dedicated to forging relationships through participatory music and dance.” See www.seattlefandangoproject.org.
 
