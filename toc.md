@@ -252,8 +252,8 @@ Chapter 52. "Approaching Design as Inquiry: Magic, Myth, and Metaphor in Digital
 
 ## Glossary of Projects 
 
-> A glossary of projects referenced in this volume, with URLs where applicable 
+> [A glossary of projects](https://github.com/jentery/routledgeCompanionMSDH/blob/master/projects.md) referenced in this volume, with URLs where applicable 
 
 ## Glossary of Acronyms 
 
-> A glossary of acronyms used in this volume
+> [A glossary of acronyms](https://github.com/jentery/routledgeCompanionMSDH/blob/master/acronyms.md) used in this volume
