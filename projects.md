@@ -100,7 +100,7 @@ Berlin Wall 3D: A Mobile Augmented Reality experience that “puts history into 
 
 Bikes and Bloomers: An interdisciplinary research project led by Kat Jungnickel “about the bike, bloomer and female cyclist in late nineteenth century Britain.” See www.bikesandbloomers.com.
 
-BioShock: A first-person shooter videogame series designed by Ken Levine and developed by Irrational Games.” See www.2kgames.com/bioshock.
+BioShock: A first-person shooter videogame series designed by Ken Levine and developed by Irrational Games. See www.2kgames.com/bioshock.
 
 Blackfoot Digital Library: “[A] venue for sharing [Blackfoot family and community] stories, past and present. Most certainly it is intended to be an educational resource for all those now living in kitawahsinnoon.” See www.blackfootdigitallibrary.com.
 
