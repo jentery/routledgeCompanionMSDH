@@ -738,7 +738,7 @@ Wanisinowin: A videogame by Meagan Byrne (2015). See www.meaganbyrne.carbonmade.
 
 We Sing for Healing: “[A] musical text adventure game made from a place where Google Maps can’t zoom in and Skype doesn’t load, using Dreamweaver and Photoshop with SoundCloud tracks by Exquisite Ghost.” See www.survivance.org/wesing.
 
-Weasley-o-Meter: A tutorial to make a Weasley-o-Meter, featuring a Spark Core and Internet Butto, “inspired by the clock in the Weasley house that is seen in the second Harry Potter.” See www.instructables.com/id/Weasley-o-Meter/?ALLSTEPS.
+Weasley-o-Meter: A tutorial to make a Weasley-o-Meter, featuring a Spark Core and Internet Button, “inspired by the clock in the Weasley house that is seen in the second Harry Potter.” See www.instructables.com/id/Weasley-o-Meter/?ALLSTEPS.
 
 Web Accessibility in Mind: A non-profit organization based at the Center for Persons with Disabilities at Utah State University, “WebAIM (Web Accessibility In Mind) has provided comprehensive web accessibility solutions since 1999.” See www.webaim.org.
 
