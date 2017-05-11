@@ -512,7 +512,7 @@ Perl: “Perl 5 is a highly capable, feature-rich programming language with over
 
 PHP: Hypertext Preprocessor (PHP) is an open source general-purpose programming language designed for web development by Rasmus Lerdorf in 1994.
 
-The Plateau Peoples’ Web Portal: “[A] gateway to Plateau peoples’ cultural materials held in multiple repositories including WSU’s Manuscripts, Archives and Special Collections, the Northwest Museum of Art and Culture, the National Anthropological Archives and the National Museum of the American Indian at the Smithsonian Institution.” See www.plateauportal.wsulibs.wsu.edu.
+*The Plateau Peoples’ Web Portal: “[A] gateway to Plateau peoples’ cultural materials held in multiple repositories including WSU’s Manuscripts, Archives and Special Collections, the Northwest Museum of Art and Culture, the National Anthropological Archives and the National Museum of the American Indian at the Smithsonian Institution.” See http://plateauportal.libraries.wsu.edu/.*
 
 Play the Past: “[A] student-directed field trip experience supported by technology. Students use iPods to explore the Then Now Wow exhibit.” See www.education.mnhs.org/playthepast.
 
