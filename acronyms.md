@@ -48,7 +48,7 @@ CNC: computer numerical control
 
 CPU: central processing unit
 
-CCS: critical code studies
+*CCS: critical code studies*
 
 CRC: Canada research chair 
 
