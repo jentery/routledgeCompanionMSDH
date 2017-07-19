@@ -1,6 +1,8 @@
 ## Introduction to *The Routledge Companion to Media Studies and Digital Humanities*
 Edited by Jentery Sayers 
 
+This book is dedicated to everyone at HASTAC. 
+
 DRAFT | NOT FOR CITATION 
 
 ## Studying Media through New Media 
