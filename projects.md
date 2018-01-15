@@ -134,7 +134,7 @@ Charleston Syllabus: “[A] a list of readings that educators can use to broach 
 
 Chaos Cinema: A video essay by Matthias Stork that chronicles “[t]he decline and fall of action filmmaking.” See www.video-cdn.indiewire.com/previews/0wKZtpxn-PbCxl3wn.
 
-Chicana por mi Raza: Uncovering the Hidden History of Chicana Feminism (1965-1985): [A] public humanities project centered on the collection and digital preservation of archival materials, ephemera, and oral histories that document the development of Chicana feminist thought during the civil rights era.” See www.chicanapormiraza.org. 
+Chicana por mi Raza: Uncovering the Hidden History of Chicana Feminism (1965-1985): "[A] public humanities project centered on the collection and digital preservation of archival materials, ephemera, and oral histories that document the development of Chicana feminist thought during the civil rights era.” See www.chicanapormiraza.org. 
 
 Chicas Rockeras of Southest Los Angeles: “[A] day camp where girls ages 8-17 explore the joys and challenges of collaborative music-making while guided by inspirational female mentors.” See www.chicasrockerassela.org.
 
