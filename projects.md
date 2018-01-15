@@ -140,7 +140,7 @@ Chicas Rockeras of Southest Los Angeles: “[A] day camp where girls ages 8-17 e
 
 Chronicles: “Chronicles, an extension of the Pathfinders project, focuses on Chrono Trigger, a video game, and applies best practices and methodologies from Pathfinders in order to capture and preserve these playing experiences, as well as document the articulation of culture in video games for generations to come.” See [scalar.usc.edu/works/chronicles/index](http://scalar.usc.edu/works/chronicles/index).
 
-Chrono Trigger: A role-playing video game developed in 1995 for Super Nintendo using Square.
+Chrono Trigger: A role-playing video game developed in 1995 for Super Nintendo and published by Square.
 
 Cinemetrics: “Cinemetrics tools not only let one record data to analyze movies . . . but also publishes the gathered data on this web site for everyone to access. This is a collaborative project.” See www.cinemetrics.lv.
 
