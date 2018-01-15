@@ -46,7 +46,7 @@ Alice Bag’s website: “The official website of Alice Bag: musician, author, p
 
 Alice in Dataland: “[A]n experiment in critical making created by Anastasia Salter. . . . The project leverages material from the University of Florida Afterlife of Alice & Her Adventures in Wonderland collection as well as a range of Alice adaptations and remediations.” See www.kairos.technorhetoric.net/20.1/inventio/salter/index.html.
 
-Alivn Lucier Cover: Jonathan Sterne’s cover of Alvin Lucier’s “I Am Sitting in a Room” in which he repeatedly ran a recording through an MP3 encoder until it was over 50 minutes long. See www.sounds.sterneworks.org/projects/alvin-lucier-cover.
+Alvin Lucier Cover: Jonathan Sterne’s cover of Alvin Lucier’s “I Am Sitting in a Room” in which he repeatedly ran a recording through an MP3 encoder until it was over 50 minutes long. See www.sounds.sterneworks.org/projects/alvin-lucier-cover.
 
 Allied Media Conference: “Allied Media Projects cultivates media strategies for a more just, creative and collaborative world.” See www.alliedmedia.org/amc.
 
