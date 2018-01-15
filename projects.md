@@ -310,7 +310,7 @@ Gone Home: An interactive exploration simulator that enables the user to discove
 
 Google: "Search the world's information, including webpages, images, videos and more." See www.google.com.
 
-Google Maps: "Find local businesses, view maps and get driving directions in Google Maps." See www.google.ca/maps.
+Google Maps: "Find local businesses, view maps and get driving directions in Google Maps." See www.google.com/maps.
 
 Great Wall of China: “The Great Wall of China is conceived for simultaneous realisation across media, including a Website (1995-96), a CD-ROM with portfolio of prints (1997-99) and an interactive installation (1999).” See www.littlepig.org.uk/wall/greatwall.htm.
 
