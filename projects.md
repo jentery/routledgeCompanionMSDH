@@ -170,7 +170,7 @@ Concret PH: A musique concrète piece by Iannis Xenakis, created and originally 
 
 Conditionally Accepted: “[A] career advice column for Inside Higher Ed . . . [that provides] news, information, personal stories, and resources for scholars who are, at best, conditionally accepted in academe.” See www.insidehighered.com/users/conditionally-accepted.
 
-Contact Zones: The Art of CD ROM: A travelling exhibition curated by Timothy Murray (1999-2001). See www.contactzones.cit.cornell.edu/index.html.
+Contact Zones: The Art of CD-ROM: A travelling exhibition curated by Timothy Murray (1999-2001). See www.contactzones.cit.cornell.edu/index.html.
 
 Crash Override Network: “[A] crisis helpline, advocacy group and resource center for people who are experiencing online abuse.” See www.crashoverridenetwork.com.
 
