@@ -214,7 +214,7 @@ Dwarf Fortress: “Dwarf Fortress is a part construction and management simulati
 
 Dynabook: A conceptual portable educational device, like a laptop computer, with eternal battery life, envisioned by Alan Kay. 
 
-the ear goes to sound: A film portrait by Laetitia Sonami of electronic sound artist Laetitia Sonami. See www.earsoundfilm.com.
+the ear goes to sound: A film portrait of electronic sound artist Laetitia Sonami. See www.earsoundfilm.com.
 
 eBlack Studies Workshop: “The first national workshop to launch eBlack Studies was organized and chaired by Abdul Alkalimat and held at the University of Illinois at Urbana-Champaign on July 24-27, 2008.” See www.eblackstudies.org/workshop.
 
@@ -238,7 +238,7 @@ Electronic Literature Collection, Vol 3: The third volume of collected works rel
 
 Electronic Literature Lab: “Directed by Dr. Dene Grigar, ELL contains 47 vintage Macintosh computers, dating back from 1977 and a library of electronic literary works. It is used for the advanced inquiry into curating, preserving, and the production of born digital literary works.” See www.dtc-wsuv.org/wp/ell.
 
-ELIZA: A is a natural language processing program designed to mimic human interactions, originally developed in the 1960s by Joseph Weizenbaum.  
+ELIZA: A natural language processing program designed to mimic human interactions, originally developed in the 1960s by Joseph Weizenbaum.  
 
 -empyre-soft-skinned space: “[A] global community of new media artists, curators, theorists, producers, and others who participate in monthly thematic discussions via an e-mail listserv.” See www.empyre.library.cornell.edu.
 
