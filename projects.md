@@ -284,7 +284,7 @@ Fun with Software: “In the latest exhibition ‘Fun with Software’ at Bristo
 
 Future Everything: “[A]n award-winning innovation lab for digital culture and annual festival, established in Manchester in 1995.” See www.futureeverything.org.
 
-Game Changer Chicago Design Lab: “GCC develops serious games, interactive learning experiences, and digital media art with youth and for youth.” See www.lucian.uchicago.edu/blogs/gamechanger.
+Game Changer Chicago Design Lab: “GCC develops serious games, interactive learning experiences, and digital media art with youth and for youth.” See ci3.uchicago.edu/labs/game-changer-chicago/.
 
 Gamer Theory: “Together with the Institute for the Future of the Book, [McKenzie Wark] produced this website as a way to think about games.” See www.futureofthebook.org/gamertheory2.0.
 
