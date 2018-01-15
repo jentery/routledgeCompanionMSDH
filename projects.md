@@ -412,7 +412,7 @@ Layar: “Founded in the summer of 2009, Layar quickly gained international atte
 
 Learning from YouTube: “[A] unique video-book composed of approximately 250 texteos. . . . YouTube is the subject, form, method, problem and solution of this video-book,” by Alexandra Juhasz. See www.vectors.usc.edu/projects/learningfromyoutube.
 
-Libraries without Borders: “Founded in 2007 in France at the initiative of Patrick Weil, Libraries Without Borders is today one of the leading NGOs working in knowledge and culture-based development in the world and supporting libraries in developing countries.” See www.librarieswithoutborders.org.
+Libraries Without Borders: “Founded in 2007 in France at the initiative of Patrick Weil, Libraries Without Borders is today one of the leading NGOs working in knowledge and culture-based development in the world and supporting libraries in developing countries.” See www.librarieswithoutborders.org.
 
 Lightbox Gallery: “This inaugural Lightbox Navigation program features a visual map of every object currently on display [at the Harvard Art Museum], and is a project by metaLAB (at) Harvard, a design and research group exploring the boundaries of digital culture.” See www.harvardartmuseums.org/visit/calendar/lightbox-navigations-metalab-at-harvard.
 
