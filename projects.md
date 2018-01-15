@@ -300,7 +300,7 @@ GeoNames: “The GeoNames geographical database covers all countries and contain
 
 Girls Who Code: “[A] national non-profit organization dedicated to closing the gender gap in technology . . . [by] building the largest pipeline of future female engineers in the United States” See www.girlswhocode.com.
 
-GitHub: "Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies. . . . GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others." See github.com. 
+GitHub: "Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies. . . . GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others." See [github.com](https://github.com/). 
 
 Glass: “Glass is a hands-free device, for hands-on workers.” See x.company/glass.
 
