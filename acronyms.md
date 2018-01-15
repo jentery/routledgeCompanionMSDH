@@ -357,3 +357,5 @@ XML: extensible markup language
 XSEDE: Extreme Science and Engineering Discovery Environment
 
 ZKM: Center for Art and Media Technology, or Zentrum für Kunst und Medientechnologie Karlsruhe
+
+*This glossary was compiled with Nadia Timperio.* 
