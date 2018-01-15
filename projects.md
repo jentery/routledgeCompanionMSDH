@@ -36,6 +36,8 @@ AIDS Quilt Touch: A mobile web app in development, and a collaboration between t
 
 Air Casting: “[A]n open-source, end-to-end solution for collecting, displaying, and sharing health and environmental data using your smartphone. The platform consists of wearable sensors that detect changes in your environment and physiology, including a palm-sized air quality monitor.” See www.aircasting.org.
 
+Air Quality Egg: “A community-led air quality sensing network that gives people a way to participate in the conversation about air quality. . . . The Air Quality Egg is a sensor system designed to allow anyone to collect very high resolution readings of NO2 and CO concentrations outside of their home.” See www.airqualityegg.com.
+
 An Algorithm Audit: A collaborative proposal to audit online platforms. “These audits will ascertain whether algorithms result in harmful discrimination by class, race, gender, geography, or other important attributes.” See http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf.
 
 Algorhythmic Sorting: “[A]n open source program and learning tool for people, who want to learn and analyze the diversity of sorting algorithms by hearing the different rhythmic and pattern generating behaviour of different sorting algorithms like bubble sort, merge sort, quick sort or heap sort and others.” See sourceforge.net/projects/algorhythmics/. 
@@ -299,8 +301,6 @@ Girls Who Code: “[A] national non-profit organization dedicated to closing the
 Global Outlook::Digital Humanities (GO::DH): “The purpose of GO::DH is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.” See www.globaloutlookdh.org.
 
 Gone Home: An interactive exploration simulator that enables the user to discover things about a family by rummaging through the objects in their home. See www.gonehome.game.
-
-Google Earth, Air Quality Egg: “A community-led air quality sensing network that gives people a way to participate in the conversation about air quality. . . . The Air Quality Egg is a sensor system designed to allow anyone to collect very high resolution readings of NO2 and CO concentrations outside of their home.” See www.airqualityegg.com.
 
 Great Wall of China: “The Great Wall of China is conceived for simultaneous realisation across media, including a Website (1995-96), a CD-ROM with portfolio of prints (1997-99) and an interactive installation (1999).” See www.littlepig.org.uk/wall/greatwall.htm.
 
