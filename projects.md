@@ -36,13 +36,15 @@ AIDS Quilt Touch: A mobile web app in development, and a collaboration between t
 
 Air Casting: “[A]n open-source, end-to-end solution for collecting, displaying, and sharing health and environmental data using your smartphone. The platform consists of wearable sensors that detect changes in your environment and physiology, including a palm-sized air quality monitor.” See www.aircasting.org.
 
-Algorhythmic Sorting: “[A]n open source program and learning tool for people, who want to learn and analyze the diversity of sorting algorithms by hearing the different rhythmic and pattern generating behaviour of different sorting algorithms like bubble sort, merge sort, quick sort or heap sort and others.” See www.algorhythmics.ixdm.ch/?p=152.
+An Algorithm Audit: A collaborative proposal to audit online platforms. “These audits will ascertain whether algorithms result in harmful discrimination by class, race, gender, geography, or other important attributes.” See http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf.
+
+Algorhythmic Sorting: “[A]n open source program and learning tool for people, who want to learn and analyze the diversity of sorting algorithms by hearing the different rhythmic and pattern generating behaviour of different sorting algorithms like bubble sort, merge sort, quick sort or heap sort and others.” See sourceforge.net/projects/algorhythmics/. 
 
 Alice Bag’s website: “The official website of Alice Bag: musician, author, punk feminist, master troublemaker.” See www.alicebag.com.
 
 Alice in Dataland: “[A]n experiment in critical making created by Anastasia Salter. . . . The project leverages material from the University of Florida Afterlife of Alice & Her Adventures in Wonderland collection as well as a range of Alice adaptations and remediations.” See www.kairos.technorhetoric.net/20.1/inventio/salter/index.html.
 
-Alivn Lucier Cover: Jonathan Sterne’s cover of Alvin Lucier’s “I am Sitting in a Room” in which he repeatedly ran a recording through an mp3 encoder until it was over 50 minutes long. See www.sounds.sterneworks.org/projects/alvin-lucier-cover.
+Alivn Lucier Cover: Jonathan Sterne’s cover of Alvin Lucier’s “I Am Sitting in a Room” in which he repeatedly ran a recording through an MP3 encoder until it was over 50 minutes long. See www.sounds.sterneworks.org/projects/alvin-lucier-cover.
 
 Allied Media Conference: “Allied Media Projects cultivates media strategies for a more just, creative and collaborative world.” See www.alliedmedia.org/amc.
 
@@ -51,8 +53,6 @@ Amara: “Amara is home to an award winning subtitle editor that makes it easy t
 American Radio History: “[A] resource with thousands of publications about Broadcasting, Radio, TV, programming, electronics and ratings.” See www.AmericanRadioHistory.com.
 
 Amsterdam Smart Citizens Lab: “In the Smart Citizens Lab we explore tools and applications to map the world around us. Along with citizens, scientists, and designers, we deal with themes ranging from air quality to the conditions of bathing water to noise pollution.” See www.waag.org/en/lab/amsterdam-smart-citizens-lab.
-
-An Algorithm Audit: A collaborative proposal to audit online platforms. “These audits will ascertain whether algorithms result in harmful discrimination by class, race, gender, geography, or other important attributes.” See http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf.
 
 Analog Tara / Pink Noises: A collection of projects by Tara Rodgers (Analog Tara), “composer, historian and critic of electronic music, originally from upstate New York and now based in the Washington, DC area.” See www.analogtara.net/wp/projects. 
 
@@ -84,7 +84,7 @@ Assassin’s Creed: An action-adventure video game series created by Ubisoft.
 
 Augmented Reality Lab: “Situated in the Faculty of Fine Arts [at York University], the Augmented Reality Lab offers researchers the opportunity to explore new screen technologies, approaches and techniques through both production and theoretical study of this emerging medium.” See www.ar.lab.yorku.ca.
 
-Ausentes: “[An] interactive installation composed of printed digital images, neon lights, aluminum frames, six engines, two motion sensors, and PLC (Controllable Logic Programmer)” by Isabel Restrepo (2007). See www.isabelrestrepo.com/index.php/8-portafolio/11-ausentes.
+Ausentes: “[An] interactive installation composed of printed digital images, neon lights, aluminum frames, six engines, two motion sensors, and PLC (Programmable Logic Controller)” by Isabel Restrepo (2007). See www.isabelrestrepo.com/index.php/8-portafolio/11-ausentes.
 
 The Australian Institute for Aboriginal and Torres Strait Islander Studies: “[A] world-renowned research, collections and publishing organisation. We promote knowledge and understanding of Aboriginal and Torres Strait Islander cultures, traditions, languages and stories, past and present.” See www.aiatsis.gov.au.
 
@@ -94,7 +94,7 @@ Autonets: “Local Autonomy Networks (Autonets) is an artivist project focused o
 
 BASIC: Beginner’s All-purpose Symbolic Instruction Code (BASIC) is a simple, high-level programming language designed by John G. Kemeny and Thomas E. Kurtz in the 1960s. 
 
-Becoming a Rap Genius: A list of resources related to his course, “Becoming a Rap Genius,” by Howard Rambsy II. See www.culturalfront.org/2013/12/becoming-rap-genius-resources.html.
+Becoming a Rap Genius: A list of resources related to “Becoming a Rap Genius,” a course by Howard Rambsy II. See www.culturalfront.org/2013/12/becoming-rap-genius-resources.html.
 
 Berlin Wall 3D: A Mobile Augmented Reality experience that “puts history into its location context and encourages the interaction with that specific historic site.” See www.hoppala-agency.com/article/berlin-wall-3d.
 
@@ -106,9 +106,9 @@ Blackfoot Digital Library: “[A] venue for sharing [Blackfoot family and commun
 
 Black Girls Code: A nonprofit organization; “By reaching out to the community through workshops and after school programs, Black Girls CODE introduces computer coding lessons to young girls from underrepresented communities in programming languages such as Scratch or Ruby on Rails.” See www.blackgirlscode.com.
 
-Bodyfuck: An adaptation of Brainfuck programming language by Nik Hanselmann “that uses a camera as input.” See www.nik.works/project/bodyfuck.
+Bodyfuck: An adaptation of the Brainfuck programming language by Nik Hanselmann “that uses a camera as input.” See www.nik.works/project/bodyfuck.
 
-Book of Shadows: “A CD-ROM and book (64 pages b&w) titled “Book of Shadows” released March 1996.” See www.littlepig.org.uk/bos/index.htm.
+Book of Shadows: “A CD-ROM and book (64 pages b&w) titled 'Book of Shadows' released March 1996.” See www.littlepig.org.uk/bos/index.htm.
 
 Bookshare.org: “Bookshare opens up the world of reading for people with print disabilities . . . [and] offers the world’s largest collection of accessible titles.” See www.bookshare.org.
 
