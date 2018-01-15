@@ -198,7 +198,7 @@ Deep Listening Institute: “Deep Listening Institute (DLI) promotes the music a
 
 Defense Distributed: A Texas corporation organized to “defend the human and civil right to keep and bear arms as guaranteed by the United States Constitution and affirmed by the United States Supreme Court; to collaboratively produce, publish, and distribute to the public information and knowledge related to the digital manufacture of arms.” See www.defdist.org.
 
-Desilusiones ópticas: “Optical Delusions” is an interactive installation that recalls Argentina’s celebrations during the 1978 World Cup. See www.leonunez.com.ar/desilusionesO.html.
+Desilusiones Ópticas: “Optical Delusions” is an interactive installation that recalls Argentina’s celebrations during the 1978 World Cup. See www.leonunez.com.ar/desilusionesO.html.
 
 Dickinson Electronic Archives: “A creative and critical collaboratory for reading Dickinson's material bodies and for featuring new critical and theoretical work about Emily Dickinson’s writings, biography, reception, and influence.” See www.emilydickinson.org.
 
