@@ -118,7 +118,7 @@ Bronze: “A fractured fairy tale” piece of interactive fiction by Emily Short
 
 Buffalo: The Name Dropping Game: “A card game of quick wits and zany combinations, buffalo: the name dropping game asks you to name-drop faster than your friends, collect the most cards, and win!” See www.tiltfactor.org/game/buffalo.
 
-Build a Better Panel: Women in DH: A crowdsourced list of women who “you might invite for keynote or other [DH related] conference event.” See www.jwernimont.com/2015/09/19/build-a-better-panel-women-in-dh.
+Build a Better Panel: Women in DH: A crowdsourced list of women who “you might invite for a keynote or other [DH related] conference event.” See www.jwernimont.com/2015/09/19/build-a-better-panel-women-in-dh.
 
 Burning the Interface: “[An] exhibition at the Museum of Contemporary Art, Sydney, curated by Mike Leggett and Linda Michael” (March-July 1996). See www.mikeleggett.com.au/projects/burning-interfaceinternational-artists-CD-ROM.
 
