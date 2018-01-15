@@ -250,6 +250,8 @@ Evoke: A free, ten-week, social network game designed “to help empower people 
 
 Ev-ent-anglement: “[A]n experiment in digital embodied collective feminist media praxis. . . We use performance and technology to further entangle events and communities outside the logics of buying and selling.” See www.ev-ent-anglement.com.
 
+Facebook: A for-profit corporation and online social networking service. See www.facebook.com.
+
 Facebook Demetricator: “A web browser extension that hides all the metrics on Facebook.” See www.bengrosser.com/projects/facebook-demetricator.
 
 Fashioning Circuits: “The goal of the project is twofold: to explore the ways in which fashion and emerging media intersect and to work with community partners to introduce beginners to making and coding through wearable media.” See www.fashioningcircuits.com.
@@ -297,6 +299,10 @@ Genius: “Genius breaks down text with line-by-line annotations, added and edit
 GeoNames: “The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.” See www.geonames.org.
 
 Girls Who Code: “[A] national non-profit organization dedicated to closing the gender gap in technology . . . [by] building the largest pipeline of future female engineers in the United States” See www.girlswhocode.com.
+
+GitHub: "Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies. . . . GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others." See github.com. 
+
+Glass: “Glass is a hands-free device, for hands-on workers.” See x.company/glass.
 
 Global Outlook::Digital Humanities (GO::DH): “The purpose of GO::DH is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.” See www.globaloutlookdh.org.
 
