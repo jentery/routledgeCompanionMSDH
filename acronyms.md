@@ -1,4 +1,4 @@
-## A Glossary of Acronyms Appearing in the Routledge Companion to Media Studies and Digital Humanities (DRAFT)
+## A Glossary of Acronyms and Initialisms Appearing in the Routledge Companion to Media Studies and Digital Humanities (DRAFT)
 
 2-D: two-dimensional
 
