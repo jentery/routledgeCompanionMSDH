@@ -110,7 +110,7 @@ fMRI: functional magnetic resonance imaging
 
 FOMO: fear of missing out
 
-FORTRAN: “Formula Translation” programming language
+FORTRAN: FORmula TRANslation programming language
 
 GCC: GNU compiler collection
 
