@@ -765,3 +765,5 @@ YoHa: A partnership between Graham Harwood and Matsuko Yokokoji (est. 1994) who 
 Young Hae Chang Heavy Industries: A Seoul-based Web art group. See www.yhchang.com. 
 
 Zooniverse: “[T]he world’s largest and most popular platform for people-powered research. This research is made possible by volunteers—hundreds of thousands of people around the world who come together to assist professional researchers.” See www.zooniverse.org.
+
+*This glossary was compiled with Nadia Timperio.* 
