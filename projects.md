@@ -338,7 +338,7 @@ How to Truly Listen: “In this soaring demonstration, deaf percussionist Evelyn
 
 HTML: HyperText Markup Language is the standard markup language for creating web pages. 
 
-Humument: An altered Victorian novel (A Human Document by W.H. Mallock (1892)) project by artist Tom Philips, started in 1966. See www.tomphillips.co.uk/humument.
+Humument: An altered Victorian novel (A Human Document by W.H. Mallock (1892)) project by artist Tom Phillips, started in 1966. See www.tomphillips.co.uk/humument.
 
 HyperCard: An application that enables Macintosh users to author hypertext pages without any programming knowledge, developed in the 1980s.
 
