@@ -302,7 +302,7 @@ Girls Who Code: “[A] national non-profit organization dedicated to closing the
 
 GitHub: "Millions of developers use GitHub to build personal projects, support their businesses, and work together on open source technologies. . . . GitHub fosters a fast, flexible, and collaborative development process that lets you work on your own or with others." See [github.com](https://github.com/). 
 
-Glass: “Glass is a hands-free device, for hands-on workers.” See x.company/glass.
+Glass: “Glass is a hands-free device, for hands-on workers.” See [x.company/glass](https://x.company/glass/)
 
 Global Outlook::Digital Humanities (GO::DH): “The purpose of GO::DH is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.” See www.globaloutlookdh.org.
 
