@@ -408,7 +408,7 @@ LambdaMOO: “LambdaMOO is both the name of a MUD and the name of MUD server sof
 
 Lantern: “[T]he search platform for the collections of the Media History Digital Library, an open access initiative led by David Pierce and Eric Hoyt. The Media History Digital Library (MHDL) digitizes collections of classic media periodicals that belong in the public domain for full public access.” See www.lantern.mediahist.org
 
-Layer: “Founded in the summer of 2009, Layar quickly gained international attention as one of the first mobile augmented reality browsers to hit the market.” See www.layar.com.
+Layar: “Founded in the summer of 2009, Layar quickly gained international attention as one of the first mobile augmented reality browsers to hit the market.” See www.layar.com.
 
 Learning from YouTube: “[A] unique video-book composed of approximately 250 texteos. . . . YouTube is the subject, form, method, problem and solution of this video-book,” by Alexandra Juhasz. See www.vectors.usc.edu/projects/learningfromyoutube.
 
