@@ -342,7 +342,7 @@ Humument: An altered Victorian novel (A Human Document by W.H. Mallock (1892)) p
 
 HyperCard: An application that enables Macintosh users to author hypertext pages without any programming knowledge, developed in the 1980s.
 
-HyperCities: The online component to book HyperCities; Thick Mapping in the Digital Humanities by Todd Presner, David Shepard, and Yoh Kawano (2014). See www.hypercities.com.
+HyperCities: The online component to *HyperCities: Thick Mapping in the Digital Humanities* by Todd Presner, David Shepard, and Yoh Kawano (2014). See www.hypercities.com.
 
 Hyper-Stacks: “Hyper-Stacks used the [Victoria and Albert Museum’s] digital archives to analyse more than 1.14 million object records, and build a classification and connection engine.” See www.hyper-stacks.com.
 
