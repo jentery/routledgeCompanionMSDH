@@ -8,7 +8,7 @@
 
 AbTeC: Aboriginal Territories in Cyberspace
 
-AI: Artificial Intelligence
+AI: artificial intelligence
 
 AIDS: acquired immune deficiency syndrome
 
@@ -26,13 +26,13 @@ ARP Instruments: Alan Robert Pearlman Instruments, Inc.
 
 ASL: average shot length
 
-BASIC: beginner’s all-purpose symbolic instruction code
+BASIC: Beginner’s All-purpose Symbolic Instruction Code
 
 BMP: bitmap image file
 
 BTEX: benzene, toluene, ethylbenzene and xylene
 
-CAPTCHA: completely automated public Turing test to tell computers and humans apart
+CAPTCHA: Completely Automated Public Turing test to tell Computers and Humans Apart
 
 CD: compact disc 
 
@@ -48,15 +48,15 @@ CNC: computer numerical control
 
 CPU: central processing unit
 
-*CCS: critical code studies*
+CCS: critical code studies
 
 CRC: Canada research chair 
 
 C-SPAN: Cable-Satellite Public Affairs Network
 
-CSS: cascading style sheets
+CSS: Cascading Style Sheets
 
-CSV: comma separated value
+CSV: comma-separated values
 
 CWILA: Canadian Women in the Literary Arts
 
@@ -72,11 +72,11 @@ DHSI: Digital Humanities Summer Institute
 
 DIO: digital input/output
 
-DIT: do-it-together
+DIT: do it together
 
 DIWO: doing it with others
 
-DIY: do-it-yourself
+DIY: do it yourself
 
 DOCAM: Documentation and Conservation of the Media Arts Heritage
 
@@ -94,7 +94,7 @@ EDT: Electronic Disturbance Theater
 
 ELL: Electronic Literature Laboratory
 
-ELMPIC: Electronic Literature as a Model of Creativity and Innovation in Practice
+ELMCIP: Electronic Literature as a Model of Creativity and Innovation in Practice
 
 ELO: Electronic Literature Organization  
 
@@ -132,15 +132,15 @@ GUI: graphical user interface
 
 HASTAC: Humanities, Arts, Science and Technology Alliance and Collaboratory
 
-HB recorder: an early attempt, by Francois Hussenot and Paul Beaudouin, to produce an FDR
+HB recorder: an early attempt, by François Hussenot and Paul Beaudouin, to produce an FDR
 
 HCI: human-computer interaction
 
-HTML: hypertext markup language
+HTML: HyperText Markup Language
 
-HTTP: hypertext transfer protocol
+HTTP: HyperText Transfer Protocol
 
-HUD: heads up display 
+HUD: heads-up display 
 
 HVAC: heating, ventilating/ventilation, and air conditioning
 
@@ -160,21 +160,21 @@ IMLS: Institute of Museum and Library Services
 
 INKE: Implementing New Knowledge Environments
 
-INTERCAL: computer language with no pronounceable acronym 
+INTERCAL: compiler language with no pronounceable acronym 
 
 IoT: internet of things
 
-IP: internet protocol
+IP: Internet Protocol
 
 IQ: intelligence quotient
 
 IRL: in real life
 
-ISEA: Inter-Society for the Electronic Arts
+ISEA: International Symposium on Electronic Art 
 
 IT: information technology
 
-JPEG: joint photographic experts group (a format for image files) 
+JPEG: Joint Photographic Experts Group (a format for image files) 
 
 LED: light emitting diode
 
@@ -206,6 +206,8 @@ MOU: memorandum of understanding
 
 MP3: MPEG-1 or MPEG-2 Audio Layer III (a format for audio files)
 
+MPEG: Moving Picture Experts Group (a format for various types of media) 
+
 MRI: magnetic resonance imaging
 
 MUD: multi-user dungeon, multi-user dimension, and multi-user domain
@@ -226,11 +228,11 @@ OCR: optical character recognition
 
 OED: Oxford English Dictionary
 
-OLPC: one laptop per child
+OLPC: One Laptop Per Child
 
 PAR: participatory action research
 
-PARC: Palo Alto Research Center Inc.
+PARC: Palo Alto Research Center Incorporated
 
 PC: personal computer
 
@@ -276,7 +278,7 @@ RTI: reflectance transformation imaging
 
 SES: scaled entity search 
 
-SGML: standard generalized markup language
+SGML: Standard Generalized Markup Language
 
 SIM: subscriber identity module
 
@@ -304,7 +306,7 @@ TED: Technology, Enterprise, Design
 
 TEI: Text Encoding Initiative 
 
-TIFF: a format for image files
+TIFF: Tagged Image File Format 
 
 TF-IDF: term frequency-inverse document frequency
 
@@ -326,27 +328,27 @@ U.S.: United States of America
 
 V&A: Victoria and Albert Museum 
 
-VAT: video analysis tableau
+VAT: Video Analysis Tableau
 
 VCR: videocassette recorder
 
-VIAF: virtual international authority file
+VIAF: Virtual International Authority File
 
 VOC: volatile organic compound
 
 VR: virtual reality
 
-VRML: virtual reality modeling language
+VRML: Virtual Reality Modeling Language or Virtual Reality Markup Language
 
-WebGL: web graphics library
+WebGL: Web Graphics Library
 
 WELL: Whole Earth ’Lectronic Link 
 
 WT: wearable technology
 
-WWR: Women Who Rock: Making Scenes, Building Communities
+WWR: Women Who Rock
 
-WWW: world wide web
+WWW: World Wide Web
 
 WYSIWYG: what you see is what you get
 
