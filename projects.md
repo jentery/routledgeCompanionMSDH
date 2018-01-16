@@ -690,7 +690,7 @@ Turbulence: “Known as one of the ‘premiere web sites for net art,’ Turbule
 
 TUTOR: A programming language initially developed for use in computer assisted instruction (CAI) and computer managed instruction (CMI) in the 1960s.
 
-Twitter: An online social networking service where users to post and read 140-character entries called “tweets.” See www.twitter.com.
+Twitter: An online social networking service where users post and read 140-character entries called “tweets.” See www.twitter.com.
 
 twarc: “[A] command line tool and Python library for archiving Twitter JSON data. Each tweet is represented as a JSON object that is exactly what was returned from the Twitter API.” See www.github.com/edsu/twarc.
 
