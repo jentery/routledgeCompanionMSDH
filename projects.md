@@ -232,11 +232,11 @@ Electric Dress: “[A] powerful conflation of the tradition of the Japanese komo
 
 Electronic Disturbance Theater: “[A] small group of cyber activists and artists engaged in developing the theory and practice of Electronic Civil Disobedience (ECD).” See www.thing.net/~rdom/ecd/EDTECD.html.
 
-Electronic Literature Collection, Vol 1: The first volume of collected works released by the Electronic Literature Organization (ELO) in 2006. Editors: N. Katherine Hayles, Nick Montfort, Scott Rettberg, and Stephanie Strickland. See www.collection.eliterature.org/1.
+Electronic Literature Collection, Volume 1: The first volume of collected works released by the Electronic Literature Organization (ELO) in 2006. Editors: N. Katherine Hayles, Nick Montfort, Scott Rettberg, and Stephanie Strickland. See www.collection.eliterature.org/1.
 
-Electronic Literature Collection, Vol 2: The second volume of collected works released by the Electronic Literature Organization (ELO) in 2011. Editors: Laura Borràs, Talan Memmott, Rita Raley, and Brian Stefans. See www.collection.eliterature.org/2.
+Electronic Literature Collection, Volume 2: The second volume of collected works released by the Electronic Literature Organization (ELO) in 2011. Editors: Laura Borràs, Talan Memmott, Rita Raley, and Brian Stefans. See www.collection.eliterature.org/2.
 
-Electronic Literature Collection, Vol 3: The third volume of collected works released by the Electronic Literature Organization (ELO) in 2016. Editors: Stephanie Boluk, Leonardo Flores, Jacob Garbe, and Anastasia Salter. See www.collection.eliterature.org/3.
+Electronic Literature Collection, Volume 3: The third volume of collected works released by the Electronic Literature Organization (ELO) in 2016. Editors: Stephanie Boluk, Leonardo Flores, Jacob Garbe, and Anastasia Salter. See www.collection.eliterature.org/3.
 
 Electronic Literature Lab: “Directed by Dr. Dene Grigar, ELL contains 47 vintage Macintosh computers, dating back from 1977 and a library of electronic literary works. It is used for the advanced inquiry into curating, preserving, and the production of born digital literary works.” See www.dtc-wsuv.org/wp/ell.
 
