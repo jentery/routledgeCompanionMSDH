@@ -710,7 +710,7 @@ Unveiling Visions: The Alchemy of the Black Imagination: “Curated by artist Jo
 
 Urban Armor: “[A]n artwork started by Kathleen McDermott, consisting of a series of playful electronic wearables which investigate the relationship between technology, the body, and personal and public space.” See www.urbanarmor.org.
 
-Usenet: A non-centralized, worldwide computer network through which individuals share discussions and files.” 
+Usenet: A non-centralized, worldwide computer network through which individuals share discussions and files. 
 
 Values & Value: A project “interested in what happens when economic value is accumulated from spheres previously considered non-economic, and the distortions and alterations in both economic and non-economic values this process creates.” See values.doc.gold.ac.uk.
 
