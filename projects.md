@@ -442,7 +442,7 @@ Marvel Unlimited: Marvel Unlimited is an online service by Marvel Comics that gr
 
 Maryland Institute for Technology in the Humanities: Jointly supported by the University of Maryland College of Arts and Humanities and the University of Maryland Libraries, MITH "is a leading digital humanities center that pursues disciplinary innovation and institutional transformation through applied research, public programming, and educational opportunities.” See www.mith.umd.edu.
 
-Material Beliefs: Based at the Interaction research Studio in the Department of Design at Goldsmiths, University of London, “Material Beliefs takes emerging biomedical and cybernetic technology out of labs and into public spaces.” See www.materialbeliefs.co.uk/people.
+Material Beliefs: Based at the Interaction Research Studio in the Department of Design at Goldsmiths, University of London, “Material Beliefs takes emerging biomedical and cybernetic technology out of labs and into public spaces.” See www.materialbeliefs.co.uk/people.
 
 Mauve Desert: “[A] CD-ROM Translation of Nicole Brossard’s experimental novel Le Desert mauve.” See www.adrienejenik.net/mauvedesert.html.
 
