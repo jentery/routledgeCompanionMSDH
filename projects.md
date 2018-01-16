@@ -672,11 +672,11 @@ There.com: “[A] 3D social world that first launched in 2003 . . . today, nearl
 
 These Streets: A Rock ‘n’ Roll Story: “‘These Streets’ is [a play] inspired by over 40 interviews conducted with and about the many women rockers who were integral to the Seattle music scene during this legendary era.” See www.thesestreets.org.
 
-Timescape: An exhibition at the 9/11 Memorial Museum that won a silver Muse award in the Applications and APIs category. See www.911memorial.org/blog/museum-exhibitions-honored-national-museum-association.
-
 Tile: “[A] tiny Bluetooth tracker and easy-to-use app that finds everyday items in seconds . . . Tile’s global community spans 200 countries and territories and helps people locate more than half a million items every day.” See www.thetileapp.com.
 
 Tiltfactor: “The interdisciplinary innovation studio dedicated to designing & studying games for social impact, was founded and is led by Dr. Mary Flanagan.” See www.tiltfactor.org.
+
+Timescape: An exhibition at the 9/11 Memorial Museum that won a silver Muse award in the Applications and APIs category. See www.911memorial.org/blog/museum-exhibitions-honored-national-museum-association.
 
 TOMS One Day Without Shoes: “Each year, we spend one day #withoutshoes to raise awareness for children’s health and education.” See www.toms.ca/one-day-without-shoes.
 
