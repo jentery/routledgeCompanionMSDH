@@ -698,7 +698,7 @@ Twine: Originally created by Chris Klimas in 2009, “Twine is an open-source to
 
 Uncle Buddy’s Phantom Funhouse: A hypermedia novel by John G. McDaid (1992) consisting of floppy disks and audio cassettes. See www.eastgate.com/catalog/Funhouse.html.
 
-Uncle Roger: “Intertwining elements of magic realism with Silicon Valley culture, semiconductor industry lore, and early word processing, Uncle Roger is a pioneering work of hypertext narrative poetry [by Judy Mallow] that was first published beginning in 1986 on Art Com Electronic Network on the WELL.” See www.well.com/user/jmalloy/uncleroger/partytop.html.
+Uncle Roger: “Intertwining elements of magic realism with Silicon Valley culture, semiconductor industry lore, and early word processing, Uncle Roger is a pioneering work of hypertext narrative poetry [by Judy Malloy] that was first published beginning in 1986 on Art Com Electronic Network on the WELL.” See www.well.com/user/jmalloy/uncleroger/partytop.html.
 
 Unfit Bits: “At Unfit Bits, we are investigating DIY fitness spoofing techniques to allow you to create walking datasets without actually having to share your personal data. These techniques help produce personal data to qualify you for insurance rewards even if you can’t afford a high exercise lifestyle.” See www.unfitbits.com.
 
