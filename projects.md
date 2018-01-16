@@ -226,9 +226,9 @@ Edmonton Pipelines Project: “[A] collection of digital maps and literary provo
 
 ELAN: “[A] professional tool for the creation of complex annotations on video and audio resources.” See www.tla.mpi.nl/tools/tla-tools/elan.
 
-Electronic Beowulf: “The long-term goal of the project is to assemble an open-ended electronic archive of materials founded on, but by no means limited to, the only surviving manuscript of Beowulf and ancillary texts.” See www.people.ucalgary.ca/~scriptor/kiernan/calgary.html.
-
 Electric Dress: “[A] powerful conflation of the tradition of the Japanese komono with modern industrial technology,” by Atsuko Tanaka (1957). See www.medienkunstnetz.de/works/electric-dress.
+
+Electronic Beowulf: “The long-term goal of the project is to assemble an open-ended electronic archive of materials founded on, but by no means limited to, the only surviving manuscript of Beowulf and ancillary texts.” See www.people.ucalgary.ca/~scriptor/kiernan/calgary.html.
 
 Electronic Disturbance Theater: “[A] small group of cyber activists and artists engaged in developing the theory and practice of Electronic Civil Disobedience (ECD).” See www.thing.net/~rdom/ecd/EDTECD.html.
 
