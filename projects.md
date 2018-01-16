@@ -770,7 +770,9 @@ xxn: Jonathan Kemp. See www.xxn.org.uk.
 
 YoHa: A partnership between Graham Harwood and Matsuko Yokokoji (est. 1994) who co-founded the artists group Mongrel (1996-2007) and established the Mediashed, a free-media lab in Southend-on-sea (2005-08). See www.yoha.co.uk.
 
-Young Hae Chang Heavy Industries: A Seoul-based web art group. See www.yhchang.com. 
+Young-Hae Chang Heavy Industries: A Seoul-based web art group. See www.yhchang.com. 
+
+YouTube: “Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.” See www.youtube.com. 
 
 Zooniverse: “[T]he world’s largest and most popular platform for people-powered research. This research is made possible by volunteers—hundreds of thousands of people around the world who come together to assist professional researchers.” See www.zooniverse.org.
 
