@@ -512,7 +512,7 @@ Participatory Culture Foundation: "A 501c3 non-profit organization, working to b
 
 Patchwork Girl: A work of electronic literature by American author Shelley Jackson written in Storyspace and published by Eastgate Systems in 1995. See www.eastgate.com/catalog/PatchworkGirl.html.
 
-Pathfinders: “‘Pathfinders:  Documenting the Experience of Early Digital Literature,’ led by Dene Grigar (Washington State University Vancouver) and Stuart Moulthrop (University of Wisconsin––Milwaukee), is a digital preservation project that captures an important moment in literary history: the development of early digital literature.” See www.dtc-wsuv.org/wp/pathfinders.
+Pathfinders: “‘Pathfinders:  Documenting the Experience of Early Digital Literature,’ led by Dene Grigar (Washington State University Vancouver) and Stuart Moulthrop (University of Wisconsin-Milwaukee), is a digital preservation project that captures an important moment in literary history: the development of early digital literature.” See www.dtc-wsuv.org/wp/pathfinders.
 
 Pathfinders Book: A multimedia, open-source book published June 2015 that “begins the necessary process of documenting early digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.” See [scalar.usc.edu/works/pathfinders/index](http://scalar.usc.edu/works/pathfinders/index).
 
