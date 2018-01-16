@@ -498,11 +498,11 @@ Open Calais: “[T]he easiest and most accurate way to tag the people, places, c
 
 Open Simulator: “[A]n open source multi-platform, multi-user 3D application server. It can be used to create a virtual environment (or world) which can be accessed through a variety of clients, on multiple protocols.” See www.opensimulator.org/wiki/Main_Page.
 
-Open Street Map: “[A] map of the world, created by people like you and free to use under an open license. . . . Contributors use aerial imagery, GPS devices, and low-tech field maps to verify that OSM is accurate and up to date.” See www.openstreetmap.org.
+Open Street Map (OSM): “[A] map of the world, created by people like you and free to use under an open license. . . . Contributors use aerial imagery, GPS devices, and low-tech field maps to verify that OSM is accurate and up to date.” See www.openstreetmap.org.
 
 The Oregon Trail: A computer game developed in the 1970s to expose children to the realities of nineteenth-century pioneer life on the Oregon Trail. 
 
-Otsi:! Rise of the Kanien'kehá:ka Legends: An AbTeC PC videogame (2008-2009). See www.abtec.org/iif/index.php/outputs/output-1.
+Otsi:! Rise of the Kanien'kehá:ka Legends: An AbTeC PC videogame (2008-09). See www.abtec.org/iif/index.php/outputs/output-1.
 
 Oxford English Dictionary of National Biography: “[T]he national record of men and women who have shaped British history and culture, worldwide, from the Romans to the 21st century. The Dictionary offers concise, up-to-date biographies written by named, specialist authors.” See www.oxforddnb.com.
 
