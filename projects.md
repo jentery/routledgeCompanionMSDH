@@ -286,7 +286,7 @@ Fun with Software: “In the latest exhibition ‘Fun with Software’ at Bristo
 
 Future Everything: “[A]n award-winning innovation lab for digital culture and annual festival, established in Manchester in 1995.” See www.futureeverything.org.
 
-Game Changer Chicago Design Lab: “GCC develops serious games, interactive learning experiences, and digital media art with youth and for youth.” See ci3.uchicago.edu/labs/game-changer-chicago/.
+Game Changer Chicago Design Lab: “GCC develops serious games, interactive learning experiences, and digital media art with youth and for youth.” See ci3.uchicago.edu/labs/game-changer-chicago.
 
 Gamer Theory: “Together with the Institute for the Future of the Book, [McKenzie Wark] produced this website as a way to think about games.” See www.futureofthebook.org/gamertheory2.0.
 
@@ -618,7 +618,7 @@ Smart Citizen: “Connecting data, people and knowledge, the objective of the pl
 
 Smoke Dress: “A collaboration between fashiontech designer Anouk Wipprecht [NL] and technologist Aduen Darriba [NL]. The dress is a wireless and wearable tangible couture ‘smoke screen’ imbued with the ability to suddenly visually obliterate itself through the excretion of a cloud of smoke.” See www.youtube.com/watch?v=G-0lTP90hVc#.
 
-Smoke Stacks: A board game for youth from the Game Changer Chicago Design Lab that exposes the dangers of smoking. See www.ci3.uchicago.edu/gamechangerlab. 
+Smoke Stacks: A board game for youth from the Game Changer Chicago Design Lab that exposes the dangers of smoking. See ci3.uchicago.edu/labs/game-changer-chicago. 
 
 Social Edition of the Devonshire Manuscript: “The social edition is a work that brings communities together to engage in conversation around a text formed and reformed through an ongoing, iterative, public editorial process.” See en.wikibooks.org/wiki/The_Devonshire_Manuscript and www.dms.itercommunity.org.
 
