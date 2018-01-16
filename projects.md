@@ -712,7 +712,7 @@ Urban Armor: “[A]n artwork started by Kathleen McDermott, consisting of a seri
 
 Usenet: A non-centralized, worldwide computer network through which individuals share discussions and files. 
 
-Values & Value: A project “interested in what happens when economic value is accumulated from spheres previously considered non-economic, and the distortions and alterations in both economic and non-economic values this process creates.” See values.doc.gold.ac.uk.
+Values & Value: A project “interested in what happens when economic value is accumulated from spheres previously considered non-economic, and the distortions and alterations in both economic and non-economic values this process creates.” See [values.doc.gold.ac.uk](https://values.doc.gold.ac.uk).
 
 Values at Play: “Values at Play investigates how designers can be more intentional about the ways in which they integrate human values into their game-based systems.” See www.valuesatplay.org.
 
