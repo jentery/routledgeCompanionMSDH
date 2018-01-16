@@ -492,7 +492,7 @@ Occupy Wall Street: A protest movement “fighting back against the corrosive po
 
 Oculus Rift: A virtual reality headset that “radically redefines digital entertainment.” See www.oculus.com.
 
-OLPC XO laptop: “The XO is a potent learning tool designed and built especially for children in developing countries, living in some of the most remote environments. . . .  It has built-in wireless and a unique screen that is readable under direct sunlight for children who go to school outdoors.” See www.laptop.org/en/laptop.
+One Laptop Per Child XO laptop: “The XO is a potent learning tool designed and built especially for children in developing countries, living in some of the most remote environments. . . .  It has built-in wireless and a unique screen that is readable under direct sunlight for children who go to school outdoors.” See www.laptop.org/en/laptop.
 
 Open Calais: “[T]he easiest and most accurate way to tag the people, places, companies, facts, and events in your content to increase its value, accessibility and interoperability.” See www.opencalais.com.
 
