@@ -544,7 +544,7 @@ Project Tango: A technology platform developed by Google that enables mobile dev
 
 Prom Week: “Prom Week is a social simulation game being developed at the University of California at Santa Cruz . . . [that combines] the dynamic simulation of games like the Sims with the detailed characters and dialog of story driven games.” See www.promweek.soe.ucsc.edu.
 
-Protocols for Native American Archival Materials: A list of “best professional practices for culturally responsive care and use of American Indian archival material held by non-tribal organizations” See www2.nau.edu/libnap-p.
+Protocols for Native American Archival Materials: A list of “best professional practices for culturally responsive care and use of American Indian archival material held by non-tribal organizations.” See www2.nau.edu/libnap-p.
 
 Psy-Geo-Conflux: “[A]n annual event produced by Glowlab dedicated to current artistic and social investigations in psychogeography (the study of the effects of the geographic environment on the emotions and behavior of individuals).” See www.glowlab.blogs.com/psygeocon.
 
