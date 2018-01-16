@@ -418,7 +418,7 @@ Lightbox Gallery: “This inaugural Lightbox Navigation program features a visua
 
 Lightbox JS: By Lokesh Dhakar, “Lightbox is small javascript library used to overlay images on top of the current page.” See www.lokeshdhakar.com/projects/lightbox2.
 
-Lines and Nodes Symposium: A free event on September 19, 2014 hosted by the NYU Department of Media, Culture and Communication and Anthology Film Archives that brought “together artists and scholars to examine the mediated and aesthetic dimensions of extraction and infrastructure.” See www.ecoarttech.net/lines-and-nodes.
+Lines and Nodes Symposium: A free event on September 19, 2014, hosted by the NYU Department of Media, Culture and Communication and Anthology Film Archives that brought “together artists and scholars to examine the mediated and aesthetic dimensions of extraction and infrastructure.” See www.ecoarttech.net/lines-and-nodes.
 
 Lisp: A high-level computer programming language, designed in 1958.
 
