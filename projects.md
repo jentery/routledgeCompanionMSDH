@@ -514,15 +514,15 @@ Patchwork Girl: A work of electronic literature by American author Shelley Jacks
 
 Pathfinders: “‘Pathfinders:  Documenting the Experience of Early Digital Literature,’ led by Dene Grigar (Washington State University Vancouver) and Stuart Moulthrop (University of Wisconsin-Milwaukee), is a digital preservation project that captures an important moment in literary history: the development of early digital literature.” See www.dtc-wsuv.org/wp/pathfinders.
 
-Pathfinders Book: A multimedia, open-source book published June 2015 that “begins the necessary process of documenting early digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.” See [scalar.usc.edu/works/pathfinders/index](http://scalar.usc.edu/works/pathfinders/index).
+Pathfinders Book: A multimedia, open-source book published in June 2015 that “begins the necessary process of documenting early digital literature, specifically pre-web hypertext fiction and poetry, from 1986-1995.” See [scalar.usc.edu/works/pathfinders/index](http://scalar.usc.edu/works/pathfinders/index).
 
 PeaceMaker: A game “inspired by real events in the Israeli-Palestinian conflict.” See www.peacemakergame.com.
 
 Perl: “Perl 5 is a highly capable, feature-rich programming language with over 29 years of development.” See www.perl.org.
 
-PHP: Hypertext Preprocessor (PHP) is an open source general-purpose programming language designed for web development by Rasmus Lerdorf in 1994.
+PHP: Hypertext Preprocessor (PHP) is an open-source, general-purpose programming language designed for web development by Rasmus Lerdorf in 1994.
 
-*The Plateau Peoples’ Web Portal: “[A] gateway to Plateau peoples’ cultural materials held in multiple repositories including WSU’s Manuscripts, Archives and Special Collections, the Northwest Museum of Art and Culture, the National Anthropological Archives and the National Museum of the American Indian at the Smithsonian Institution.” See http://plateauportal.libraries.wsu.edu/.*
+The Plateau Peoples’ Web Portal: “[A] gateway to Plateau peoples’ cultural materials held in multiple repositories including WSU’s Manuscripts, Archives and Special Collections, the Northwest Museum of Art and Culture, the National Anthropological Archives and the National Museum of the American Indian at the Smithsonian Institution.” See [plateauportal.wsulibs.wsu.edu](https://plateauportal.libraries.wsu.edu/).
 
 Play the Past: “[A] student-directed field trip experience supported by technology. Students use iPods to explore the Then Now Wow exhibit.” See www.education.mnhs.org/playthepast.
 
