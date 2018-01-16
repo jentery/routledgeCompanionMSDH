@@ -568,7 +568,7 @@ Reacting to the Past: A series of “games, set in the past, in which students a
 
 Reading Project: A Collaborative Analysis of William Poundstone’s Project for Tachistoscope {Bottomless Pit}: “[A] collaboration between three scholars combining different interpretive methods of digital literature and poetics in order to think through how critical reading is changing—and, indeed, must change—to keep up with the emergence of digital poetics and practices.” See [scalar.usc.edu/aclsworkbench/reading-project/index](http://scalar.usc.edu/aclsworkbench/reading-project/index).
 
-Real Computer Music: “Some sort of computer music without any proper composer. Computer music as a side effect of computation.” See www.algorhythmics.ixdm.ch/?p=38.
+Real Computer Music: “Some sort of computer music without any proper composer. Computer music as a side effect of computation.” See sourceforge.net/projects/algorhythmics.
 
 reddit: “Reddit bridges communities and individuals with ideas, the latest digital trends, and breaking news (…okay, and maybe cats). Our mission is to help people discover places where they can be their true selves, and empower our community to flourish.” See www.reddit.com.
 
