@@ -696,8 +696,6 @@ twarc: “[A] command line tool and Python library for archiving Twitter JSON da
 
 Twine: Originally created by Chris Klimas in 2009, “Twine is an open-source tool for telling interactive, nonlinear stories.” See www.twinery.org.
 
-TXT: A computer file extension for a text file, used by a variety of text editors. 
-
 Uncle Buddy’s Phantom Funhouse: A hypermedia novel by John G. McDaid (1992) consisting of floppy disks and audio cassettes. See www.eastgate.com/catalog/Funhouse.html.
 
 Uncle Roger: “Intertwining elements of magic realism with Silicon Valley culture, semiconductor industry lore, and early word processing, Uncle Roger is a pioneering work of hypertext narrative poetry [by Judy Mallow] that was first published beginning in 1986 on Art Com Electronic Network on the WELL.” See www.well.com/user/jmalloy/uncleroger/partytop.html.
