@@ -768,7 +768,7 @@ World Wide Web / Million Man March: An interactive CD-ROM by Reginald Woolery th
 
 xxn: Jonathan Kemp. See www.xxn.org.uk.
 
-YoHa: A partnership between Graham Harwood and Matsuko Yokokoji (est. 1994) who co-founded the artists group Mongrel (1996-2007) and established the Mediashed, a free-media lab in Southend-on-sea (2005-2008). See www.yoha.co.uk.
+YoHa: A partnership between Graham Harwood and Matsuko Yokokoji (est. 1994) who co-founded the artists group Mongrel (1996-2007) and established the Mediashed, a free-media lab in Southend-on-sea (2005-08). See www.yoha.co.uk.
 
 Young Hae Chang Heavy Industries: A Seoul-based Web art group. See www.yhchang.com. 
 
