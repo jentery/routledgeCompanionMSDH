@@ -508,7 +508,7 @@ Oxford English Dictionary of National Biography: “[T]he national record of men
 
 Papers, Please: A videogame about totalitarian government by Lucas Pope, developed and published under his pseudonym 3909. See www.papersplea.se.
 
-Participatory Culture Foundation: “A 501c3 non-profit organization, working to build a more open, collaborative world by “creating open and decentralized video tools and services.” See www.pculture.org.
+Participatory Culture Foundation: "A 501c3 non-profit organization, working to build a more open, collaborative world" by "creating open and decentralized video tools and services." See www.pculture.org.
 
 Patchwork Girl: A work of electronic literature by American author Shelley Jackson written in Storyspace and published by Eastgate Systems in 1995. See www.eastgate.com/catalog/PatchworkGirl.html.
 
