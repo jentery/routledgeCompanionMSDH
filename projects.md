@@ -552,7 +552,7 @@ Puppet Motel: An interactive CD-ROM by Laurie Anderson and Hsin-Chien Huang (199
 
 Python: An open programming language developed by Guido van Rossum. See www.python.org.
 
-قلب (Qalb): “[A] programming language exploring the role of human culture in coding. Code is written entirely in Arabic, highlighting cultural biases of computer science and challenging the assumptions we make about programming. It is implemented as a tree-walking language interpreter in JavsScript.” See www.nas.sr/%D9%82%D9%84%D8%A8.
+قلب (Qalb): “[A] programming language exploring the role of human culture in coding. Code is written entirely in Arabic, highlighting cultural biases of computer science and challenging the assumptions we make about programming. It is implemented as a tree-walking language interpreter in JavaScript.” See www.nas.sr/%D9%82%D9%84%D8%A8.
 
 QGIS: “[T]he best GIS tool in the free and open-source software (FOSS) community. QGIS is a user friendly Open Source Geographic Information System (GIS) licensed under the GNU General Public License.” See www.qgis.org/en/site.
 
@@ -560,7 +560,7 @@ Quantified Self: Self Knowledge through Numbers: “Quantified Self Labs is a Ca
 
 Queer Technologies: “[A]n organization that produces critical applications, tools, and situations for queer technological agency, interventions, and sociality.” See www.zachblas.info/works/queer-technologies.
 
-Queers in Love at the End of the World: A piece of hypertext fiction by Anna Anthropy (2013), built with interactive fiction tool, Twine. See www.auntiepixelante.com/endoftheworld.
+Queers in Love at the End of the World: A piece of hypertext fiction by Anna Anthropy (2013), built with the interactive fiction tool, Twine. See www.auntiepixelante.com/endoftheworld.
 
 Raspberry Pi: “The Raspberry Pi is a credit card-sized computer that plugs into your TV and a keyboard. It is a capable little computer which can be used in electronics projects, and for many of the things that your desktop PC does, like spreadsheets, word processing, browsing the internet, and playing games.” See www.raspberrypi.org.
 
