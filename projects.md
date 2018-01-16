@@ -82,7 +82,7 @@ Around DH in 80 Days: “[A] multi-institutional, interdisciplinary Digital Huma
 
 artintact: “From 1994 to 1999, the Center for Art and Media in Karlsruhe presented pioneering works of interactive media art in the book-with-CD-ROM package entitled artintact.” See www.on1.zkm.de/zkm/e/projekte/artintact_dvd.
 
-Assassin’s Creed: An action-adventure video game series created by Ubisoft.
+Assassin’s Creed: An action-adventure videogame series created by Ubisoft.
 
 Augmented Reality Lab: “Situated in the Faculty of Fine Arts [at York University], the Augmented Reality Lab offers researchers the opportunity to explore new screen technologies, approaches and techniques through both production and theoretical study of this emerging medium.” See www.ar.lab.yorku.ca.
 
