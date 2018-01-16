@@ -440,7 +440,7 @@ Marky: “[A] Web-based multi-purpose annotation tool. With this annotation tool
 
 Marvel Unlimited: Marvel Unlimited is an online service by Marvel Comics that grants members “instant access to over 17,000 Marvel Comics.” See www.marvel.com/comics/unlimited.
 
-Maryland Institute for Technology in the Humanities: Jointly supported by the University of Maryland College of Arts and Humanities and the University of Maryland Libraries, “(MITH) is a leading digital humanities center that pursues disciplinary innovation and institutional transformation through applied research, public programming, and educational opportunities.” See www.mith.umd.edu.
+Maryland Institute for Technology in the Humanities: Jointly supported by the University of Maryland College of Arts and Humanities and the University of Maryland Libraries, MITH "is a leading digital humanities center that pursues disciplinary innovation and institutional transformation through applied research, public programming, and educational opportunities.” See www.mith.umd.edu.
 
 Material Beliefs: Based at the Interaction research Studio in the Department of Design at Goldsmiths, University of London, “Material Beliefs takes emerging biomedical and cybernetic technology out of labs and into public spaces.” See www.materialbeliefs.co.uk/people.
 
