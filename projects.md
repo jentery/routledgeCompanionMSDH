@@ -764,7 +764,7 @@ Women Who Rock Oral History Archive: “The Women Who Rock Digital Oral History 
 
 WordPress: “[W]eb software you can use to create a beautiful website, blog, or app. . . . The core software is built by hundreds of community volunteers, and when you’re ready for more there are thousands of plugins and themes available to transform your site into almost anything you can imagine.” See www.wordpress.org.
 
-World Wide Web / Million Man March: An interactive CD-ROM that “suggests the fluidity of ‘race and place’ at play, yet denied, in contemporary dialogues centering on technology and emergent social bodies.” See www.vdb.org/titles/world-wide-webmillion-man-march.
+World Wide Web / Million Man March: An interactive CD-ROM by Reginald Woolery that “suggests the fluidity of ‘race and place’ at play, yet denied, in contemporary dialogues centering on technology and emergent social bodies.” See www.vdb.org/titles/world-wide-webmillion-man-march.
 
 xxn: Jonathan Kemp. See www.xxn.org.uk.
 
