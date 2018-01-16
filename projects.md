@@ -104,9 +104,9 @@ Bikes and Bloomers: An interdisciplinary research project led by Kat Jungnickel 
 
 BioShock: A first-person shooter videogame series designed by Ken Levine and developed by Irrational Games. See www.2kgames.com/bioshock.
 
-Blackfoot Digital Library: “[A] venue for sharing [Blackfoot family and community] stories, past and present. Most certainly it is intended to be an educational resource for all those now living in kitawahsinnoon.” See www.blackfootdigitallibrary.com.
-
 Black Girls Code: A nonprofit organization; “By reaching out to the community through workshops and after school programs, Black Girls CODE introduces computer coding lessons to young girls from underrepresented communities in programming languages such as Scratch or Ruby on Rails.” See www.blackgirlscode.com.
+
+Blackfoot Digital Library: “[A] venue for sharing [Blackfoot family and community] stories, past and present. Most certainly it is intended to be an educational resource for all those now living in kitawahsinnoon.” See www.blackfootdigitallibrary.com.
 
 Bodyfuck: An adaptation of the Brainfuck programming language by Nik Hanselmann “that uses a camera as input.” See www.nik.works/project/bodyfuck.
 
