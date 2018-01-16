@@ -656,7 +656,7 @@ Storyspace: “Storyspace is a hypertext writing environment, especially well su
 
 Streetmuseum: “Hundreds of images from the Museum of London’s extensive collections showcase both everyday and momentous occasions in London’s history, from the Great Fire of 1666 to the swinging sixties.” See www.museumoflondon.org.uk/Resources/app/you-are-here-app/home.html.
 
-Sylvia Rivera Law Project: “SRLP is a collective organization founded on the understanding that gender self-determination is inextricably intertwined with racial, social and economic justice. Therefore, we seek to increase the political voice and visibility of low-income people and people of color who are transgender, intersex, or gender non-conforming.” See www.srlp.org.
+Sylvia Rivera Law Project (SRLP): “SRLP is a collective organization founded on the understanding that gender self-determination is inextricably intertwined with racial, social and economic justice. Therefore, we seek to increase the political voice and visibility of low-income people and people of color who are transgender, intersex, or gender non-conforming.” See www.srlp.org.
 
 Tale-Spin: A piece of digital literature by James Meehan (1976). No known copy of the text’s code exists today. See www.grandtextauto.soe.ucsc.edu/2006/09/13/the-story-of-meehans-tale-spin.
 
