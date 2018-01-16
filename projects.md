@@ -130,9 +130,9 @@ Canadian Women in the Literary Arts (CWILA): “[A]n inclusive national literary
 
 Center for Solutions to Online Violence: “[A] virtual hub for a distributed community working to address the myriad forms of violence drive designed to women offline.” See www.sites.google.com/a/asu.edu/center-for-solutions-to-online-violence.
 
-Charleston Syllabus: “[A] a list of readings that educators can use to broach conversations in the classroom about the horrendous events that unfolded in Charleston, South Carolina on the evening of June 17, 2015.” See www.aaihs.org/resources/charlestonsyllabus.
-
 Chaos Cinema: A video essay by Matthias Stork that chronicles “[t]he decline and fall of action filmmaking.” See www.video-cdn.indiewire.com/previews/0wKZtpxn-PbCxl3wn.
+
+Charleston Syllabus: “[A] a list of readings that educators can use to broach conversations in the classroom about the horrendous events that unfolded in Charleston, South Carolina on the evening of June 17, 2015.” See www.aaihs.org/resources/charlestonsyllabus.
 
 Chicana por mi Raza: Uncovering the Hidden History of Chicana Feminism (1965-1985): "[A] public humanities project centered on the collection and digital preservation of archival materials, ephemera, and oral histories that document the development of Chicana feminist thought during the civil rights era.” See www.chicanapormiraza.org. 
 
