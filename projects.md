@@ -432,7 +432,7 @@ Made with Code: An initiative launched by Google to increase the representation 
 
 Magic Clock: Open source code, hardware, and tutorials that enable people to create a clock that reveals their contacts’ locations. See www.magicclock.de.
 
-Maker Lab in the Humanities: Based out of the University of Victoria, under the direction of Jentery Sayers, “with research priority areas in physical computing, digital fabrication, and multisite exhibits, the MLab intersects cultural criticism with experimental prototyping and electronics.” See www.maker.uvic.ca.
+Maker Lab in the Humanities (MLab): Based at the University of Victoria, under the direction of Jentery Sayers, “with research priority areas in physical computing, digital fabrication, and multisite exhibits, the MLab intersects cultural criticism with experimental prototyping and electronics.” See www.maker.uvic.ca.
 
 Manifest.AR: “Manifest.AR is an international artists’ collective working with emergent forms of augmented reality as interventionist public art.” See www.manifestarblog.wordpress.com.
 
