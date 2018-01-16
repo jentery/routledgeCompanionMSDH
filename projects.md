@@ -444,7 +444,7 @@ Maryland Institute for Technology in the Humanities: Jointly supported by the Un
 
 Material Beliefs: Based at the Interaction Research Studio in the Department of Design at Goldsmiths, University of London, “Material Beliefs takes emerging biomedical and cybernetic technology out of labs and into public spaces.” See www.materialbeliefs.co.uk/people.
 
-Mauve Desert: “[A] CD-ROM Translation of Nicole Brossard’s experimental novel Le Desert mauve.” See www.adrienejenik.net/mauvedesert.html.
+Mauve Desert: “[A] CD-ROM Translation of Nicole Brossard’s experimental novel Le désert mauve.” See www.adrienejenik.net/mauvedesert.html.
 
 The Media Ecology Project: “[P]rovides online access to primary moving image research materials, and engages dynamic new forms of scholarly production and online publishing.” See www.sites.dartmouth.edu/mediaecology.
 
@@ -470,7 +470,7 @@ Museum Without Walls: “[A] digital National Gallery of art and architecture in
 
 Music, Language and Environment: An album by David Dunn (1996). See www.davidddunn.com/~david/HOME.htm.
 
-Musqueam Place Names Web Mapping Portal: “Here you find information on Musqueam Place Names, hear audio of our hən̓q̓əmin̓əm̓ən̓q̓əmin̓əm heMusqueam elders past and present, view historical photographs and see where they are located.” See www.musqueam.bc.ca/musqueam-our-history-web-map.
+Musqueam Place Names Web Mapping Portal: “Here you find information on Musqueam Place Names, hear audio of our hən̓q̓əmin̓əm̓ən̓q̓əmin̓əm language from Musqueam elders past and present, view historical photographs and see where they are located.” See www.musqueam.bc.ca/musqueam-our-history-web-map.
 
 Mutant Giant Spider Dog: A viral YouTube video posted by Slywester Wardega (2014). See www.youtube.com/watch?v=YoB8t0B4jx4.
 
