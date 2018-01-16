@@ -58,9 +58,9 @@ CSS: Cascading Style Sheets
 
 CSV: comma-separated values
 
-CWILA: Canadian Women in the Literary Arts
-
 CVR: cockpit voice recorder
+
+CWILA: Canadian Women in the Literary Arts
 
 DAW: digital audio workstation
 
