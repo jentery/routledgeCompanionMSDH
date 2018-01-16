@@ -246,9 +246,9 @@ ELIZA: A natural language processing program designed to mimic human interaction
 
 Esolang: “This wiki is dedicated to the fostering and documentation of programming languages designed to be unique, difficult to program in, or just plain weird.” See www.esolangs.org/wiki/Main_Page.
 
-Evoke: A free, ten-week, social network game designed “to help empower people all over the world to come up with creative solutions to our most urgent social problems.” See www.urgentevoke.com.
-
 Ev-ent-anglement: “[A]n experiment in digital embodied collective feminist media praxis. . . We use performance and technology to further entangle events and communities outside the logics of buying and selling.” See www.ev-ent-anglement.com.
+
+Evoke: A free, ten-week, social network game designed “to help empower people all over the world to come up with creative solutions to our most urgent social problems.” See www.urgentevoke.com.
 
 Facebook: A for-profit corporation and online social networking service. See www.facebook.com.
 
