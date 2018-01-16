@@ -610,7 +610,7 @@ Skins Video Game Workshops: “Skins is a series of digital-media workshops for 
 
 Slashdot: “[A] website based on and running the Slashdot-Like Automated Story-Telling Homepage software.” See www.slashdot.org.
 
-Slow Reading: A manifesto by Antonio Tombolini on the practice of slow reading, which, he argues, faces extinction with the advent of digital. See www.slowreading.org. 
+Slow Reading: A manifesto by Antonio Tombolini on the practice of slow reading, which, he argues, faces extinction with the advent of digital media. See www.slowreading.org. 
 
 Small Dance: A film featuring Steve Paxton, shot and directed by Olive Bieringa (2010). See www.vimeo.com/19001115.
 
