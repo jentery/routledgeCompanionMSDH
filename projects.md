@@ -748,7 +748,7 @@ We Sing for Healing: “[A] musical text adventure game made from a place where 
 
 Weasley-o-Meter: A tutorial to make a Weasley-o-Meter, featuring a Spark Core and Internet Button, “inspired by the clock in the Weasley house that is seen in the second Harry Potter.” See www.instructables.com/id/Weasley-o-Meter/?ALLSTEPS.
 
-Web Accessibility in Mind: A non-profit organization based at the Center for Persons with Disabilities at Utah State University, “WebAIM (Web Accessibility In Mind) has provided comprehensive web accessibility solutions since 1999.” See www.webaim.org.
+Web Accessibility in Mind (WebAIM): A non-profit organization based at the Center for Persons with Disabilities at Utah State University, “WebAIM (Web Accessibility In Mind) has provided comprehensive web accessibility solutions since 1999.” See www.webaim.org.
 
 The WELL: “The WELL, launched back in 1985 as the Whole Earth 'Lectronic Link, continues to provide a cherished watering hole for articulate and playful thinkers from all walks of life.” See www.well.com.
 
