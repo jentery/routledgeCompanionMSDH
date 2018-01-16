@@ -570,7 +570,7 @@ Reading Project: A Collaborative Analysis of William Poundstone’s Project for 
 
 Real Computer Music: “Some sort of computer music without any proper composer. Computer music as a side effect of computation.” See sourceforge.net/projects/algorhythmics.
 
-reddit: “Reddit bridges communities and individuals with ideas, the latest digital trends, and breaking news (…okay, and maybe cats). Our mission is to help people discover places where they can be their true selves, and empower our community to flourish.” See www.reddit.com.
+Reddit: “Reddit bridges communities and individuals with ideas, the latest digital trends, and breaking news (…okay, and maybe cats). Our mission is to help people discover places where they can be their true selves, and empower our community to flourish.” See www.reddit.com.
 
 Redshift & Portalmetal: A game by micha cárdenas with sound by Bobby Bray that “uses space travel as a lens through which to understand the experience of migration and settlement for a trans woman of color.” See www.faculty.washington.edu/michamc/redshift-and-portalmetal.
 
@@ -630,7 +630,7 @@ Software Studies Initiative: “[A] research lab and a design studio working on 
 
 Solr: An open source search platform that “is highly reliable, scalable and fault tolerant, providing distributed indexing, replication and load-balanced querying, automated failover and recovery, centralized configuration and more.” See www.lucene.apache.org/solr.
 
-Soul Rebel Radio: “[A] cutting edge youth based radio program hitting on topics as well as current events through comedy, youth voices, and interviews.” See www.kpfk.org/programs/105-soulrebelradio/127-srr-info-page#.V3GcDJMrIzI.
+Soul Rebel Radio: “[A] cutting edge youth based radio program hitting on topics as well as current events through comedy, youth voices, and interviews.” See www.kpfk.org.
 
 Sound Characters: An album by electronic musician Marianne Amacher (1999). See www.tzadik.com/volume.php?VolumeID=42.
 
