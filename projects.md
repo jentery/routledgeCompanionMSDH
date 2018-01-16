@@ -526,7 +526,7 @@ The Plateau Peoples’ Web Portal: “[A] gateway to Plateau peoples’ cultural
 
 Play the Past: “[A] student-directed field trip experience supported by technology. Students use iPods to explore the Then Now Wow exhibit.” See www.education.mnhs.org/playthepast.
 
-Play Your Place: An online game designed by Ruth Catlow and Mary Flanagan. “The free software, that enables anyone to draw, make and play their own platform game levels, developed with Soda was first published to Github October 2013.” See www.localplay.org.uk.
+Play Your Place: An online game designed by Ruth Catlow and Mary Flanagan. “The free software, that enables anyone to draw, make and play their own platform game levels, developed with Soda was first published to Github [in] October 2013.” See www.localplay.org.uk.
 
 Political TV Ad Archive: “This site provides a searchable, viewable, and shareable online archive of 2016 political TV ads, married with fact-checking and reporting citizens can trust.” See www.politicaladarchive.org.
 
