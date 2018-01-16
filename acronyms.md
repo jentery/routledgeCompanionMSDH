@@ -282,13 +282,13 @@ SGML: Standard Generalized Markup Language
 
 SIM: subscriber identity module
 
-SRLP: Sylvia Rivera Law Project
+SQL: structured query language
 
-SSHRC: Social Sciences and Humanities Research Council of Canada
+SRLP: Sylvia Rivera Law Project
 
 SRR: Soul Rebel Radio 
 
-SQL: structured query language
+SSHRC: Social Sciences and Humanities Research Council of Canada
 
 STEAM: science, technology, engineering, arts, and mathematics
 
