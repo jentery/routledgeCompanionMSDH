@@ -46,8 +46,8 @@ Ultimately, the methods and methodologies presented here do not cohere into an e
 * Barad, K. (2007) *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*, Durham, NC: Duke University Press.  
 * Bolter, J. D. and R. Grusin (1998) *Remediation: Understanding New Media*, Cambridge, MA: The MIT Press. 
 * Chun, W.H.K. (2005) “Introduction: Did Somebody Say New Media?” in W.H.K. Chun and T. Keenan (eds.) *New Media, Old Media: A History and Theory Reader*, New York: Routledge, pp. 1-10. 
-* Davidson, C. (2011) “‘Difference Is Our Operating System’—Fiona Barnett,” HASTAC, https://www.hastac.org/blogs/cathy-davidson/2011/08/03/difference-our-operating-system-fiona-barnett. 
+* Davidson, C. (2011) “‘Difference Is Our Operating System’—Fiona Barnett,” HASTAC, www.hastac.org/blogs/cathy-davidson/2011/08/03/difference-our-operating-system-fiona-barnett. 
 * Haraway, D. (1988) “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective,” *Feminist Studies* 14(3), 575-599.  
 * Manovich, L. (2001) *The Language of New Media*, Cambridge, MA: The MIT Press.   
-* McPherson, T. (2009) “Introduction: Media and the Digital Humanities,” *Cinema Journal* 48(2), 119-123.   
+* McPherson, T. (2009) “Introduction: Media Studies and the Digital Humanities,” *Cinema Journal* 48(2), 119-123.   
 * Mitchell, W.J.T. (2008) “Addressing Media,” *Media Tropes* 1(1), 1-18. 
