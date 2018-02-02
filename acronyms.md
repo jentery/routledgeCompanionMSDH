@@ -212,6 +212,8 @@ MRI: magnetic resonance imaging
 
 MUD: multi-user dungeon, multi-user dimension, and multi-user domain
 
+MUFC: Mandela United Football Club 
+
 NEH: National Endowment for the Humanities
 
 NER: named entity recognition
