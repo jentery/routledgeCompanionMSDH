@@ -318,6 +318,8 @@ THATCamp: The Humanities And Technology Camp
 
 TOS: terms of service
 
+TRC: Truth and Reconciliation Commission
+
 TV: television
 
 TXT: a filename extension for text files
