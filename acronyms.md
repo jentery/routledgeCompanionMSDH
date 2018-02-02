@@ -282,6 +282,8 @@ SGML: Standard Generalized Markup Language
 
 SIM: subscriber identity module
 
+Soweto: SOuth WEstern TOwnships 
+
 SQL: structured query language
 
 SRLP: Sylvia Rivera Law Project
