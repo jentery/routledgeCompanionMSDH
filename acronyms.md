@@ -280,6 +280,8 @@ SES: scaled entity search
 
 SGML: Standard Generalized Markup Language
 
+SHGIS: Soweto Historical Geographic Information 
+
 SIM: subscriber identity module
 
 Soweto: SOuth WEstern TOwnships 
