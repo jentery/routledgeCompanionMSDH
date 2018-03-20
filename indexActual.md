@@ -330,7 +330,7 @@ Braxton, Anthony 239
 
 Brice, Mattie 119, 122
 
-Bridle, James 277, 428, 430 *see also Hyper-Stacks *
+Bridle, James 277, 428, 430 *see also Hyper-Stacks*
 
 Brings Plenty, Trevino 128, 134
 
