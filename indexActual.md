@@ -1733,7 +1733,7 @@ Pickles, John 378
 
 Pinterest 24, 26, 28
 
-Piper, Adrien 322–3 *see also Probable Trust Registry *
+Piper, Adrien 322–3 *see also Probable Trust Registry*
 
 The Plateau Peoples’ Web Portal (online archive) 408–11
 
