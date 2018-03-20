@@ -1160,8 +1160,6 @@ Juhasz, Alexandra 15, 53, 105, 294; *Learning from YouTube* (video-book*)* 18, 1
 
 Kafer, Alison 109
 
-Kahn, Zorina 499
-
 *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 10
 
 Kane, Shanley 61
@@ -1187,6 +1185,8 @@ Kent, Mike 110; *Disability and New Media* 110
 Ketchum, Karyl 123
 
 *KeyWorx* (software) 276
+
+Khan, B. Zorina 499
 
 KidCAD (project) 513
 
