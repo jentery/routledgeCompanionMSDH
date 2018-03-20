@@ -1426,8 +1426,7 @@ Massey, Doreen 216–7
 
 Massey, Sharon Davis 88
 
-Massive Open Online Course (MOOC) 15, 155, 449 *see also* Distributed
-Open Collaborative Course
+Massive Open Online Course (MOOC) 15, 155, 449 *see also* Distributed Open Collaborative Course
 
 Massumi, Brian 278
 
@@ -2114,8 +2113,7 @@ Survivance 128, 129, 132, 136
 
 Tate, Jamie 238
 
-Taussig, Michael 511, 517; theory of magic 511, 517 *see also* Mimetic
-machines
+Taussig, Michael 511, 517; theory of magic 511, 517 *see also* Mimetic machines
 
 Taylor, T.L. 101
 
