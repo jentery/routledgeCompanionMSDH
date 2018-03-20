@@ -1,4 +1,4 @@
-# Index for *The Routledge Companion to Media Studies and Digital Humanities* 
+# Index for *The Routledge Companion to Media Studies and Digital Humanities* (DRAFT) 
 
 Compiled with Allison Murphy (UVic English) 
 
