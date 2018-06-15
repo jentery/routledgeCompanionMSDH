@@ -1,4 +1,4 @@
-# The Routledge Companion to Media Studies and Digital Humanities (DRAFT)
+# The Routledge Companion to Media Studies and Digital Humanities 
 
 A collection of introductory essays edited by Jentery Sayers (University of Victoria) 
 
@@ -62,7 +62,7 @@ Chapter 9. "Wear and Care: Feminisms at a Long Maker Table," by Jacque Wernimont
 
 > With the rise of popularity in hacker/makerspaces has come an old reproduction of inequality at the sites of innovation and education in which women, people of color, middle-aged and elderly citizens, queer and genderqueer people, and people with disabilities are affectively and/or economically excluded. This chapter leverages pedagogical case studies, including our summer course, Feminist Digital Humanities: Theoretical, Social, and Material Engagements around Making and Breaking Computational Media, to sketch out a vision of a "long maker table" that draws on the feminist performance art tradition to break into and break open makerspaces that have been traditionally coded as white, affluent, masculine spaces.
 
-Chapter 10. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor (Indiana University, Bloomington)
+Chapter 10. "A Glitch in the Tower: Academia, Disability, and Digital Humanities," by Elizabeth Ellcessor (University of Virginia)
 
 > Disability poses a challenge to academic uses of digital media technologies. It is a "glitch," a moment in which things do not work as they should, as is often the case when digital media are inaccessible to disabled people. This chapter begins with that "glitch," asking how it might cause us to reflect on the ways in which technological design privileges and excludes different people. Using literature on disability and digital media and drawing on universal design for learning, the chapter proposes three avenues by which digital humanities may promote inclusive academic environments: humanistic analysis, critically engaged praxis, and direct advocacy.
 
@@ -130,7 +130,7 @@ Chapter 24. "Software Studies Methods," by Matthew Fuller (Goldsmiths, Universit
 
 > This chapter provides a short overview of some of the conceptual and practical methods developed in the interdisciplinary field of software studies. After assessing some of the contexts in which software studies arose, it briefly reviews technical, cultural, theoretical, and artistic means of understanding the nature of computational structures and processes and their role in the constitution of contemporary forms of life. It also addresses some of the controversies, points of differentiation, and critical articulations in the field as well as examples of key methodological tendencies. 
 
-Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic (DDB Canada) and Shaun Macpherson (Crow Computing) 
+Chapter 25. "Physical Computing, Embodied Practice," by Nina Belojevic and Shaun Macpherson  
 
 > Physical computing is broadly defined as the practice of combining hardware design with computer programming to create networked, interactive devices and environments. Most often associated with increasingly popular "maker cultures," it constructs interfaces between computers and bodies beyond the screen, mouse, and keyboard, which are most often associated with human-computer interaction (HCI). Since physical computing is an inherently embodied practice, it encourages practitioners to apply a reciprocal methodology whereby hands-on exploration is combined with the development of new discourses. This chapter explores physical computing and its potential application in critical studies of media, technology, and other scholarly inquiries via a brief introduction to the histories, practices, and effects that computers have on culture, society, and the physical world. 
 
