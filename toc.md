@@ -236,7 +236,7 @@ Chapter 48. "Reading Culture through Code," by Mark C. Marino (University of Sou
 
 > The analysis of source code is an emerging approach to interpreting digital texts. This chapter introduces the methodologies of Critical Code Studies (CCS), situates it within the landscape of media and technology studies, and models the interpretive practices through a few case studies to demonstrate how understanding source code can enrich readings of technoculture through electronic texts. 
 
-Chapter 49. "Critical Unmaking: Toward a Queer Computation," by Jacob Gaboury (University of California, Berkeley)[open access](https://escholarship.org/uc/item/0cq870wh) 
+Chapter 49. "Critical Unmaking: Toward a Queer Computation," by Jacob Gaboury (University of California, Berkeley) [open access](https://escholarship.org/uc/item/0cq870wh) 
 
 > This essay explores the intersection of queer theory and critical practices in digital humanities, offering up a critique of our impulse toward productivity and making through an engagement with critical practices of unmaking. Engaging with queer discourses on the politics of failure alongside tactical and artistic practices in glitch studies, computer history, and critical code studies, the essay looks to model various modes of working with digital technologies to critique the ideological and technological assumptions that structure them. In acknowledging the challenge of making queer bodies, identities, and theories legible to digital media, the essay calls for further experimentation by scholars, artists, and students of digital humanities to think technology, sexuality, and identity together.
 
