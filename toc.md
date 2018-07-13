@@ -148,11 +148,11 @@ Chapter 28. "From 'Live' to Real Time: On Future Television Studies," by Mark J.
 
 > This chapter surveys critical constructs and methodological differences within television studies as they relate to the challenges and opportunities posited by digital media and technologies. A key arc of consideration is the seemingly linear and arguably triumphalist progression from "live" to "real time," provisionally an arc from analog media to digital media. The chapter concludes with some example projects that combine television studies with approaches to streaming media and online participation.  
 
-Chapter 29. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) 
+Chapter 29. "ICYMI: Catching Up to the Moving Image Online," by Gregory Zinman (Georgia Institute of Technology) [open access](https://smartech.gatech.edu/handle/1853/59730)
 
 > The ever-increasing scale of online video offers both a challenge and opportunity to scholars and students of the moving image. How can we make sense of so much material, and how does online video shape our understanding of the history and theory of the moving image? This chapter sets out three conceptual rubrics to help us think through online video: viewing, content, and genre. An accounting of the developing relationships between viewers and producers, individuals and communities, humans and technology, and industry and consumers allows for a new understanding of how the moving image is changing in the 21st century.
 
-Chapter 30. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn (University of Southern California) [open access](https://smartech.gatech.edu/handle/1853/59730) 
+Chapter 30. "Images on the Move: Analytics for a Mixed Methods Approach," by Virginia Kuhn (University of Southern California) [open access](https://www.academia.edu/36670942/Chapter_30_Images_on_the_Move_Analytics_for_a_Mixed_Methods_Approach) 
 
 > This chapter argues for a mixed methods approach to research with moving image media. Given the medium's complexity and its increasing ubiquity, some form of computational analysis is necessary, not to replace other forms of humanities-based inquiry, but rather to extend and enhance these methods. Noting that, to date, tools developed for this purpose have focused either on textual tagging and annotation or on image processing, the author suggests combining the two processes to render video archives discoverable and searchable. The chapter ends with a brief survey of some nascent but compelling research that combines neuroscience and cinema studies.
 
