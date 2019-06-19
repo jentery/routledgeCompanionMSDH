@@ -68,7 +68,7 @@ Chapter 10. "A Glitch in the Tower: Academia, Disability, and Digital Humanities
 
 > Disability poses a challenge to academic uses of digital media technologies. It is a "glitch," a moment in which things do not work as they should, as is often the case when digital media are inaccessible to disabled people. This chapter begins with that "glitch," asking how it might cause us to reflect on the ways in which technological design privileges and excludes different people. Using literature on disability and digital media and drawing on universal design for learning, the chapter proposes three avenues by which digital humanities may promote inclusive academic environments: humanistic analysis, critically engaged praxis, and direct advocacy.
 
-Chapter 11. "Games Studies for Great Justice," by Amanda Phillips (Georgetown University) 
+Chapter 11. "Games Studies for Great Justice," by Amanda Phillips (Georgetown University) [open access](https://repository.library.georgetown.edu/handle/10822/1051500) 
 
 > In the age of GamerGate, the "social justice warrior" has become a polarizing figure in gaming culture: a hero to some (who might prefer job classes like wizard or rogue instead), but an emblem of all that is wrong with political correctness to others. Videogames may seem a trivial object for those concerned with something so grand as cultural equity, but they are an increasingly important component of the media landscapes that shape the world around us. There are many disciplinary strategies for seeking justice, and the popular turmoil around videogames and social justice demands more attention and resources. This chapter offers five concrete suggestions for game studies academics to leverage their work for the greater good.
 
